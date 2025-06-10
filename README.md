@@ -1,5 +1,5 @@
 # Red Wine Preferences Analyst
-'''
+```
 Table of Contents
 + [Project Overview](#project-overview)
 + [Project Goals](#project-goals)
@@ -8,7 +8,7 @@ Table of Contents
 + [Recommendations](#recommendations)
 
 [Presentation](url)
-'''
+```
 
 ## Project Overview
 
