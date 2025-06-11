@@ -22,7 +22,7 @@ The goal of this project is to analyze the Spanish wine dataset to identify the 
 
 30 secs overview  of most important metrics and most important stats, people should understand the high level trends and the actual values,  important informations for people actually looking for this data
 
-[Dataset ERD] (data_visualizations/erd..jpgdata_visualizations/erd..jpg)
+[Dataset ERD] (data_visualizations/erd..jpg)
 
 
 ## Insights Deep-Dive
