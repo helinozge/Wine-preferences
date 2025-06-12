@@ -1,0 +1,2049 @@
+wineID,wineryID,wine,year,type,body,acidity,price,num_reviews
+812,422,Tinto,2013,Toro Red,5.0,3.0,995.0,58
+75,33,Vina El Pison,2018,Tempranillo,4.0,2.0,313.5,31
+866,447,Unico,2009,Ribera Del Duero Red,5.0,3.0,324.95,1793
+866,447,Unico,1999,Ribera Del Duero Red,5.0,3.0,692.96,1705
+866,447,Unico,1996,Ribera Del Duero Red,5.0,3.0,778.06,1309
+866,447,Unico,1998,Ribera Del Duero Red,5.0,3.0,490.0,1209
+866,447,Unico,2010,Ribera Del Duero Red,5.0,3.0,349.0,1201
+866,447,Unico,1995,Ribera Del Duero Red,5.0,3.0,810.89,926
+867,447,Unico Reserva Especial Edicion,2015,Ribera Del Duero Red,5.0,3.0,345.0,643
+866,447,Unico,2011,Ribera Del Duero Red,5.0,3.0,315.0,630
+867,447,Unico Reserva Especial Edicion,2016,Ribera Del Duero Red,5.0,3.0,514.85,591
+665,353,El Anejon,2016,Ribera Del Duero Red,5.0,3.0,105.15,454
+867,447,Unico Reserva Especial Edicion,2018,Ribera Del Duero Red,5.0,3.0,430.0,438
+866,447,Unico,1970,Ribera Del Duero Red,5.0,3.0,925.0,417
+828,428,Don PX Convento Seleccion,1946,Pedro Ximenez,5.0,1.0,350.0,398
+664,353,Cuesta de Las Liebres,2015,Ribera Del Duero Red,5.0,3.0,166.18,372
+866,447,Unico,1962,Ribera Del Duero Red,5.0,3.0,1620.0,295
+867,447,Unico Reserva Especial Edicion,2019,Ribera Del Duero Red,5.0,3.0,431.36,250
+156,80,El Nido,2018,Red,4.0,3.0,195.627379550654,217
+867,447,Unico Reserva Especial Edicion,2004,Ribera Del Duero Red,5.0,3.0,824.43,211
+857,441,Toneles Moscatel,N.V.,Sherry,4.0,3.0,253.0,174
+867,447,Unico Reserva Especial Edicion,2013,Ribera Del Duero Red,5.0,3.0,570.51,172
+352,183,Pingus,2016,Ribera Del Duero Red,5.0,3.0,1280.0,145
+828,428,Don PX Convento Seleccion,1931,Pedro Ximenez,5.0,1.0,244.85,139
+867,447,Unico Reserva Especial Edicion,2010,Ribera Del Duero Red,5.0,3.0,719.34,125
+866,447,Unico,1979,Ribera Del Duero Red,5.0,3.0,815.0,118
+830,428,Don PX Pedro Ximenez,1946,Pedro Ximenez,5.0,1.0,285.86,103
+49,24,L'Ermita Velles Vinyes Priorat,2004,Priorat Red,4.0,3.0,1410.26,87
+867,447,Unico Reserva Especial Edicion,2005,Ribera Del Duero Red,5.0,3.0,813.96,87
+867,447,Unico Reserva Especial Edicion,2020,Ribera Del Duero Red,5.0,3.0,435.75,84
+649,346,Vatan Arena Tinta de Toro,2014,Toro Red,5.0,3.0,369.05,79
+867,447,Unico Reserva Especial Edicion,1985,Ribera Del Duero Red,5.0,3.0,1182.77,70
+828,428,Don PX Convento Seleccion,1929,Pedro Ximenez,5.0,1.0,227.95,69
+201,103,Ribera Del Duero Gran Reserva 12 Anos,1999,Ribera Del Duero Red,5.0,3.0,999.0,68
+886,456,Pesus Ribera del Duero,2007,Ribera Del Duero Red,5.0,3.0,360.0,68
+812,422,Tinto,2012,Toro Red,5.0,3.0,1190.0,56
+352,183,Pingus,2017,Ribera Del Duero Red,5.0,3.0,1150.0,52
+812,422,Tinto,2009,Toro Red,5.0,3.0,950.0,50
+49,24,L'Ermita Velles Vinyes Priorat,2008,Priorat Red,4.0,3.0,1021.21,40
+786,409,Magico,2016,Rioja Red,4.0,3.0,544.5,40
+812,422,Tinto,2011,Toro Red,5.0,3.0,1295.0,32
+49,24,L'Ermita Velles Vinyes Priorat,2017,Priorat Red,4.0,3.0,992.2,31
+812,422,Tinto,2015,Toro Red,5.0,3.0,1289.44,28
+331,171,La Faraona Bierzo (Corullon),2017,Red,4.0,3.0,1098.9,26
+502,268,Gran Reserva 890,1985,Rioja Red,4.0,3.0,215.34,26
+49,24,L'Ermita Velles Vinyes Priorat,2018,Priorat Red,4.0,3.0,1094.9,26
+867,447,Unico Reserva Especial Edicion,Unknown,Ribera Del Duero Red,5.0,3.0,423.5,12421
+868,447,Valbuena 5o,2010,Ribera Del Duero Red,5.0,3.0,239.5,5266
+868,447,Valbuena 5o,2014,Ribera Del Duero Red,5.0,3.0,175.5,4350
+868,447,Valbuena 5o,2006,Ribera Del Duero Red,5.0,3.0,194.0,3929
+866,447,Unico,2005,Ribera Del Duero Red,5.0,3.0,381.15,3437
+866,447,Unico,2004,Ribera Del Duero Red,5.0,3.0,584.43,3164
+866,447,Unico,2000,Ribera Del Duero Red,5.0,3.0,555.2,3127
+866,447,Unico,2007,Ribera Del Duero Red,5.0,3.0,445.28,2935
+868,447,Valbuena 5o,2015,Ribera Del Duero Red,5.0,3.0,189.0,2826
+866,447,Unico,2006,Ribera Del Duero Red,5.0,3.0,362.25,2765
+866,447,Unico,2008,Ribera Del Duero Red,5.0,3.0,289.0,2480
+866,447,Unico,2003,Ribera Del Duero Red,5.0,3.0,325.0,2419
+868,447,Valbuena 5o,2016,Ribera Del Duero Red,5.0,3.0,107.57,2177
+868,447,Valbuena 5o,2005,Ribera Del Duero Red,5.0,3.0,234.0,1892
+866,447,Unico,2002,Ribera Del Duero Red,5.0,3.0,500.94,1199
+866,447,Unico,1991,Ribera Del Duero Red,5.0,3.0,698.9,1141
+866,447,Unico,1994,Ribera Del Duero Red,5.0,3.0,872.47,940
+867,447,Unico Reserva Especial Edicion,2000,Ribera Del Duero Red,5.0,3.0,877.85,935
+866,447,Unico,1990,Ribera Del Duero Red,5.0,3.0,827.94,690
+664,353,Cuesta de Las Liebres,2014,Ribera Del Duero Red,5.0,3.0,113.18,685
+866,447,Unico,1989,Ribera Del Duero Red,5.0,3.0,679.72,675
+866,447,Unico,1987,Ribera Del Duero Red,5.0,3.0,787.59,593
+867,447,Unico Reserva Especial Edicion,2017,Ribera Del Duero Red,5.0,3.0,480.06,560
+665,353,El Anejon,2015,Ribera Del Duero Red,5.0,3.0,75.1,543
+156,80,El Nido,2014,Red,4.0,3.0,154.9,511
+156,80,El Nido,2013,Red,4.0,3.0,145.0,476
+867,447,Unico Reserva Especial Edicion,1996,Ribera Del Duero Red,5.0,3.0,290.0,442
+561,297,Castillo Ygay Gran Reserva Especial Blanco,1986,Rioja White,3.0,3.0,795.0,425
+156,80,El Nido,2016,Red,4.0,3.0,371.78009750522,393
+156,80,El Nido,2008,Red,4.0,3.0,134.19,347
+895,461,La Nieta,2015,Rioja Red,4.0,3.0,82.58,312
+866,447,Unico,1981,Ribera Del Duero Red,5.0,3.0,873.86,308
+867,447,Unico Reserva Especial Edicion,2007,Ribera Del Duero Red,5.0,3.0,774.4,303
+375,196,Malleolus de Valderramiro,2016,Ribera Del Duero Red,5.0,3.0,84.95,300
+352,183,Pingus,2001,Ribera Del Duero Red,5.0,3.0,940.0,295
+866,447,Unico,1986,Ribera Del Duero Red,5.0,3.0,812.63,292
+374,196,Malleolus de Sanchomartin,2016,Ribera Del Duero Red,5.0,3.0,116.54,291
+352,183,Pingus,2004,Ribera Del Duero Red,5.0,3.0,1500.0,285
+352,183,Pingus,2006,Ribera Del Duero Red,5.0,3.0,1190.0,280
+156,80,El Nido,2017,Red,4.0,3.0,154.85,268
+811,422,Alabaster,2016,Toro Red,5.0,3.0,135.0,264
+719,380,La Mula de la Quietud,2015,Toro Red,5.0,3.0,63.75,256
+866,447,Unico,1985,Ribera Del Duero Red,5.0,3.0,827.94,254
+178,91,Terreus Paraje de Cueva Baja,2017,Tempranillo,4.0,2.0,66.07,251
+115,59,Contador Rioja,2012,Rioja Red,4.0,3.0,213.9,243
+747,390,Maria Remirez de Ganuza,2006,Rioja Red,4.0,3.0,234.9,240
+866,447,Unico,1968,Ribera Del Duero Red,5.0,3.0,2087.25,225
+895,461,La Nieta,2018,Rioja Red,4.0,3.0,89.9,220
+866,447,Unico,1964,Ribera Del Duero Red,5.0,3.0,1384.54,214
+866,447,Unico,1982,Ribera Del Duero Red,5.0,3.0,820.98,205
+352,183,Pingus,2015,Ribera Del Duero Red,5.0,3.0,1250.0,203
+867,447,Unico Reserva Especial Edicion,1995,Ribera Del Duero Red,5.0,3.0,1500.0,196
+352,183,Pingus,1999,Ribera Del Duero Red,5.0,3.0,1715.18,184
+866,447,Unico,1974,Ribera Del Duero Red,5.0,3.0,932.3,173
+49,24,L'Ermita Velles Vinyes Priorat,1998,Priorat Red,4.0,3.0,1372.14,171
+188,98,Cartago Paraje de Pozo,2015,Toro Red,5.0,3.0,78.9,137
+867,447,Unico Reserva Especial Edicion,2012,Ribera Del Duero Red,5.0,3.0,660.96,136
+674,355,Parcela El Picon Tinto,2009,Ribera Del Duero Red,5.0,3.0,154.0,134
+868,447,Valbuena 5o,2017,Ribera Del Duero Red,5.0,3.0,134.89,133
+49,24,L'Ermita Velles Vinyes Priorat,2000,Priorat Red,4.0,3.0,1422.96,132
+125,62,Termanthia,2005,Toro Red,5.0,3.0,207.11,131
+867,447,Unico Reserva Especial Edicion,2011,Ribera Del Duero Red,5.0,3.0,340.49,131
+370,196,Clon De La Familia,2010,Ribera Del Duero Red,5.0,3.0,317.63,127
+38,19,Aquilon Garnacha,2011,Grenache,5.0,3.0,108.9,123
+866,447,Unico,1983,Ribera Del Duero Red,5.0,3.0,700.0,118
+828,428,Don PX Convento Seleccion,1955,Pedro Ximenez,5.0,1.0,185.0,117
+866,447,Unico,1980,Ribera Del Duero Red,5.0,3.0,911.43,116
+115,59,Contador Rioja,2005,Rioja Red,4.0,3.0,1150.0,112
+866,447,Unico,1972,Ribera Del Duero Red,5.0,3.0,698.95,110
+125,62,Termanthia,2004,Toro Red,5.0,3.0,2814.16,108
+812,422,Tinto,2010,Toro Red,5.0,3.0,1325.0,102
+54,24,Quinon de Valmira,2015,Rioja Red,4.0,3.0,527.26,102
+867,447,Unico Reserva Especial Edicion,1987,Ribera Del Duero Red,5.0,3.0,1071.45,100
+590,309,1902 Centenary Carignan Priorat,2015,Priorat Red,4.0,3.0,299.0,94
+417,217,Tintilla de Rota,2016,Unknown,Unknown,0.0,43.13,92
+866,447,Unico,1953,Ribera Del Duero Red,5.0,3.0,1207.6,89
+185,97,Cirsion Rioja,2000,Rioja Red,4.0,3.0,175.0,87
+49,24,L'Ermita Velles Vinyes Priorat,2015,Priorat Red,4.0,3.0,1252.35,82
+156,80,El Nido,2019,Red,4.0,3.0,145.9,80
+590,309,1902 Centenary Carignan Priorat,2013,Priorat Red,4.0,3.0,447.95,74
+867,447,Unico Reserva Especial Edicion,2006,Ribera Del Duero Red,5.0,3.0,813.96,72
+49,24,L'Ermita Velles Vinyes Priorat,2005,Priorat Red,4.0,3.0,1410.26,67
+583,305,Cami Pesseroles,2006,Priorat Red,4.0,3.0,182.9,65
+742,388,Turo d'en Mota,2007,Cava,2.0,3.0,99.0,64
+867,447,Unico Reserva Especial Edicion,1986,Ribera Del Duero Red,5.0,3.0,1113.2,63
+288,148,Priorat,2007,Priorat Red,4.0,3.0,654.31,60
+674,355,Parcela El Picon Tinto,2016,Ribera Del Duero Red,5.0,3.0,134.26,59
+101,49,Reliquia Palo Cortado Sherry,N.V.,Sherry,4.0,3.0,380.0,58
+502,268,Gran Reserva 890,1982,Rioja Red,4.0,3.0,292.09,57
+440,232,Anada Palo Cortado 1987,1987,Sherry,4.0,3.0,400.85,53
+286,148,Daphne Glorian Red,2007,Red,4.0,3.0,202.01,51
+830,428,Don PX Pedro Ximenez,1955,Pedro Ximenez,5.0,1.0,250.0,50
+895,461,La Nieta,2019,Rioja Red,4.0,3.0,88.9,49
+142,71,El Regollar,2016,Rioja Red,4.0,3.0,77.9,49
+828,428,Don PX Convento Seleccion,1958,Pedro Ximenez,5.0,1.0,191.61,47
+811,422,Alabaster,2018,Toro Red,5.0,3.0,123.89,45
+56,25,Abuelo Diego Palo Cortado,N.V.,Pedro Ximenez,5.0,1.0,114.28,42
+388,201,La Bota 78 de Oloroso,N.V.,Sherry,4.0,3.0,95.57,41
+624,329,Touran,2018,Grenache,5.0,3.0,93.95,41
+806,420,Luthier Gran Reserva,2012,Ribera Del Duero Red,5.0,3.0,248.0,40
+75,33,Vina El Pison,1995,Tempranillo,4.0,2.0,397.0,39
+728,382,Sorte O Soro Val do Bibei,2019,Unknown,Unknown,0.0,194.86,37
+740,388,Reserva Particular de Recaredo Brut Nature,2011,Cava,2.0,3.0,65.05,35
+178,91,Terreus Paraje de Cueva Baja,2019,Tempranillo,4.0,2.0,86.9,33
+886,456,Pesus Ribera del Duero,2004,Ribera Del Duero Red,5.0,3.0,472.5,32
+801,417,Usted,2010,Red,4.0,3.0,379.0,31
+325,168,Gran Reserva,2001,Ribera Del Duero Red,5.0,3.0,185.15,31
+887,456,Regina Vides Ribera del Duero,1998,Ribera Del Duero Red,5.0,3.0,94.2,30
+614,322,La Loma,2018,Rioja Red,4.0,3.0,46.0,29
+49,24,L'Ermita Velles Vinyes Priorat,2016,Priorat Red,4.0,3.0,919.6,28
+454,237,Recondita Armonia Monastrell Dulce,1987,Unknown,Unknown,0.0,81.9,27
+562,297,Castillo Ygay Gran Reserva Especial Tinto,1942,Rioja Red,4.0,3.0,680.0,27
+868,447,Valbuena 5o,2011,Ribera Del Duero Red,5.0,3.0,218.0,6803
+868,447,Valbuena 5o,2012,Ribera Del Duero Red,5.0,3.0,177.0,5938
+868,447,Valbuena 5o,2008,Ribera Del Duero Red,5.0,3.0,187.3,5545
+868,447,Valbuena 5o,2007,Ribera Del Duero Red,5.0,3.0,195.59,5116
+868,447,Valbuena 5o,2013,Ribera Del Duero Red,5.0,3.0,135.0,4747
+868,447,Valbuena 5o,2009,Ribera Del Duero Red,5.0,3.0,225.2,4685
+24,13,Ribera del Duero,2016,Ribera Del Duero Red,5.0,3.0,79.8,4516
+3,2,PS (Pagos Seleccionados) Ribera del Duero,2017,Ribera Del Duero Red,5.0,3.0,116.187943627787,3383
+3,2,PS (Pagos Seleccionados) Ribera del Duero,2018,Ribera Del Duero Red,5.0,3.0,89.3,3239
+562,297,Castillo Ygay Gran Reserva Especial Tinto,2010,Rioja Red,4.0,3.0,438.9,2416
+24,13,Ribera del Duero,2017,Ribera Del Duero Red,5.0,3.0,79.9,2208
+868,447,Valbuena 5o,2004,Ribera Del Duero Red,5.0,3.0,249.0,1608
+350,183,Flor de Pingus,2018,Ribera Del Duero Red,5.0,3.0,129.95,1363
+3,2,PS (Pagos Seleccionados) Ribera del Duero,2019,Ribera Del Duero Red,5.0,3.0,76.95,1108
+868,447,Valbuena 5o,2000,Ribera Del Duero Red,5.0,3.0,252.0,1015
+868,447,Valbuena 5o,2002,Ribera Del Duero Red,5.0,3.0,232.0,936
+125,62,Termanthia,2012,Toro Red,5.0,3.0,214.0,840
+125,62,Termanthia,2011,Toro Red,5.0,3.0,205.0,790
+245,127,Pago De Valtarrena,2015,Ribera Del Duero Red,5.0,3.0,49.95,700
+374,196,Malleolus de Sanchomartin,2011,Ribera Del Duero Red,5.0,3.0,125.0,693
+868,447,Valbuena 5o,1999,Ribera Del Duero Red,5.0,3.0,276.8,595
+375,196,Malleolus de Valderramiro,2015,Ribera Del Duero Red,5.0,3.0,75.0,516
+352,183,Pingus,2010,Ribera Del Duero Red,5.0,3.0,1359.75,410
+664,353,Cuesta de Las Liebres,2010,Ribera Del Duero Red,5.0,3.0,81.5,405
+352,183,Pingus,2012,Ribera Del Duero Red,5.0,3.0,890.0,400
+357,186,El Titan del Bendito,2015,Toro Red,5.0,3.0,43.5,388
+374,196,Malleolus de Sanchomartin,2015,Ribera Del Duero Red,5.0,3.0,99.0,369
+352,183,Pingus,2013,Ribera Del Duero Red,5.0,3.0,1198.72,323
+178,91,Terreus Paraje de Cueva Baja,2015,Tempranillo,4.0,2.0,94.95,313
+178,91,Terreus Paraje de Cueva Baja,2016,Tempranillo,4.0,2.0,89.0,304
+352,183,Pingus,2005,Ribera Del Duero Red,5.0,3.0,1785.96,293
+895,461,La Nieta,2017,Rioja Red,4.0,3.0,108.21,286
+75,33,Vina El Pison,2006,Tempranillo,4.0,2.0,391.5,274
+352,183,Pingus,1998,Ribera Del Duero Red,5.0,3.0,1350.0,244
+185,97,Cirsion Rioja,2007,Rioja Red,4.0,3.0,145.0,242
+185,97,Cirsion Rioja,2012,Rioja Red,4.0,3.0,173.38,231
+115,59,Contador Rioja,2011,Rioja Red,4.0,3.0,220.0,225
+563,297,Dalmau Rioja,2017,Rioja Red,4.0,3.0,85.7,222
+866,447,Unico,1965,Ribera Del Duero Red,5.0,3.0,2884.04,218
+785,409,Finca el Bosque,2015,Rioja Red,4.0,3.0,79.9,214
+884,456,Pago de Santa Cruz,2018,Ribera Del Duero Red,5.0,3.0,68.7,211
+352,183,Pingus,2003,Ribera Del Duero Red,5.0,3.0,1638.95,205
+596,313,Clos Fonta Priorat,2004,Priorat Red,4.0,3.0,150.0,202
+245,127,Pago De Valtarrena,2016,Ribera Del Duero Red,5.0,3.0,48.95,200
+674,355,Parcela El Picon Tinto,2014,Ribera Del Duero Red,5.0,3.0,109.41,197
+374,196,Malleolus de Sanchomartin,2014,Ribera Del Duero Red,5.0,3.0,119.0,186
+868,447,Valbuena 5o,1992,Ribera Del Duero Red,5.0,3.0,195.0,176
+352,183,Pingus,2014,Ribera Del Duero Red,5.0,3.0,1595.0,172
+75,33,Vina El Pison,2010,Tempranillo,4.0,2.0,519.55,169
+674,355,Parcela El Picon Tinto,2012,Ribera Del Duero Red,5.0,3.0,89.0,165
+75,33,Vina El Pison,2011,Tempranillo,4.0,2.0,511.9,165
+49,24,L'Ermita Velles Vinyes Priorat,1999,Priorat Red,4.0,3.0,980.0,164
+249,129,Cuvee N Vinas Viejas,2015,Red,4.0,3.0,73.0,160
+75,33,Vina El Pison,2012,Tempranillo,4.0,2.0,280.0,159
+866,447,Unico,1973,Ribera Del Duero Red,5.0,3.0,932.3,157
+115,59,Contador Rioja,2014,Rioja Red,4.0,3.0,251.99,157
+188,98,Cartago Paraje de Pozo,2014,Toro Red,5.0,3.0,61.69,153
+49,24,L'Ermita Velles Vinyes Priorat,1996,Priorat Red,4.0,3.0,1372.14,150
+125,62,Termanthia,2014,Toro Red,5.0,3.0,210.5,147
+868,447,Valbuena 5o,1985,Ribera Del Duero Red,5.0,3.0,285.0,146
+604,316,Ribera del Duero Prestigio Pago de las Solanas,2001,Ribera Del Duero Red,5.0,3.0,245.75,145
+868,447,Valbuena 5o,1989,Ribera Del Duero Red,5.0,3.0,228.57,143
+115,59,Contador Rioja,2015,Rioja Red,4.0,3.0,319.9,143
+75,33,Vina El Pison,2005,Tempranillo,4.0,2.0,325.0,142
+639,339,Nit de Nin Mas d'en Cacador,2011,Priorat Red,4.0,3.0,345.0,139
+179,91,VS,2018,Tempranillo,4.0,2.0,58.9,136
+747,390,Maria Remirez de Ganuza,2005,Rioja Red,4.0,3.0,159.0,136
+890,459,Blecua Somontano,2013,Red,4.0,3.0,69.9,135
+867,447,Unico Reserva Especial Edicion,1989,Ribera Del Duero Red,5.0,3.0,895.4,133
+811,422,Alabaster,2017,Toro Red,5.0,3.0,147.85,131
+178,91,Terreus Paraje de Cueva Baja,2018,Tempranillo,4.0,2.0,88.05,128
+49,24,L'Ermita Velles Vinyes Priorat,1997,Priorat Red,4.0,3.0,1080.0,127
+568,298,Frank Gehry Selection,2001,Tempranillo,4.0,2.0,301.0,124
+75,33,Vina El Pison,2014,Tempranillo,4.0,2.0,275.0,124
+866,447,Unico,1967,Ribera Del Duero Red,5.0,3.0,1106.24,123
+76,34,Amaya Arzuaga (Coleccion),2016,Ribera Del Duero Red,5.0,3.0,64.9,123
+352,183,Pingus,2000,Ribera Del Duero Red,5.0,3.0,1503.0,122
+49,24,L'Ermita Velles Vinyes Priorat,1995,Priorat Red,4.0,3.0,1372.14,122
+75,33,Vina El Pison,2015,Tempranillo,4.0,2.0,241.55,122
+174,90,La Creu Alta,2013,Priorat Red,4.0,3.0,89.17,116
+866,447,Unico,1975,Ribera Del Duero Red,5.0,3.0,769.9,115
+347,180,Tinto,2019,Ribera Del Duero Red,5.0,3.0,67.94,114
+825,426,5o Ano Ribera del Duero Tinto,2016,Ribera Del Duero Red,5.0,3.0,44.0,113
+75,33,Vina El Pison,2009,Tempranillo,4.0,2.0,445.0,113
+230,117,Planots Priorat,2010,Priorat Red,4.0,3.0,87.02,112
+867,447,Unico Reserva Especial Edicion,2009,Ribera Del Duero Red,5.0,3.0,747.17,111
+357,186,El Titan del Bendito,2018,Toro Red,5.0,3.0,49.95,111
+656,348,Capitel,2018,Verdejo,3.0,3.0,50.51,107
+77,34,Gran Arzuaga Ribera del Duero,2004,Ribera Del Duero Red,5.0,3.0,157.4,105
+38,19,Aquilon Garnacha,2015,Grenache,5.0,3.0,120.9,105
+352,183,Pingus,1996,Ribera Del Duero Red,5.0,3.0,1746.94,102
+272,140,Horcajo,2015,Ribera Del Duero Red,5.0,3.0,75.3,100
+245,127,Pago De Valtarrena,2018,Ribera Del Duero Red,5.0,3.0,47.5,99
+866,447,Unico,2012,Ribera Del Duero Red,5.0,3.0,359.9,98
+211,104,Tinto,2019,Ribera Del Duero Red,5.0,3.0,43.5,97
+25,14,Aurus,2005,Rioja Red,4.0,3.0,136.0,95
+314,161,Dolc de L'Obac,2006,Unknown,Unknown,0.0,117.239420060872,94
+674,355,Parcela El Picon Tinto,2011,Ribera Del Duero Red,5.0,3.0,135.0,93
+753,390,Trasnocho,2013,Rioja Red,4.0,3.0,82.5,91
+185,97,Cirsion Rioja,2017,Rioja Red,4.0,3.0,149.9,90
+812,422,Tinto,2008,Toro Red,5.0,3.0,1260.0,87
+671,355,Doroteo Edicion Especial 25 Aniversario,2015,Ribera Del Duero Red,5.0,3.0,59.0,86
+207,103,Tierra Alta de 2 Racimos Gran Reserva,2011,Ribera Del Duero Red,5.0,3.0,82.5,85
+562,297,Castillo Ygay Gran Reserva Especial Tinto,2011,Rioja Red,4.0,3.0,195.0,85
+868,447,Valbuena 5o,1980,Ribera Del Duero Red,5.0,3.0,195.0,84
+79,34,Reserva Especial Ribera del Duero,2016,Ribera Del Duero Red,5.0,3.0,54.5,83
+462,241,Reserva Especial,2015,Ribera Del Duero Red,5.0,3.0,79.1,80
+598,313,Gran Buig Priorat,2004,Priorat Red,4.0,3.0,272.0,79
+264,136,Finca Garbet,2014,Syrah,4.0,3.0,99.0,75
+654,347,Solera India Oloroso Rare Sherry,N.V.,Sherry,4.0,3.0,189.99,74
+370,196,Clon De La Familia,2011,Ribera Del Duero Red,5.0,3.0,317.63,72
+783,409,Amancio,2007,Rioja Red,4.0,3.0,399.6,70
+833,428,Gines Liebana Pedro Ximenez,1910,Pedro Ximenez,5.0,1.0,701.05,70
+740,388,Reserva Particular de Recaredo Brut Nature,2008,Cava,2.0,3.0,74.9,69
+288,148,Priorat,2008,Priorat Red,4.0,3.0,654.31,66
+868,447,Valbuena 5o,1983,Ribera Del Duero Red,5.0,3.0,247.75,66
+831,428,Don PX Seleccion,1965,Pedro Ximenez,5.0,1.0,144.99,65
+49,24,L'Ermita Velles Vinyes Priorat,2001,Priorat Red,4.0,3.0,945.0,65
+461,241,Reserva,2017,Ribera Del Duero Red,5.0,3.0,50.0,64
+924,476,Finca Las Naves,2016,Rioja Red,4.0,3.0,126.64,63
+558,296,AAA,2008,Red,4.0,3.0,162.38,63
+311,159,Vina del Olivo,2001,Rioja Red,4.0,3.0,81.0,60
+49,24,L'Ermita Velles Vinyes Priorat,2010,Priorat Red,4.0,3.0,2750.0,60
+563,297,Dalmau Rioja,2001,Rioja Red,4.0,3.0,121.0,59
+51,24,Les Aubaguetes Priorat,2016,Priorat Red,4.0,3.0,355.95,59
+446,234,Cava Enoteca Finca La Plana Brut Nature,2001,Cava,2.0,3.0,164.66,58
+38,19,Aquilon Garnacha,2016,Grenache,5.0,3.0,120.9,58
+355,185,Gran Reserva Penas Aladas,2014,Ribera Del Duero Red,5.0,3.0,218.9,58
+464,242,Pena Lobera,2016,Ribera Del Duero Red,5.0,3.0,65.95,57
+174,90,La Creu Alta,2014,Priorat Red,4.0,3.0,86.0,53
+430,225,Adega do Moucho Treixadura,2017,Unknown,Unknown,0.0,34.5,53
+63,29,Son Negre,2007,Red,4.0,3.0,282.65,51
+590,309,1902 Centenary Carignan Priorat,2017,Priorat Red,4.0,3.0,259.9,51
+866,447,Unico,1961,Ribera Del Duero Red,5.0,3.0,1099.28,50
+254,132,Casa Cisca Monastrell,2016,Monastrell,5.0,3.0,35.0,49
+333,171,Moncerbal Bierzo (Corullon),2016,Mencia,3.0,3.0,269.95,48
+501,267,Capricho,2014,Red,4.0,3.0,27.2693427,47
+352,183,Pingus,2018,Ribera Del Duero Red,5.0,3.0,1250.0,47
+267,137,Cerrado del Castillo Rioja,2016,Rioja Red,4.0,3.0,52.95,47
+660,350,Kalamity Rioja,2018,Rioja Red,4.0,3.0,114.95,46
+217,107,Conde de Aldama Amontillado,N.V.,Sherry,4.0,3.0,89.9,46
+868,447,Valbuena 5o,1979,Ribera Del Duero Red,5.0,3.0,195.0,46
+137,70,Respeto,2015,Red,4.0,3.0,29.35,45
+713,377,El Garnacho Viejo de la Familia Acha,2014,Rioja Red,4.0,3.0,79.9,45
+603,316,Ribera del Duero Prestigio,2016,Ribera Del Duero Red,5.0,3.0,53.95,45
+253,131,Finca Misenhora Edicion Limitada,2018,Unknown,Unknown,0.0,26.2,44
+590,309,1902 Centenary Carignan Priorat,2016,Priorat Red,4.0,3.0,270.44,43
+71,33,La Poza de Ballesteros,2009,Tempranillo,4.0,2.0,187.5,42
+565,297,Reserva Rioja (Finca Ygay),1954,Rioja Red,4.0,3.0,210.0,42
+462,241,Reserva Especial,2016,Ribera Del Duero Red,5.0,3.0,85.63,41
+75,33,Vina El Pison,2017,Tempranillo,4.0,2.0,304.54,41
+859,443,Idus,2020,Priorat Red,4.0,3.0,34.3,41
+288,148,Priorat,2003,Priorat Red,4.0,3.0,993.28,41
+783,409,Amancio,2017,Rioja Red,4.0,3.0,85.95,40
+669,354,Rosado de Larrainzar,2020,Unknown,Unknown,0.0,12.0,39
+370,196,Clon De La Familia,2015,Ribera Del Duero Red,5.0,3.0,249.9,39
+867,447,Unico Reserva Especial Edicion,1982,Ribera Del Duero Red,5.0,3.0,1238.43,39
+785,409,Finca el Bosque,2002,Rioja Red,4.0,3.0,128.0,38
+334,171,Valdafoz Bierzo (Corullon),2011,Mencia,3.0,3.0,135.5,38
+845,435,Tinto,2019,Rioja Red,4.0,3.0,40.5,38
+417,217,Tintilla de Rota,2017,Unknown,Unknown,0.0,43.1,37
+174,90,La Creu Alta,2017,Priorat Red,4.0,3.0,85.0,36
+883,455,Rioja Gran Reserva,1986,Rioja Red,4.0,3.0,123.0,35
+343,178,Valdegatiles Ribera del Duero,2012,Ribera Del Duero Red,5.0,3.0,106.35,34
+831,428,Don PX Seleccion,1962,Pedro Ximenez,5.0,1.0,207.0,34
+612,321,Respublica Verdejo,2016,Verdejo,3.0,3.0,75.95,33
+355,185,Gran Reserva Penas Aladas,2015,Ribera Del Duero Red,5.0,3.0,185.3,33
+809,421,Les Tosses,2016,Priorat Red,4.0,3.0,205.95,33
+423,219,Torremilanos Coleccion Ribera del Duero,2016,Ribera Del Duero Red,5.0,3.0,40.45,32
+68,33,El Carretil,2017,Tempranillo,4.0,2.0,176.89,32
+471,248,Taberner No. 1,2013,Red,4.0,3.0,79.9,32
+439,231,Vina Motulleri,2011,Rioja Red,4.0,3.0,79.0,30
+258,134,Saktih,2013,Red,4.0,3.0,195.27,30
+6,4,Cuvee Palomar,2017,Red,4.0,3.0,58.9,30
+49,24,L'Ermita Velles Vinyes Priorat,2014,Priorat Red,4.0,3.0,1660.0,30
+343,178,Valdegatiles Ribera del Duero,2013,Ribera Del Duero Red,5.0,3.0,111.9,29
+137,70,Respeto,2017,Red,4.0,3.0,29.95,29
+384,198,Uno Tinto,2010,Red,4.0,3.0,129.9,28
+104,52,Macan,2017,Rioja Red,4.0,3.0,69.95,28
+591,309,1903 Centenary Grenache,2016,Priorat Red,4.0,3.0,299.0,28
+331,171,La Faraona Bierzo (Corullon),2010,Red,4.0,3.0,3119.08,28
+147,72,Galiano Seleccion Especial,2013,Red,4.0,3.0,99.95,28
+798,416,Molino Real,2016,Unknown,Unknown,0.0,41.69,28
+63,29,Son Negre,2004,Red,4.0,3.0,374.35,27
+825,426,5o Ano Ribera del Duero Tinto,2017,Ribera Del Duero Red,5.0,3.0,46.45,27
+49,24,L'Ermita Velles Vinyes Priorat,2011,Priorat Red,4.0,3.0,2750.0,27
+17,6,Etern Vinyes Molt Velles,2016,Priorat Red,4.0,3.0,42.5,26
+875,453,40 Aniversario Gran Reserva,2012,Ribera Del Duero Red,5.0,3.0,95.0,25
+653,347,Solera BC-200,N.V.,Sherry,4.0,3.0,197.3,25
+738,388,Corpinnat Enoteca Reserva Particular de Recaredo,2004,Sparkling,2.0,3.0,130.0,25
+830,428,Don PX Pedro Ximenez,1968,Pedro Ximenez,5.0,1.0,181.5,25
+667,353,Tinto,2016,Ribera Del Duero Red,5.0,3.0,29.8,7529
+24,13,Ribera del Duero,2013,Ribera Del Duero Red,5.0,3.0,73.0,7435
+24,13,Ribera del Duero,2014,Ribera Del Duero Red,5.0,3.0,56.27,7237
+700,371,Toro,2014,Toro Red,5.0,3.0,69.0,5863
+667,353,Tinto,2018,Ribera Del Duero Red,5.0,3.0,45.0,5372
+24,13,Ribera del Duero,2015,Ribera Del Duero Red,5.0,3.0,75.0,5365
+700,371,Toro,2015,Toro Red,5.0,3.0,69.8,4979
+667,353,Tinto,2017,Ribera Del Duero Red,5.0,3.0,121.936825872994,4935
+3,2,PS (Pagos Seleccionados) Ribera del Duero,2016,Ribera Del Duero Red,5.0,3.0,78.65,4411
+562,297,Castillo Ygay Gran Reserva Especial Tinto,2005,Rioja Red,4.0,3.0,400.0,3521
+502,268,Gran Reserva 890,2005,Rioja Red,4.0,3.0,125.0,3443
+562,297,Castillo Ygay Gran Reserva Especial Tinto,2009,Rioja Red,4.0,3.0,229.0,3148
+700,371,Toro,2016,Toro Red,5.0,3.0,40.41,3118
+350,183,Flor de Pingus,2016,Ribera Del Duero Red,5.0,3.0,101.94,2887
+3,2,PS (Pagos Seleccionados) Ribera del Duero,2015,Ribera Del Duero Red,5.0,3.0,172.5,2858
+155,80,Clio,2015,Red,4.0,3.0,33.2,2712
+350,183,Flor de Pingus,2014,Ribera Del Duero Red,5.0,3.0,125.0,2710
+350,183,Flor de Pingus,2010,Ribera Del Duero Red,5.0,3.0,125.0,2551
+350,183,Flor de Pingus,2015,Ribera Del Duero Red,5.0,3.0,125.0,2530
+155,80,Clio,2016,Red,4.0,3.0,31.75,2228
+155,80,Clio,2017,Red,4.0,3.0,39.5,2220
+3,2,PS (Pagos Seleccionados) Ribera del Duero,2011,Ribera Del Duero Red,5.0,3.0,64.0,2207
+667,353,Tinto,2019,Ribera Del Duero Red,5.0,3.0,33.8,2144
+104,52,Macan,2014,Rioja Red,4.0,3.0,58.95,1910
+4,2,Tinto,2018,Ribera Del Duero Red,5.0,3.0,33.25,1864
+155,80,Clio,2018,Red,4.0,3.0,61.8491765262698,1520
+39,19,Garnacha,2017,Grenache,5.0,3.0,44.27,1503
+673,355,Parcela El Nogal Tinto,2015,Ribera Del Duero Red,5.0,3.0,45.9,1393
+868,447,Valbuena 5o,2003,Ribera Del Duero Red,5.0,3.0,239.2,1346
+104,52,Macan,2015,Rioja Red,4.0,3.0,68.9,1345
+24,13,Ribera del Duero,2003,Ribera Del Duero Red,5.0,3.0,164.0,1236
+103,51,Belondrade y Lurton,2018,Verdejo,3.0,3.0,32.85,1192
+673,355,Parcela El Nogal Tinto,2014,Ribera Del Duero Red,5.0,3.0,40.95,1163
+666,353,Reserva,2014,Ribera Del Duero Red,5.0,3.0,69.5803235920536,1148
+350,183,Flor de Pingus,2017,Ribera Del Duero Red,5.0,3.0,110.0,1094
+750,390,Rioja Reserva,2012,Rioja Red,4.0,3.0,49.75,1089
+626,330,Prado Enea Gran Reserva,2014,Rioja Red,4.0,3.0,51.0,1014
+750,390,Rioja Reserva,2011,Rioja Red,4.0,3.0,59.9,1012
+502,268,Gran Reserva 890,2004,Rioja Red,4.0,3.0,290.7,990
+103,51,Belondrade y Lurton,2019,Verdejo,3.0,3.0,37.7,961
+295,151,Priorat,2015,Priorat Red,4.0,3.0,146.95,955
+196,100,Pedro Ximenez Tradicion 20 Years Old Vos,N.V.,Pedro Ximenez,5.0,1.0,68.9,854
+628,330,Torre Muga,2016,Rioja Red,4.0,3.0,70.5,838
+104,52,Macan,2016,Rioja Red,4.0,3.0,64.0,813
+125,62,Termanthia,2010,Toro Red,5.0,3.0,168.0,729
+375,196,Malleolus de Valderramiro,2011,Ribera Del Duero Red,5.0,3.0,173.95,719
+295,151,Priorat,2017,Priorat Red,4.0,3.0,65.0,666
+563,297,Dalmau Rioja,2014,Rioja Red,4.0,3.0,67.6,642
+461,241,Reserva,2015,Ribera Del Duero Red,5.0,3.0,53.95,629
+673,355,Parcela El Nogal Tinto,2016,Ribera Del Duero Red,5.0,3.0,42.95,595
+502,268,Gran Reserva 890,1995,Rioja Red,4.0,3.0,127.23,574
+155,80,Clio,2019,Red,4.0,3.0,47.3,550
+625,330,Aro,2015,Rioja Red,4.0,3.0,169.4,529
+746,390,Gran Reserva,2007,Rioja Red,4.0,3.0,121.838963251908,529
+781,407,San Vicente Rioja,2017,Rioja Red,4.0,3.0,34.8,505
+247,127,Ribera del Duero TSM,2017,Ribera Del Duero Red,5.0,3.0,55.35,503
+884,456,Pago de Santa Cruz,2016,Ribera Del Duero Red,5.0,3.0,75.95,501
+203,103,Ribera Del Duero Reserva Premium 6 Anos,2011,Ribera Del Duero Red,5.0,3.0,48.7,500
+753,390,Trasnocho,2012,Rioja Red,4.0,3.0,118.89,499
+313,161,Clos de L'Obac,2005,Priorat Red,4.0,3.0,92.8716274104906,493
+868,447,Valbuena 5o,1996,Ribera Del Duero Red,5.0,3.0,290.4,488
+80,34,Reserva Ribera del Duero,2017,Ribera Del Duero Red,5.0,3.0,31.8,477
+502,268,Gran Reserva 890,2010,Rioja Red,4.0,3.0,149.5,469
+429,224,Ribera Del Duero,2018,Ribera Del Duero Red,5.0,3.0,35.85,462
+884,456,Pago de Santa Cruz,2015,Ribera Del Duero Red,5.0,3.0,82.95,420
+203,103,Ribera Del Duero Reserva Premium 6 Anos,2012,Ribera Del Duero Red,5.0,3.0,59.0,406
+495,264,Bruto,2018,Monastrell,5.0,3.0,37.7,384
+518,276,Culmen Reserva Rioja,2015,Rioja Red,4.0,3.0,42.75,365
+185,97,Cirsion Rioja,2016,Rioja Red,4.0,3.0,175.57,353
+295,151,Priorat,2018,Priorat Red,4.0,3.0,61.64,336
+495,264,Bruto,2017,Monastrell,5.0,3.0,30.7,322
+179,91,VS,2017,Tempranillo,4.0,2.0,56.5,318
+125,62,Termanthia,2013,Toro Red,5.0,3.0,207.11,316
+753,390,Trasnocho,2011,Rioja Red,4.0,3.0,110.5,301
+461,241,Reserva,2016,Ribera Del Duero Red,5.0,3.0,55.95,297
+722,381,Vina Tondonia Gran Reserva,1995,Rioja Red,4.0,3.0,170.0,292
+11,4,Petit Verdot,2015,Red,4.0,3.0,107.9,286
+825,426,5o Ano Ribera del Duero Tinto,2011,Ribera Del Duero Red,5.0,3.0,69.9,264
+357,186,El Titan del Bendito,2017,Toro Red,5.0,3.0,49.5,261
+11,4,Petit Verdot,2014,Red,4.0,3.0,176.98,249
+783,409,Amancio,2012,Rioja Red,4.0,3.0,90.0,246
+584,305,Clos Martinet,2014,Priorat Red,4.0,3.0,65.0,230
+753,390,Trasnocho,2006,Rioja Red,4.0,3.0,95.0,229
+18,7,Tinto,2009,Ribera Del Duero Red,5.0,3.0,39.0,229
+24,13,Ribera del Duero,1995,Ribera Del Duero Red,5.0,3.0,193.0,226
+625,330,Aro,2016,Rioja Red,4.0,3.0,174.91,222
+868,447,Valbuena 5o,1987,Ribera Del Duero Red,5.0,3.0,312.0,221
+616,323,Tinto,2018,Ribera Del Duero Red,5.0,3.0,52.9,218
+884,456,Pago de Santa Cruz,2017,Ribera Del Duero Red,5.0,3.0,40.9,217
+391,203,Tinto,2013,Montsant Red,4.0,3.0,157.95,214
+816,423,Millenium Gran Reserva,2015,Ribera Del Duero Red,5.0,3.0,77.5,213
+887,456,Regina Vides Ribera del Duero,2011,Ribera Del Duero Red,5.0,3.0,116.0,213
+48,24,Finca Dofi,2006,Priorat Red,4.0,3.0,75.0,207
+78,34,Gran Reserva Ribera del Duero,2015,Ribera Del Duero Red,5.0,3.0,80.98,205
+311,159,Vina del Olivo,2017,Rioja Red,4.0,3.0,64.5,203
+350,183,Flor de Pingus,2019,Ribera Del Duero Red,5.0,3.0,118.5,201
+413,215,Seleccio Especial Vinyes Velles,2015,Priorat Red,4.0,3.0,64.0,197
+295,151,Priorat,2003,Priorat Red,4.0,3.0,95.0,196
+26,14,Calvario Rioja,2009,Rioja Red,4.0,3.0,125.97,194
+204,103,Ribera del Duero Una Cepa I,2017,Ribera Del Duero Red,5.0,3.0,26.5,194
+603,316,Ribera del Duero Prestigio,2015,Ribera Del Duero Red,5.0,3.0,54.01,190
+887,456,Regina Vides Ribera del Duero,2014,Ribera Del Duero Red,5.0,3.0,104.9,189
+396,207,Grans Muralles,2015,Red,4.0,3.0,170.5,189
+886,456,Pesus Ribera del Duero,2014,Ribera Del Duero Red,5.0,3.0,315.0,189
+683,361,Gran Vino Albarino,2019,Albarino,3.0,3.0,34.9,188
+79,34,Reserva Especial Ribera del Duero,2015,Ribera Del Duero Red,5.0,3.0,51.5,187
+819,424,Cuatro Palmas Amontillado,N.V.,Sherry,4.0,3.0,112.26,186
+8,4,Pago Garduna,2016,Syrah,4.0,3.0,71.85,186
+103,51,Belondrade y Lurton,2020,Verdejo,3.0,3.0,38.9,184
+700,371,Toro,2017,Toro Red,5.0,3.0,54.09,178
+116,59,La Cueva del Contador Rioja,2017,Rioja Red,4.0,3.0,67.9,174
+785,409,Finca el Bosque,2016,Rioja Red,4.0,3.0,80.95,173
+57,25,Solera 1830 Pedro Ximenez,N.V.,Pedro Ximenez,5.0,1.0,114.5,171
+119,59,Que Bonito Cacareaba Blanco,2018,Rioja White,3.0,3.0,50.34,170
+825,426,5o Ano Ribera del Duero Tinto,2014,Ribera Del Duero Red,5.0,3.0,57.96,165
+566,298,Baron de Chirel Rioja Reserva,2016,Rioja Red,4.0,3.0,73.62,163
+656,348,Capitel,2016,Verdejo,3.0,3.0,144.78,162
+742,388,Turo d'en Mota,2005,Cava,2.0,3.0,90.0,161
+783,409,Amancio,2015,Rioja Red,4.0,3.0,89.95,156
+887,456,Regina Vides Ribera del Duero,2015,Ribera Del Duero Red,5.0,3.0,92.8,154
+559,296,Emeritvs (Emeritus),2013,Red,4.0,3.0,48.9,147
+887,456,Regina Vides Ribera del Duero,2016,Ribera Del Duero Red,5.0,3.0,70.55,144
+742,388,Turo d'en Mota,2006,Cava,2.0,3.0,110.0,142
+583,305,Cami Pesseroles,2009,Priorat Red,4.0,3.0,139.3,141
+356,185,Reserva,2018,Ribera Del Duero Red,5.0,3.0,59.8,141
+783,409,Amancio,2014,Rioja Red,4.0,3.0,75.0,140
+316,162,Finca Los Hoyales Ribera del Duero,2015,Ribera Del Duero Red,5.0,3.0,57.0,140
+75,33,Vina El Pison,2013,Tempranillo,4.0,2.0,253.47,137
+378,197,Blanco,2017,Unknown,Unknown,0.0,49.95,134
+886,456,Pesus Ribera del Duero,2015,Ribera Del Duero Red,5.0,3.0,298.0,134
+8,4,Pago Garduna,2009,Syrah,4.0,3.0,73.6,132
+173,90,La Basseta,2013,Priorat Red,4.0,3.0,58.0,132
+807,420,Territorio Luthier Reserva,2016,Ribera Del Duero Red,5.0,3.0,54.0,128
+24,13,Ribera del Duero,2018,Ribera Del Duero Red,5.0,3.0,78.38,128
+868,447,Valbuena 5o,1988,Ribera Del Duero Red,5.0,3.0,228.63,126
+63,29,Son Negre,2011,Red,4.0,3.0,228.9,121
+313,161,Clos de L'Obac,2010,Priorat Red,4.0,3.0,81.3,121
+348,181,Vinas Viejas de Soria Ribera Del Duero,2018,Ribera Del Duero Red,5.0,3.0,165.0,117
+885,456,Pago de Santa Cruz Gran Reserva Ribera del Duero,2014,Ribera Del Duero Red,5.0,3.0,54.9,115
+726,382,As Sortes Val do Bibei Godello,2020,Unknown,Unknown,0.0,55.0,115
+583,305,Cami Pesseroles,2010,Priorat Red,4.0,3.0,131.85,113
+674,355,Parcela El Picon Tinto,2015,Ribera Del Duero Red,5.0,3.0,148.39,113
+18,7,Tinto,2011,Ribera Del Duero Red,5.0,3.0,39.0,110
+482,256,Seleccion Rioja,2015,Rioja Red,4.0,3.0,67.1,107
+817,423,Millenium Reserva,1996,Ribera Del Duero Red,5.0,3.0,199.45,106
+181,93,Acediano,2015,Ribera Del Duero Red,5.0,3.0,52.0,104
+555,295,Gaudium,2016,Rioja Red,4.0,3.0,34.9,104
+348,181,Vinas Viejas de Soria Ribera Del Duero,2017,Ribera Del Duero Red,5.0,3.0,75.81,103
+785,409,Finca el Bosque,2017,Rioja Red,4.0,3.0,84.36,103
+844,434,Pico de Luyas,2016,Ribera Del Duero Red,5.0,3.0,47.95,103
+69,33,Grandes Anadas Rioja,2001,Rioja Red,4.0,3.0,391.65,103
+495,264,Bruto,2019,Monastrell,5.0,3.0,32.5,104
+625,330,Aro,2004,Rioja Red,4.0,3.0,198.0,102
+611,320,Mas Via Gran Reserva Brut,2004,Cava,2.0,3.0,40.33,102
+51,24,Les Aubaguetes Priorat,2015,Priorat Red,4.0,3.0,302.5,99
+719,380,La Mula de la Quietud,2016,Toro Red,5.0,3.0,62.0,99
+278,144,Navarra Coleccion 125 Blanco,2018,Chardonnay,4.0,3.0,49.1,97
+563,297,Dalmau Rioja,2015,Rioja Red,4.0,3.0,75.0,97
+381,198,Chardonnay Uno,2011,Chardonnay,4.0,3.0,200.13,96
+832,428,Don PX Vieja Cosecha,1973,Pedro Ximenez,5.0,1.0,113.0,95
+129,65,Ribas de Cabrera,2018,Red,4.0,3.0,68.4059721390231,94
+889,458,Cenit,2012,Tempranillo,4.0,2.0,37.5,92
+68,33,El Carretil,2012,Tempranillo,4.0,2.0,165.0,88
+54,24,Quinon de Valmira,2016,Rioja Red,4.0,3.0,415.0,88
+181,93,Acediano,2014,Ribera Del Duero Red,5.0,3.0,74.0,87
+600,315,Mas del Serral,2007,Sparkling,2.0,3.0,192.16,82
+276,143,Estrats,2009,Red,4.0,3.0,59.82,81
+63,29,Son Negre,2016,Red,4.0,3.0,164.9,81
+336,173,Fino Imperial Amontillado 30 Anos,N.V.,Sherry,4.0,3.0,94.9,81
+856,441,Coliseo Amontillado VORS,N.V.,Sherry,4.0,3.0,199.0,81
+785,409,Finca el Bosque,2018,Rioja Red,4.0,3.0,85.95,81
+396,207,Grans Muralles,2000,Red,4.0,3.0,125.05,81
+375,196,Malleolus de Valderramiro,2018,Ribera Del Duero Red,5.0,3.0,85.55,82
+115,59,Contador Rioja,2016,Rioja Red,4.0,3.0,317.75,80
+18,7,Tinto,2010,Ribera Del Duero Red,5.0,3.0,35.0,79
+723,381,Vina Tondonia Gran Reserva Blanco,1981,Rioja White,3.0,3.0,274.95,78
+583,305,Cami Pesseroles,2014,Priorat Red,4.0,3.0,82.55,78
+295,151,Priorat,2019,Priorat Red,4.0,3.0,63.9,76
+554,294,8000,2017,Ribera Del Duero Red,5.0,3.0,29.95,75
+886,456,Pesus Ribera del Duero,2009,Ribera Del Duero Red,5.0,3.0,312.6,75
+173,90,La Basseta,2017,Priorat Red,4.0,3.0,58.95,75
+71,33,La Poza de Ballesteros,2010,Tempranillo,4.0,2.0,99.35,74
+691,365,Mironia Black Edition Tempranillo,2015,Ribera Del Duero Red,5.0,3.0,49.5,73
+174,90,La Creu Alta,2015,Priorat Red,4.0,3.0,234.98,73
+315,161,Miserere,2010,Priorat Red,4.0,3.0,78.5,74
+626,330,Prado Enea Gran Reserva,2015,Rioja Red,4.0,3.0,56.95,72
+821,425,Alma Tobia Rioja,2015,Rioja Red,4.0,3.0,40.0,72
+840,432,Tm,2016,Tempranillo,4.0,2.0,100.0,71
+592,309,Doix,2017,Priorat Red,4.0,3.0,79.9,71
+780,406,Tinto,2012,Ribera Del Duero Red,5.0,3.0,63.5,70
+614,322,La Loma,2017,Rioja Red,4.0,3.0,38.9,69
+426,221,Nebro Ribera del Duero,2011,Ribera Del Duero Red,5.0,3.0,154.5,69
+288,148,Priorat,2012,Priorat Red,4.0,3.0,374.66,69
+68,33,El Carretil,2015,Tempranillo,4.0,2.0,143.51,66
+909,469,El Canto del Angel,2014,Ribera Del Duero Red,5.0,3.0,59.95,66
+69,33,Grandes Anadas Rioja,1998,Rioja Red,4.0,3.0,467.65,66
+749,390,Rioja Blanco Reserva,2012,Rioja White,3.0,3.0,65.5,66
+746,390,Gran Reserva,2011,Rioja Red,4.0,3.0,88.5,65
+760,396,Cayetano del Pino Viejisimo Palo Cortado,N.V.,Sherry,4.0,3.0,25.92,61
+26,14,Calvario Rioja,2002,Rioja Red,4.0,3.0,95.0,61
+355,185,Gran Reserva Penas Aladas,2012,Ribera Del Duero Red,5.0,3.0,559.02,61
+583,305,Cami Pesseroles,2012,Priorat Red,4.0,3.0,115.85,60
+866,447,Unico,1969,Ribera Del Duero Red,5.0,3.0,976.83,60
+771,403,Gratallops Partida Bellvisos,2005,Priorat Red,4.0,3.0,266.81,59
+328,169,Coleccion Privada,2017,Red,4.0,3.0,26.9,59
+794,415,Finca El Canto,2015,Tempranillo,4.0,2.0,89.66,58
+463,242,Finca Cascorrales,2016,Ribera Del Duero Red,5.0,3.0,64.3,57
+503,268,Rioja Gran Reserva 904,1987,Rioja Red,4.0,3.0,190.0,57
+558,296,AAA,2004,Red,4.0,3.0,141.2,56
+18,7,Tinto,2007,Ribera Del Duero Red,5.0,3.0,32.0,55
+108,54,Rioja Gran Reserva,1994,Rioja Red,4.0,3.0,61.0,54
+619,326,Gran Reserva,1964,Rioja Red,4.0,3.0,140.0,54
+834,428,Marques de Poley Amontillado Seleccion 1951,1951,Pedro Ximenez,5.0,1.0,169.95,53
+203,103,Ribera Del Duero Reserva Premium 6 Anos,2014,Ribera Del Duero Red,5.0,3.0,49.9,53
+382,198,Reserva Especial,2006,Red,4.0,3.0,65.9,53
+337,174,Platon Tinto,2019,Toro Red,5.0,3.0,25.9,52
+888,457,Altos de Las Gateras Monastrell,2013,Monastrell,5.0,3.0,58.19,51
+354,185,Canta la Perdiz,2013,Ribera Del Duero Red,5.0,3.0,295.0,51
+578,301,Marques de la Concordia VSG Premium (formerly Hacienda de Susar Rioja),2016,Rioja Red,4.0,3.0,35.5,50
+20,9,Cava Kripta Gran Reserva Brut Nature,2013,Cava,2.0,3.0,53.7,49
+690,365,Alba de Miros Rueda Verdejo,2019,Verdejo,3.0,3.0,9.9,49
+247,127,Ribera del Duero TSM,2006,Ribera Del Duero Red,5.0,3.0,40.8333333333333,48
+344,179,Pendon De La Aguilera,2010,Ribera Del Duero Red,5.0,3.0,299.286840932831,47
+862,444,V2 Tinto,2009,Red,4.0,3.0,43.6838985,49
+49,24,L'Ermita Velles Vinyes Priorat,2003,Priorat Red,4.0,3.0,1372.14,46
+583,305,Cami Pesseroles,2016,Priorat Red,4.0,3.0,79.55,46
+230,117,Planots Priorat,2013,Priorat Red,4.0,3.0,57.0,46
+870,449,Blanco,2013,Unknown,Unknown,0.0,14.96,45
+913,472,Celia,2011,Ribera Del Duero Red,5.0,3.0,60.06,44
+604,316,Ribera del Duero Prestigio Pago de las Solanas,2010,Ribera Del Duero Red,5.0,3.0,237.0,44
+288,148,Priorat,1998,Priorat Red,4.0,3.0,993.28,43
+523,279,Calmo,2014,Ribera Del Duero Red,5.0,3.0,71.9,43
+405,209,Gran Reserva,1928,Rioja Red,4.0,3.0,270.0,43
+563,297,Dalmau Rioja,2000,Rioja Red,4.0,3.0,48.5,42
+63,29,Son Negre,2005,Red,4.0,3.0,200.0,42
+901,462,Confesor Rioja,2004,Rioja Red,4.0,3.0,107.5,42
+188,98,Cartago Paraje de Pozo,2016,Toro Red,5.0,3.0,77.5,42
+538,285,La Bienquerida,2019,Mencia,3.0,3.0,32.9,41
+297,153,Seleccion Especial,2015,Red,4.0,3.0,93.51,40
+765,397,Saca Unica,N.V.,Sherry,4.0,3.0,96.38,39
+471,248,Taberner No. 1,2011,Red,4.0,3.0,75.0,38
+846,436,Palomero,2010,Ribera Del Duero Red,5.0,3.0,44.95,38
+925,476,Grano a Grano,2017,Rioja Red,4.0,3.0,75.0,37
+426,221,Nebro Ribera del Duero,2015,Ribera Del Duero Red,5.0,3.0,143.38,37
+868,447,Valbuena 5o,1976,Ribera Del Duero Red,5.0,3.0,195.0,37
+329,169,Petit Verdot,2018,Red,4.0,3.0,20.15,36
+331,171,La Faraona Bierzo (Corullon),2015,Red,4.0,3.0,1373.66,36
+369,195,Santa Ana Pedro Ximenez 1861,N.V.,Pedro Ximenez,5.0,1.0,320.0,36
+45,22,Cuvee Julia Ribera del Duero,2011,Ribera Del Duero Red,5.0,3.0,157.0,35
+831,428,Don PX Seleccion,1949,Pedro Ximenez,5.0,1.0,295.0,34
+622,329,Garnacha,2019,Grenache,5.0,3.0,29.95,33
+722,381,Vina Tondonia Gran Reserva,2001,Rioja Red,4.0,3.0,187.91,33
+583,305,Cami Pesseroles,2013,Priorat Red,4.0,3.0,113.2,32
+332,171,Las Lamas Bierzo (Corullon),2018,Mencia,3.0,3.0,120.0,32
+264,136,Finca Garbet,2015,Syrah,4.0,3.0,89.9,32
+899,462,200 Monges Rioja Reserva Seleccion Especial,2006,Rioja Red,4.0,3.0,59.25,32
+368,194,Galia Clos Santuy,2016,Red,4.0,3.0,89.0,32
+854,440,Tomas Esteban,2011,Ribera Del Duero Red,5.0,3.0,71.3,32
+490,262,Finca Las Comas Verdejo,2018,Verdejo,3.0,3.0,34.5,32
+868,447,Valbuena 5o,1975,Ribera Del Duero Red,5.0,3.0,195.0,31
+11,4,Petit Verdot,2004,Red,4.0,3.0,160.81,31
+58,26,Diables,2018,Unknown,Unknown,0.0,38.75,31
+776,404,St Antoni de Scala Dei Priorat,2017,Priorat Red,4.0,3.0,75.04,30
+440,232,Anada Palo Cortado 1987,1991,Sherry,4.0,3.0,230.0,30
+74,33,Valdegines,2019,Tempranillo,4.0,2.0,40.0,30
+288,148,Priorat,2018,Priorat Red,4.0,3.0,225.0,30
+198,102,Seda de Oro Reserva,2016,Rioja Red,4.0,3.0,69.0,29
+14,5,Grano a Grano Graciano - Garnacha,2016,Grenache,5.0,3.0,55.14,29
+818,423,Reserva,1986,Ribera Del Duero Red,5.0,3.0,90.0,29
+140,71,Carraquintana de Amaren,2017,Rioja Red,4.0,3.0,56.5,29
+60,27,Garnacha Parcela 81 Vinas Viejas,2017,Red,4.0,3.0,54.9,28
+258,134,Saktih,2016,Red,4.0,3.0,132.95,28
+447,234,Cava Enoteca Finca de L'Origen Brut Nature,2002,Cava,2.0,3.0,142.0,28
+787,410,Salinas 1237,2014,Red,4.0,3.0,53.25,28
+327,169,Cabernet Sauvignon,2019,Cabernet Sauvignon,4.0,3.0,16.9,27
+903,464,Finca La Colina Sauvignon Blanc,2021,Sauvignon Blanc,3.0,3.0,13.45,27
+275,142,Dominio del Verso Red Blend,2018,Red,Unknown,0.0,29.5,27
+43,20,Altos R Pigeage Nacido en Barrica Blanco,2019,Rioja White,Unknown,0.0,29.9168517,27
+153,78,Vinyes Altes Porrera,2007,Priorat Red,Unknown,0.0,69.0,26
+513,272,La Vinya del Vuit (8),2015,Priorat Red,Unknown,0.0,73.0,26
+873,451,Venus de la Figuera,2017,Montsant Red,Unknown,0.0,51.5,26
+689,364,Vendetta,2013,Albarino,Unknown,0.0,38.0,25
+24,13,Ribera del Duero,2009,Ribera Del Duero Red,Unknown,0.0,189.0,6395
+700,371,Toro,2011,Toro Red,Unknown,0.0,39.5,5732
+700,371,Toro,2012,Toro Red,Unknown,0.0,89.9,5614
+700,371,Toro,2013,Toro Red,Unknown,0.0,76.8,5204
+503,268,Rioja Gran Reserva 904,2009,Rioja Red,Unknown,0.0,47.5,5109
+605,316,Ribera del Duero Reserva,2016,Ribera Del Duero Red,Unknown,0.0,31.5,4851
+503,268,Rioja Gran Reserva 904,2011,Rioja Red,Unknown,0.0,47.95,4625
+503,268,Rioja Gran Reserva 904,2007,Rioja Red,Unknown,0.0,47.95,4357
+373,196,Malleolus,2018,Ribera Del Duero Red,Unknown,0.0,38.61,4121
+627,330,Seleccion Especial (Reserva),2016,Rioja Red,Unknown,0.0,27.9,3589
+605,316,Ribera del Duero Reserva,2017,Ribera Del Duero Red,Unknown,0.0,37.25,3456
+460,241,Cosecha,2016,Ribera Del Duero Red,Unknown,0.0,37.8,3406
+503,268,Rioja Gran Reserva 904,2010,Rioja Red,Unknown,0.0,61.55,3327
+626,330,Prado Enea Gran Reserva,2011,Rioja Red,Unknown,0.0,43.95,3197
+177,91,Red,2018,Red,Unknown,0.0,31.95,3095
+12,4,Seleccion Especial,2017,Red,Unknown,0.0,25.5,3093
+155,80,Clio,2014,Red,Unknown,0.0,35.65,3089
+350,183,Flor de Pingus,2012,Ribera Del Duero Red,Unknown,0.0,125.0,2546
+350,183,Flor de Pingus,2013,Ribera Del Duero Red,Unknown,0.0,125.0,2418
+507,268,Vina Ardanza Reserva,2015,Rioja Red,4.0,3.0,23.0,2370
+186,97,Roda I Reserva Rioja,2009,Rioja Red,4.0,3.0,43.5,2228
+186,97,Roda I Reserva Rioja,2010,Rioja Red,4.0,3.0,24.7,2133
+824,426,3er Ano Ribera del Duero Tinto,2017,Ribera Del Duero Red,5.0,3.0,27.4,2080
+24,13,Ribera del Duero,2007,Ribera Del Duero Red,5.0,3.0,96.0,2053
+105,52,Macan Clasico,2016,Rioja Red,4.0,3.0,37.52,1993
+186,97,Roda I Reserva Rioja,2011,Rioja Red,4.0,3.0,43.95,1949
+84,37,Alaya Tierra (Old Vines Vieilles Vignes),2017,Grenache,5.0,3.0,19.6,1948
+562,297,Castillo Ygay Gran Reserva Especial Tinto,2004,Rioja Red,4.0,3.0,160.0,1943
+186,97,Roda I Reserva Rioja,2012,Rioja Red,4.0,3.0,43.5,1853
+824,426,3er Ano Ribera del Duero Tinto,2018,Ribera Del Duero Red,5.0,3.0,27.75,1842
+460,241,Cosecha,2018,Ribera Del Duero Red,5.0,3.0,32.5,1777
+177,91,Red,2019,Red,4.0,3.0,29.45,1701
+4,2,Tinto,2017,Ribera Del Duero Red,5.0,3.0,51.526827174062,1561
+104,52,Macan,2010,Rioja Red,4.0,3.0,216.0,1519
+24,13,Ribera del Duero,2006,Ribera Del Duero Red,5.0,3.0,119.7,1514
+628,330,Torre Muga,2006,Rioja Red,4.0,3.0,66.73,1475
+186,97,Roda I Reserva Rioja,2015,Rioja Red,4.0,3.0,39.95,1463
+606,317,El Viejo,2018,Toro Red,5.0,3.0,32.01,1438
+204,103,Ribera del Duero Una Cepa I,2016,Ribera Del Duero Red,5.0,3.0,28.9,1372
+190,98,Tinto,2017,Toro Red,5.0,3.0,36.0,1339
+575,300,Hacienda Pradolagar,2015,Rioja Red,4.0,3.0,105.12,1326
+20,9,Cava Kripta Gran Reserva Brut Nature,2008,Cava,2.0,3.0,52.5,1269
+460,241,Cosecha,2017,Ribera Del Duero Red,5.0,3.0,33.31,1266
+750,390,Rioja Reserva,2010,Rioja Red,4.0,3.0,73.65,1255
+39,19,Garnacha,2016,Grenache,5.0,3.0,33.95,1226
+750,390,Rioja Reserva,2009,Rioja Red,4.0,3.0,74.0,1172
+24,13,Ribera del Duero,2005,Ribera Del Duero Red,5.0,3.0,169.0,1166
+84,37,Alaya Tierra (Old Vines Vieilles Vignes),2018,Grenache,5.0,3.0,24.8,1158
+24,13,Ribera del Duero,2004,Ribera Del Duero Red,5.0,3.0,140.840866321332,1121
+295,151,Priorat,2014,Priorat Red,4.0,3.0,175.5,1104
+898,462,200 Monges Rioja Reserva,2011,Rioja Red,4.0,3.0,37.57,1098
+80,34,Reserva Ribera del Duero,2016,Ribera Del Duero Red,5.0,3.0,26.24,1087
+373,196,Malleolus,2019,Ribera Del Duero Red,5.0,3.0,28.5,1069
+179,91,VS,2014,Tempranillo,4.0,2.0,178.0,1064
+461,241,Reserva,2011,Ribera Del Duero Red,5.0,3.0,78.65,1048
+350,183,Flor de Pingus,2008,Ribera Del Duero Red,5.0,3.0,125.0,1047
+186,97,Roda I Reserva Rioja,2016,Rioja Red,4.0,3.0,35.9,1039
+675,355,Reserva Tinto,2017,Ribera Del Duero Red,5.0,3.0,35.7,1040
+4,2,Tinto,2019,Ribera Del Duero Red,5.0,3.0,33.0,1018
+179,91,VS,2015,Tempranillo,4.0,2.0,60.95,995
+496,264,Jumilla Blue Label,2019,Red,4.0,3.0,21.95,966
+195,100,Palo Cortado Tradicion Vors 30 Years Sherry,N.V.,Sherry,4.0,3.0,82.5,941
+461,241,Reserva,2014,Ribera Del Duero Red,5.0,3.0,109.9,927
+781,407,San Vicente Rioja,2011,Rioja Red,4.0,3.0,33.5,925
+39,19,Garnacha,2018,Grenache,5.0,3.0,38.95,915
+918,473,Triga,2016,Red,4.0,3.0,34.9,852
+555,295,Gaudium,2014,Rioja Red,4.0,3.0,37.8,827
+192,100,Amontillado Tradicion Vors 30 Years,N.V.,Sherry,4.0,3.0,59.9,825
+813,422,Victorino,2016,Toro Red,5.0,3.0,38.7,812
+295,151,Priorat,2011,Priorat Red,4.0,3.0,90.0,809
+295,151,Priorat,2010,Priorat Red,4.0,3.0,69.79,799
+518,276,Culmen Reserva Rioja,2011,Rioja Red,4.0,3.0,59.9,798
+84,37,Alaya Tierra (Old Vines Vieilles Vignes),2019,Grenache,5.0,3.0,27.39,787
+186,97,Roda I Reserva Rioja,2005,Rioja Red,4.0,3.0,93.0,783
+356,185,Reserva,2016,Ribera Del Duero Red,5.0,3.0,73.57,778
+576,300,Reserva Privada Rioja,2015,Rioja Red,4.0,3.0,49.67,746
+9,4,Pago Negralada,2014,Tempranillo,4.0,2.0,91.57,726
+295,151,Priorat,2012,Priorat Red,4.0,3.0,90.0,695
+566,298,Baron de Chirel Rioja Reserva,2015,Rioja Red,4.0,3.0,69.95,683
+24,13,Ribera del Duero,2001,Ribera Del Duero Red,5.0,3.0,190.0,681
+566,298,Baron de Chirel Rioja Reserva,2005,Rioja Red,4.0,3.0,140.0,667
+843,433,Rejon Tempranillo,2015,Tempranillo,4.0,2.0,35.75,664
+48,24,Finca Dofi,2016,Priorat Red,4.0,3.0,52.5,639
+295,151,Priorat,2007,Priorat Red,4.0,3.0,95.0,624
+90,41,Interpretacion,2016,Ribera Del Duero Red,5.0,3.0,45.15,618
+628,330,Torre Muga,2015,Rioja Red,4.0,3.0,58.2142247461506,617
+781,407,San Vicente Rioja,2016,Rioja Red,4.0,3.0,42.7,609
+841,432,Vendimia,2017,Ribera Del Duero Red,5.0,3.0,28.7315367295517,581
+412,215,Priorat Vinyes Velles,2017,Priorat Red,4.0,3.0,32.65,575
+555,295,Gaudium,2015,Rioja Red,4.0,3.0,43.86,561
+105,52,Macan Clasico,2017,Rioja Red,4.0,3.0,36.9,560
+750,390,Rioja Reserva,2013,Rioja Red,4.0,3.0,54.83,550
+563,297,Dalmau Rioja,2016,Rioja Red,4.0,3.0,55.33,550
+145,71,Tempranillo Reserva,2010,Rioja Red,4.0,3.0,26.9,542
+193,100,Cream Tradicion Vos 20 Years,N.V.,Sherry,Unknown,0.0,57.9,527
+817,423,Millenium Reserva,2008,Ribera Del Duero Red,Unknown,0.0,74.0,527
+460,241,Cosecha,2019,Ribera Del Duero Red,Unknown,0.0,34.35,523
+78,34,Gran Reserva Ribera del Duero,2009,Ribera Del Duero Red,Unknown,0.0,76.3,516
+90,41,Interpretacion,2017,Ribera Del Duero Red,Unknown,0.0,45.3,514
+868,447,Valbuena 5o,1995,Ribera Del Duero Red,Unknown,0.0,299.0,512
+179,91,VS,2016,Tempranillo,Unknown,0.0,56.5,506
+884,456,Pago de Santa Cruz,2014,Ribera Del Duero Red,Unknown,0.0,54.9,499
+650,346,Vatan Tinta de Toro,2017,Toro Red,Unknown,0.0,55.31,498
+283,146,Dominio del Pidio,2016,Ribera Del Duero Red,Unknown,0.0,53.91,495
+571,298,Rioja Gran Reserva,2015,Rioja Red,Unknown,0.0,35.1,485
+813,422,Victorino,2017,Toro Red,Unknown,0.0,38.5,481
+474,250,Rioja Gran Reserva,2015,Rioja Red,Unknown,0.0,49.97,471
+246,127,Reserva,2016,Ribera Del Duero Red,Unknown,0.0,32.9,450
+733,385,Tinto,2006,Red,Unknown,0.0,34.0,443
+72,33,Pagos Viejos,2006,Tempranillo,Unknown,0.0,90.5,442
+62,29,An,2018,Red,Unknown,0.0,38.3,436
+603,316,Ribera del Duero Prestigio,2014,Ribera Del Duero Red,Unknown,0.0,41.32,421
+124,62,Numanthia,2004,Toro Red,Unknown,0.0,98.0,414
+726,382,As Sortes Val do Bibei Godello,2018,Unknown,Unknown,0.0,55.71,412
+136,69,Suprema 30 Meses,2016,Ribera Del Duero Red,Unknown,0.0,35.2,406
+116,59,La Cueva del Contador Rioja,2015,Rioja Red,Unknown,0.0,73.6,389
+90,41,Interpretacion,2018,Ribera Del Duero Red,Unknown,0.0,41.0,389
+622,329,Garnacha,2016,Grenache,Unknown,0.0,31.5,376
+247,127,Ribera del Duero TSM,2015,Ribera Del Duero Red,Unknown,0.0,56.75,367
+757,393,Whisba Tempranillo Aged 18 Months in Whisky Barrels,2019,Toro Red,5.0,3.0,20.9,363
+517,276,A Mano Rioja,2017,Rioja Red,4.0,3.0,30.73,360
+316,162,Finca Los Hoyales Ribera del Duero,2014,Ribera Del Duero Red,5.0,3.0,49.9,351
+897,462,200 Monges Rioja Gran Reserva,2001,Rioja Red,4.0,3.0,52.0,349
+116,59,La Cueva del Contador Rioja,2011,Rioja Red,4.0,3.0,90.0,343
+64,30,La Hormiga de Antidoto,2019,Ribera Del Duero Red,5.0,3.0,26.63,336
+7,4,Le Domaine Blanco de Guarda,2019,Unknown,Unknown,0.0,32.58,334
+726,382,As Sortes Val do Bibei Godello,2019,Unknown,Unknown,0.0,46.5,333
+222,111,Edicion Limitada,2015,Ribera Del Duero Red,5.0,3.0,32.5811870756681,328
+138,70,Tinto,2017,Red,4.0,3.0,29.95,319
+37,18,Lealtanza Coleccion de Artistas Espanoles Sorolla,2010,Rioja Red,4.0,3.0,34.9,316
+743,389,Granja Gran Reserva Rioja,2011,Rioja Red,4.0,3.0,43.9,313
+696,368,Priorat,2016,Priorat Red,4.0,3.0,65.0,309
+830,428,Don PX Pedro Ximenez,1994,Pedro Ximenez,5.0,1.0,35.9,306
+878,453,Perez Pascuas Gran Reserva Seleccion,2010,Ribera Del Duero Red,5.0,3.0,210.5,305
+20,9,Cava Kripta Gran Reserva Brut Nature,2011,Cava,2.0,3.0,55.95,298
+315,161,Miserere,2005,Priorat Red,4.0,3.0,92.8716274104906,296
+584,305,Clos Martinet,2015,Priorat Red,4.0,3.0,65.4,296
+862,444,V2 Tinto,2008,Red,4.0,3.0,45.890156,293
+396,207,Grans Muralles,2014,Red,4.0,3.0,304.0,292
+267,137,Cerrado del Castillo Rioja,2015,Rioja Red,4.0,3.0,47.5,269
+517,276,A Mano Rioja,2018,Rioja Red,4.0,3.0,29.9,269
+310,159,Rioja Gran Reserva,2016,Rioja Red,4.0,3.0,40.45,267
+894,461,El Puntido Gran Reserva,2007,Rioja Red,4.0,3.0,49.65,267
+72,33,Pagos Viejos,2004,Tempranillo,4.0,2.0,57.11,262
+24,13,Ribera del Duero,1996,Ribera Del Duero Red,5.0,3.0,141.0,259
+753,390,Trasnocho,2010,Rioja Red,4.0,3.0,133.75,258
+116,59,La Cueva del Contador Rioja,2016,Rioja Red,4.0,3.0,67.9,252
+584,305,Clos Martinet,2011,Priorat Red,4.0,3.0,75.92,249
+20,9,Cava Kripta Gran Reserva Brut Nature,2010,Cava,2.0,3.0,47.52,245
+918,473,Triga,2017,Red,4.0,3.0,29.9,243
+917,473,Cuvee Old Vines Unfiltered,2017,Red,4.0,3.0,19.99,241
+511,271,Gran Reserva,2010,Rioja Red,4.0,3.0,59.25,239
+618,325,Fondillon,1996,Red,4.0,3.0,73.9,236
+47,23,1730 Pedro Ximenez,N.V.,Sherry,4.0,3.0,39.35,234
+172,90,Cirerets,2018,Priorat Red,4.0,3.0,40.3,233
+283,146,Dominio del Pidio,2018,Ribera Del Duero Red,5.0,3.0,42.75,225
+311,159,Vina del Olivo,2016,Rioja Red,4.0,3.0,149.5,224
+116,59,La Cueva del Contador Rioja,2012,Rioja Red,4.0,3.0,76.5,222
+584,305,Clos Martinet,2008,Priorat Red,4.0,3.0,113.2,220
+657,348,Vinas Viejas Verdejo,2019,Verdejo,3.0,3.0,26.9,219
+868,447,Valbuena 5o,1994,Ribera Del Duero Red,5.0,3.0,249.8,218
+246,127,Reserva,2017,Ribera Del Duero Red,5.0,3.0,29.95,217
+535,284,Tadeo Tinto,2014,Red,4.0,3.0,33.0,215
+346,179,Tierras de Cair Reserva,2014,Ribera Del Duero Red,5.0,3.0,37.0,208
+128,64,Tinto,2014,Ribera Del Duero Red,5.0,3.0,37.13,207
+720,381,Gran Reserva Rosado,2011,Unknown,Unknown,0.0,49.95,206
+278,144,Navarra Coleccion 125 Blanco,2017,Chardonnay,4.0,3.0,50.9,204
+445,234,Cava Celler Batlle,2006,Cava,2.0,3.0,51.95,201
+744,389,Rioja Blanco,2017,Rioja White,3.0,3.0,49.2,201
+254,132,Casa Cisca Monastrell,2015,Monastrell,5.0,3.0,35.2,200
+360,187,Lapola,2019,Unknown,Unknown,0.0,20.74,196
+26,14,Calvario Rioja,2008,Rioja Red,4.0,3.0,87.3,195
+743,389,Granja Gran Reserva Rioja,2012,Rioja Red,4.0,3.0,45.95,194
+9,4,Pago Negralada,2013,Tempranillo,4.0,2.0,64.99,189
+592,309,Doix,2007,Priorat Red,4.0,3.0,350.03,187
+413,215,Seleccio Especial Vinyes Velles,2013,Priorat Red,4.0,3.0,69.9,185
+859,443,Idus,2017,Priorat Red,4.0,3.0,36.95,180
+584,305,Clos Martinet,2007,Priorat Red,4.0,3.0,154.37,177
+553,293,Clos Abella Seleccion Especial,2014,Priorat Red,4.0,3.0,43.85,173
+250,129,Pie Franco,2017,Monastrell,5.0,3.0,77.98,172
+783,409,Amancio,2013,Rioja Red,4.0,3.0,91.43,172
+374,196,Malleolus de Sanchomartin,2007,Ribera Del Duero Red,5.0,3.0,195.0,172
+391,203,Tinto,2016,Montsant Red,4.0,3.0,125.84,169
+518,276,Culmen Reserva Rioja,2001,Rioja Red,4.0,3.0,69.0,168
+479,254,Singular V Malcorta Verdejo,2020,Verdejo,3.0,3.0,17.49,168
+741,388,Serral del Vell Brut Nature,2014,Cava,2.0,3.0,44.41,166
+391,203,Tinto,2014,Montsant Red,4.0,3.0,149.0,165
+9,4,Pago Negralada,2009,Tempranillo,4.0,2.0,73.6,165
+753,390,Trasnocho,2014,Rioja Red,4.0,3.0,82.75,164
+592,309,Doix,2013,Priorat Red,4.0,3.0,78.38,164
+712,376,Seleccion Finca el Grajo Viejo,2016,Ribera Del Duero Red,5.0,3.0,59.95,162
+785,409,Finca el Bosque,2014,Rioja Red,4.0,3.0,80.95,162
+71,33,La Poza de Ballesteros,2015,Tempranillo,4.0,2.0,95.9,161
+817,423,Millenium Reserva,2015,Ribera Del Duero Red,5.0,3.0,75.0,160
+467,244,30 Years VORS Pedro Ximenez Sherry,N.V.,Sherry,4.0,3.0,58.95,159
+555,295,Gaudium,1994,Rioja Red,4.0,3.0,125.0,159
+311,159,Vina del Olivo,2015,Rioja Red,4.0,3.0,64.0,159
+785,409,Finca el Bosque,2012,Rioja Red,4.0,3.0,78.9,158
+647,345,Malpuesto,2018,Rioja Red,4.0,3.0,35.5,158
+74,33,Valdegines,2018,Tempranillo,4.0,2.0,42.35,155
+477,252,Chafandin,2018,Ribera Del Duero Red,5.0,3.0,28.95,155
+75,33,Vina El Pison,2007,Tempranillo,4.0,2.0,495.0,154
+9,4,Pago Negralada,2016,Tempranillo,4.0,2.0,63.95,152
+117,59,La Vina de Andres Romeo Rioja,2012,Rioja Red,4.0,3.0,99.0,151
+886,456,Pesus Ribera del Duero,2012,Ribera Del Duero Red,5.0,3.0,379.0,150
+356,185,Reserva,2017,Ribera Del Duero Red,5.0,3.0,56.95,149
+887,456,Regina Vides Ribera del Duero,2012,Ribera Del Duero Red,5.0,3.0,65.34,148
+213,105,Delicado Cosecha Pedro Ximenez,2019,Pedro Ximenez,5.0,1.0,22.35,147
+157,81,Atlantico,2019,Unknown,Unknown,0.0,18.99,146
+633,334,Quincha Corral,2016,Red,4.0,3.0,79.95,145
+585,305,Els Escurcons,2014,Priorat Red,4.0,3.0,78.49,143
+750,390,Rioja Reserva,2014,Rioja Red,4.0,3.0,49.9,142
+859,443,Idus,2018,Priorat Red,4.0,3.0,35.5,141
+882,454,Vinos Singulares Tempranillo Blanco Reserva,2014,Rioja White,3.0,3.0,34.9,141
+83,36,Christina Ribera del Duero,2016,Ribera Del Duero Red,5.0,3.0,50.76,142
+608,319,Desti,2018,Priorat Red,4.0,3.0,29.95,136
+459,240,Gran Reserva Classica Tinto,2001,Rioja Red,4.0,3.0,36.75,135
+176,91,Godello Blanco,2019,Unknown,Unknown,0.0,37.6,134
+38,19,Aquilon Garnacha,2014,Grenache,5.0,3.0,100.0,134
+269,138,Palo Cortado 1/10,N.V.,Sherry,4.0,3.0,25.0,134
+509,269,Fourth Edition,Unknown,Tempranillo,4.0,2.0,40.0,131
+744,389,Rioja Blanco,2018,Rioja White,3.0,3.0,52.0,130
+685,362,Seleccion de Anada Albarino Rias Baixas,2012,Albarino,3.0,3.0,34.25,130
+406,210,Albarino de Fefinanes III Ano,2017,Albarino,3.0,3.0,35.4,128
+80,34,Reserva Ribera del Duero,2018,Ribera Del Duero Red,5.0,3.0,32.15,128
+399,207,Perpetual,2017,Priorat Red,4.0,3.0,62.75,127
+445,234,Cava Celler Batlle,2010,Cava,2.0,3.0,58.3,126
+413,215,Seleccio Especial Vinyes Velles,2016,Priorat Red,4.0,3.0,58.9,123
+609,319,El Cel,2015,Priorat Red,4.0,3.0,59.0,123
+437,231,Montes Obarenes Seleccion Terroir,2016,Rioja White,3.0,3.0,42.95,122
+861,443,Porrera Vi de Vila,2017,Priorat Red,4.0,3.0,43.95,122
+754,391,Gran Ribera del Duero,2010,Ribera Del Duero Red,5.0,3.0,41.9188925,122
+772,404,Heretge Priorat,2017,Priorat Red,4.0,3.0,91.03,120
+416,216,Vinas Viejas,2018,Ribera Del Duero Red,5.0,3.0,25.1,119
+71,33,La Poza de Ballesteros,2014,Tempranillo,4.0,2.0,104.0,119
+68,33,El Carretil,2010,Tempranillo,4.0,2.0,295.3,117
+652,347,Sibarita Oloroso Jerez-Xeres-Sherry 30 Years V.O.R.S,N.V.,Sherry,4.0,3.0,79.9,117
+885,456,Pago de Santa Cruz Gran Reserva Ribera del Duero,2015,Ribera Del Duero Red,5.0,3.0,71.95,116
+697,369,17,2018,Tempranillo,4.0,2.0,57.9,115
+886,456,Pesus Ribera del Duero,2011,Ribera Del Duero Red,5.0,3.0,465.0,114
+592,309,Doix,2014,Priorat Red,4.0,3.0,116.0,114
+809,421,Les Tosses,2014,Priorat Red,4.0,3.0,158.88,113
+583,305,Cami Pesseroles,2007,Priorat Red,4.0,3.0,165.85,112
+71,33,La Poza de Ballesteros,2013,Tempranillo,4.0,2.0,101.01,112
+704,373,Clos del Portal Tros de Clos,2016,Priorat Red,4.0,3.0,56.95,109
+884,456,Pago de Santa Cruz,2019,Ribera Del Duero Red,5.0,3.0,48.69,109
+173,90,La Basseta,2016,Priorat Red,4.0,3.0,56.0,108
+284,147,Classic,1996,Priorat Red,4.0,3.0,217.2,106
+639,339,Nit de Nin Mas d'en Cacador,2017,Priorat Red,4.0,3.0,89.9,106
+252,130,Minami,2016,Monastrell,5.0,3.0,48.9,106
+503,268,Rioja Gran Reserva 904,1982,Rioja Red,4.0,3.0,145.0,106
+55,24,Vi de Vila Gratallops,2019,Priorat Red,4.0,3.0,54.5,105
+181,93,Acediano,2016,Ribera Del Duero Red,5.0,3.0,42.0,104
+445,234,Cava Celler Batlle,2009,Cava,2.0,3.0,59.75,102
+284,147,Classic,2012,Priorat Red,4.0,3.0,49.95,102
+629,331,Veguin de Murua Gran Reserva,2012,Rioja Red,4.0,3.0,36.0,101
+672,355,O Luar do Sil Valdeorras Godello Sobre Lias,2020,Unknown,Unknown,0.0,16.39,101
+592,309,Doix,2015,Priorat Red,4.0,3.0,95.0,100
+905,466,Teixar,2015,Montsant Red,4.0,3.0,51.05,99
+780,406,Tinto,2018,Ribera Del Duero Red,5.0,3.0,52.9,99
+212,105,Anada Pedro Ximenez,2018,Pedro Ximenez,5.0,1.0,17.5,99
+7,4,Le Domaine Blanco de Guarda,2020,Unknown,Unknown,0.0,33.8,99
+75,33,Vina El Pison,1999,Tempranillo,4.0,2.0,419.85,98
+703,373,Clos del Portal Somni,2016,Priorat Red,4.0,3.0,33.03,98
+808,421,Les Manyes,2015,Priorat Red,4.0,3.0,189.0,98
+261,136,Emporda Aires de Garbet,2017,Red,4.0,3.0,39.22,98
+677,356,Montes de Toledo Syrah,2019,Syrah,4.0,3.0,19.5,97
+423,219,Torremilanos Coleccion Ribera del Duero,2014,Ribera Del Duero Red,5.0,3.0,44.0,97
+887,456,Regina Vides Ribera del Duero,2010,Ribera Del Duero Red,5.0,3.0,101.1,96
+395,206,Maceracion Con Pieles,2017,Albarino,3.0,3.0,36.95,95
+830,428,Don PX Pedro Ximenez,1986,Pedro Ximenez,5.0,1.0,225.0,95
+566,298,Baron de Chirel Rioja Reserva,2003,Rioja Red,4.0,3.0,77.0,95
+250,129,Pie Franco,2018,Monastrell,5.0,3.0,69.0,95
+116,59,La Cueva del Contador Rioja,2004,Rioja Red,4.0,3.0,90.0,94
+768,400,Clos Monlleo,2011,Priorat Red,4.0,3.0,50.0,94
+26,14,Calvario Rioja,2010,Rioja Red,4.0,3.0,125.97,92
+330,170,B.Rodriguez La-Cave Quo Vadis?,N.V.,Sherry,4.0,3.0,87.9,89
+175,90,La Solana Alta,2017,Unknown,Unknown,0.0,63.46,90
+890,459,Blecua Somontano,2004,Red,4.0,3.0,69.0,88
+609,319,El Cel,2016,Priorat Red,4.0,3.0,64.0,88
+849,437,Rioja Reserva 10 Anos Despues Edicion Limitada,2011,Rioja Red,4.0,3.0,57.9,88
+68,33,El Carretil,2014,Tempranillo,4.0,2.0,143.51,86
+594,311,Perinet + Plus,2004,Priorat Red,4.0,3.0,54.05,85
+391,203,Tinto,2017,Montsant Red,4.0,3.0,102.0,85
+295,151,Priorat,1999,Priorat Red,4.0,3.0,95.0,85
+541,287,Vina de Martin Escolma Ribeiro,2016,Unknown,Unknown,0.0,37.65,85
+75,33,Vina El Pison,2001,Tempranillo,4.0,2.0,340.0,85
+246,127,Reserva,2018,Ribera Del Duero Red,5.0,3.0,28.9,83
+48,24,Finca Dofi,2019,Priorat Red,4.0,3.0,84.55,82
+562,297,Castillo Ygay Gran Reserva Especial Tinto,1959,Rioja Red,4.0,3.0,940.0,80
+583,305,Cami Pesseroles,2008,Priorat Red,4.0,3.0,152.6,80
+915,472,Ribera del Duero Torralvo,2018,Ribera Del Duero Red,5.0,3.0,32.45,80
+281,145,El Cabernet F - Familiar,2017,Red,4.0,3.0,34.9,80
+210,104,Premium,2018,Ribera Del Duero Red,5.0,3.0,35.0,79
+676,356,Hipperia Red Blend,2018,Red,4.0,3.0,24.9,79
+30,16,Maria Ribera del Duero,2016,Ribera Del Duero Red,5.0,3.0,53.9,78
+377,196,Vendimia Seleccionada,2019,Ribera Del Duero Red,5.0,3.0,21.38,77
+75,33,Vina El Pison,2016,Tempranillo,4.0,2.0,385.0,77
+289,149,Clos Figueres,2017,Priorat Red,4.0,3.0,53.4,75
+180,92,Castillo de Monte la Reina Cuvee Privee,2015,Toro Red,5.0,3.0,14.65,75
+30,16,Maria Ribera del Duero,2015,Ribera Del Duero Red,5.0,3.0,54.9,75
+764,397,Amontillado Saca,N.V.,Sherry,4.0,3.0,62.02,74
+646,344,Queiron Reserva Vinedos Familiares,2011,Rioja Red,4.0,3.0,26.85,74
+583,305,Cami Pesseroles,2011,Priorat Red,4.0,3.0,126.5,74
+829,428,Don PX Gran Reserva,1990,Pedro Ximenez,5.0,1.0,35.9,73
+413,215,Seleccio Especial Vinyes Velles,2017,Priorat Red,4.0,3.0,64.35,73
+342,178,Llanos del Almendro Ribera del Duero,2011,Ribera Del Duero Red,5.0,3.0,115.2,73
+32,17,Dolc Mataro,2018,Unknown,Unknown,0.0,17.95,72
+626,330,Prado Enea Gran Reserva,1989,Rioja Red,4.0,3.0,140.0,72
+626,330,Prado Enea Gran Reserva,1991,Rioja Red,4.0,3.0,167.0,72
+813,422,Victorino,2019,Toro Red,5.0,3.0,33.9,71
+186,97,Roda I Reserva Rioja,2017,Rioja Red,4.0,3.0,45.95,71
+120,60,Toro 2V Premium,2005,Toro Red,5.0,3.0,44.0,70
+843,433,Rejon Tempranillo,2018,Tempranillo,4.0,2.0,31.94,70
+486,258,Les Eres Vinyes Velles,2015,Priorat Red,4.0,3.0,32.49,70
+458,240,Gran Reserva Classica Blanco,2012,Rioja White,3.0,3.0,36.75,70
+235,120,The Artist,2016,Red,4.0,3.0,26.84,69
+497,265,Amontillado 30 Years Old V.O.R.S Sherry,N.V.,Sherry,4.0,3.0,36.9,69
+684,361,La Comtesse de Pazo Barrantes Albarino,2017,Albarino,3.0,3.0,59.95,69
+771,403,Gratallops Partida Bellvisos,2007,Priorat Red,4.0,3.0,241.4,69
+12,4,Seleccion Especial,2018,Red,4.0,3.0,27.6,68
+13,5,5V Blanco,2019,Rioja White,3.0,3.0,37.98,68
+593,310,Finca Butaros Vinya Centenaria,2015,Red,4.0,3.0,32.23,67
+396,207,Grans Muralles,2016,Red,4.0,3.0,123.76,67
+538,285,La Bienquerida,2018,Mencia,3.0,3.0,34.55,66
+68,33,El Carretil,2016,Tempranillo,4.0,2.0,155.0,66
+577,300,Seleccion Privada,2011,Rioja Red,4.0,3.0,68.0,65
+712,376,Seleccion Finca el Grajo Viejo,2017,Ribera Del Duero Red,5.0,3.0,59.9,65
+162,84,Aponte Winemaker's Private Collection Tempranillo,2008,Tempranillo,4.0,2.0,112.0,66
+759,395,Cami de Cormes,2018,Red,4.0,3.0,14.18,65
+660,350,Kalamity Rioja,2017,Rioja Red,4.0,3.0,106.0,65
+695,368,1194,2016,Red,4.0,3.0,105.8121097,64
+273,140,Malabrigo Ribera del Duero,2018,Ribera Del Duero Red,5.0,3.0,31.5,65
+763,396,Old & Plus Pedro Ximenez,N.V.,Sherry,4.0,3.0,42.12,64
+93,43,Reserva Trajanvs,2016,Red,4.0,3.0,21.5,64
+48,24,Finca Dofi,1999,Priorat Red,4.0,3.0,75.0,64
+488,260,No. 2 Victoria,2018,Unknown,Unknown,0.0,15.9,64
+743,389,Granja Gran Reserva Rioja,2013,Rioja Red,4.0,3.0,53.9,63
+262,136,Emporda Gran Claustro,2015,Red,4.0,3.0,30.86,63
+63,29,Son Negre,2010,Red,4.0,3.0,235.95,63
+898,462,200 Monges Rioja Reserva,2012,Rioja Red,4.0,3.0,38.5,62
+730,383,Lalomba Finca Valhonta,2017,Rioja Red,4.0,3.0,56.75,61
+293,151,Manyetes,2017,Priorat Red,4.0,3.0,59.9,61
+876,453,Gran Reserva,2014,Ribera Del Duero Red,5.0,3.0,122.667917,60
+741,388,Serral del Vell Brut Nature,2016,Cava,2.0,3.0,34.56,60
+10,4,Pago Valdebellon,2016,Cabernet Sauvignon,4.0,3.0,65.9,60
+445,234,Cava Celler Batlle,2011,Cava,2.0,3.0,59.75,59
+886,456,Pesus Ribera del Duero,2003,Ribera Del Duero Red,5.0,3.0,509.25,59
+809,421,Les Tosses,2013,Priorat Red,4.0,3.0,158.88,59
+521,278,Guarda de Leda Seleccion Tempranillo,2015,Tempranillo,4.0,2.0,37.66,59
+385,199,Nun Vinya dels Taus,2018,Unknown,Unknown,0.0,62.7,59
+153,78,Vinyes Altes Porrera,2016,Priorat Red,4.0,3.0,60.73,58
+390,202,Lo Cortinelo.Lo Blanc,2017,Unknown,Unknown,0.0,27.25,58
+228,116,5 Partides Gratallops Vi de La Vila,2014,Priorat Red,4.0,3.0,49.6,58
+528,281,Cava Ex-Vite Gran Reserva Brut,2010,Cava,2.0,3.0,43.5,57
+868,447,Valbuena 5o,1982,Ribera Del Duero Red,5.0,3.0,225.0,56
+705,374,Summa Edicion Limitada,2015,Ribera Del Duero Red,5.0,3.0,89.97,56
+172,90,Cirerets,2019,Priorat Red,4.0,3.0,37.9,56
+533,284,Pago El Espino,2019,Red,4.0,3.0,18.9,56
+511,271,Gran Reserva,2015,Rioja Red,4.0,3.0,53.8,55
+878,453,Perez Pascuas Gran Reserva Seleccion,2015,Ribera Del Duero Red,5.0,3.0,55.25,55
+658,349,Gloria Rioja,2011,Rioja Red,4.0,3.0,44.9,55
+424,220,Petra de Valpiedra Garnacha,2017,Grenache,5.0,3.0,32.9,55
+880,454,Alto de la Caseta,2015,Rioja Red,4.0,3.0,82.5,54
+741,388,Serral del Vell Brut Nature,2015,Cava,2.0,3.0,33.78,54
+843,433,Rejon Tempranillo,2017,Tempranillo,4.0,2.0,34.9,54
+860,443,Mas de la Rosa,2016,Priorat Red,4.0,3.0,367.39,53
+96,45,Rioja B70,2014,Rioja Red,4.0,3.0,104.5,52
+602,316,Gran Reserva,2014,Ribera Del Duero Red,5.0,3.0,74.55,52
+910,470,Tinto,2016,Ribera Del Duero Red,5.0,3.0,119.0,52
+301,156,Don Miguel,2016,Ribera Del Duero Red,5.0,3.0,31.9239296995019,51
+300,155,Singular Negre,2015,Cabernet Sauvignon,4.0,3.0,27.35,51
+153,78,Vinyes Altes Porrera,2017,Priorat Red,4.0,3.0,33.0,51
+587,306,Rioja Reserva Especial,1922,Rioja Red,4.0,3.0,280.0,51
+716,378,Rioja Cisma,2014,Rioja Red,4.0,3.0,140.0,50
+482,256,Seleccion Rioja,2018,Rioja Red,4.0,3.0,32.0,50
+28,14,Martires Rioja,2015,Rioja White,3.0,3.0,91.5,50
+529,281,Cava Original Brut (Espumos),2010,Cava,2.0,3.0,52.95,49
+22,11,Marti Reserva Penedes,2015,Red,4.0,3.0,35.15,49
+508,268,Vina Ardanza Reserva Seleccion Especial,2015,Rioja Red,4.0,3.0,23.0,49
+498,265,Oloroso 30 Years Old V.O.R.S,N.V.,Sherry,4.0,3.0,37.9,48
+643,342,Pozo Alto,2016,Rioja Red,4.0,3.0,119.95,48
+141,71,El Cristo de Samaniego,2017,Rioja Red,4.0,3.0,42.9,47
+191,99,El Belisario,2016,Tempranillo,4.0,2.0,39.9,47
+835,429,Baron de Ona Rioja Reserva,1995,Rioja Red,4.0,3.0,50.0,46
+288,148,Priorat,2017,Priorat Red,4.0,3.0,209.31,45
+831,428,Don PX Seleccion,1968,Pedro Ximenez,5.0,1.0,165.0,45
+619,326,Gran Reserva,1978,Rioja Red,4.0,3.0,97.0,45
+338,175,Cepas Vellas Rias Baixas Albarino,2020,Albarino,3.0,3.0,26.5,44
+524,279,La Aguilera,2016,Ribera Del Duero Red,5.0,3.0,32.5,44
+118,59,Pirata,2014,Rioja White,3.0,3.0,194.0,44
+890,459,Blecua Somontano,2014,Red,4.0,3.0,74.95,43
+805,420,Hispania,2018,Ribera Del Duero Red,5.0,3.0,28.9,43
+581,304,Arousa,2019,Albarino,3.0,3.0,18.99,44
+892,460,Las Cenizas Tempranillo,2018,Rioja Red,4.0,3.0,19.95,43
+285,147,Solanes Priorat,2003,Priorat Red,4.0,3.0,38.66,43
+69,33,Grandes Anadas Rioja,1994,Rioja Red,4.0,3.0,180.0,43
+583,305,Cami Pesseroles,2017,Priorat Red,4.0,3.0,75.5,42
+431,226,Cava Cuvee De Prestige Trepat,2019,Cava,2.0,3.0,7.89,43
+94,44,Felix Azpilicueta Coleccion Privada,2019,Rioja Red,4.0,3.0,18.0,41
+449,234,Savinat Sauvignon Blanc,2019,Sauvignon Blanc,3.0,3.0,17.9,41
+874,452,Capricho Crianza,2017,Ribera Del Duero Red,5.0,3.0,15.4438025,41
+891,460,Finca La Emperatriz Vinedo Singular Tinto,2017,Rioja Red,4.0,3.0,33.55,41
+291,150,Galena,2017,Priorat Red,4.0,3.0,19.8,41
+475,250,Rioja Reserva,1982,Rioja Red,4.0,3.0,145.0,41
+655,347,Solera PAP Palo Cortado Rare Sherry,N.V.,Sherry,4.0,3.0,189.99,41
+167,87,Finca Helena,2015,Ribera Del Duero Red,5.0,3.0,59.9,40
+579,302,Primordium,2012,Ribera Del Duero Red,5.0,3.0,29.9,40
+22,11,Marti Reserva Penedes,2016,Red,4.0,3.0,33.8,39
+175,90,La Solana Alta,2018,Unknown,Unknown,0.0,43.5,39
+871,450,La Cuartilleja Reserva,2016,Ribera Del Duero Red,5.0,3.0,39.9,39
+374,196,Malleolus de Sanchomartin,2018,Ribera Del Duero Red,5.0,3.0,119.35,39
+415,216,Noble,2015,Ribera Del Duero Red,5.0,3.0,60.0,38
+95,45,De Garage Rioja,2005,Rioja Red,4.0,3.0,40.0,37
+663,352,Gran Calzadilla,2010,Red,4.0,3.0,34.75,37
+911,471,4 Varietales Coleccion Rioja,2017,Rioja Red,4.0,3.0,24.0,37
+408,212,Oloroso,N.V.,Sherry,4.0,3.0,59.9,38
+25,14,Aurus,1998,Rioja Red,4.0,3.0,245.25,37
+830,428,Don PX Pedro Ximenez,1973,Pedro Ximenez,5.0,1.0,109.76,37
+631,333,Numerus Clausus,2012,Tempranillo,4.0,2.0,59.9,37
+716,378,Rioja Cisma,2012,Rioja Red,4.0,3.0,130.5,37
+900,462,200 Monges Rioja Seleccion Especial Reserva Blanco,2008,Rioja White,3.0,3.0,61.5,36
+829,428,Don PX Gran Reserva,1994,Pedro Ximenez,5.0,1.0,33.23,36
+261,136,Emporda Aires de Garbet,2018,Red,4.0,3.0,38.5,36
+571,298,Rioja Gran Reserva,1996,Rioja Red,4.0,3.0,38.12,36
+466,244,30 Years V.O.R.S Very Old Palo Cortado Blend Medium Sherry,N.V.,Sherry,4.0,3.0,65.0,35
+404,208,Campus Gothorum,2017,Toro Red,5.0,3.0,41.0,35
+815,423,Gran Reserva,2015,Ribera Del Duero Red,5.0,3.0,74.5,35
+385,199,Nun Vinya dels Taus,2019,Unknown,Unknown,0.0,45.39,35
+432,227,La Pizca,2016,Red,4.0,3.0,26.0,35
+389,201,La Bota 90 de Manzanilla Pasada,N.V.,Sherry,4.0,3.0,39.75,35
+525,279,Moradillo de Roa,2017,Ribera Del Duero Red,5.0,3.0,29.89,35
+152,77,Cofradia,2014,Rioja Red,4.0,3.0,38.0,34
+716,378,Rioja Cisma,2009,Rioja Red,4.0,3.0,132.4,34
+153,78,Vinyes Altes Porrera,2009,Priorat Red,4.0,3.0,69.0,34
+255,133,Stairway To Heaven Rosado,2020,Unknown,Unknown,0.0,13.99,34
+102,50,La Silleria,2017,Unknown,Unknown,0.0,24.5,34
+487,259,Planella,2020,Montsant Red,4.0,3.0,16.25,34
+582,304,Gallaecia Rias Baixes Albarino,2017,Albarino,3.0,3.0,39.95,34
+815,423,Gran Reserva,1994,Ribera Del Duero Red,5.0,3.0,138.0,34
+923,475,Monada,2013,Red,4.0,3.0,35.4,33
+138,70,Tinto,2019,Red,4.0,3.0,20.95,33
+772,404,Heretge Priorat,2018,Priorat Red,4.0,3.0,39.99,33
+801,417,Usted,2009,Red,4.0,3.0,159.8,33
+28,14,Martires Rioja,2017,Rioja White,3.0,3.0,139.63,33
+163,84,Verdejo,2017,Verdejo,3.0,3.0,19.97,32
+242,125,Vina Garugele,2015,Rioja Red,4.0,3.0,75.8,32
+170,89,Petit Verdot,2013,Red,4.0,3.0,52.5,32
+514,273,Barrica,2018,Red,4.0,3.0,20.95,32
+307,158,Voltons,2017,Priorat Red,4.0,3.0,51.95,32
+257,134,Ekam Essencia,2015,Unknown,Unknown,0.0,43.44,32
+838,430,Valcavado de Traslascuestas,2014,Ribera Del Duero Red,5.0,3.0,35.48,31
+822,425,Oscar Tobia Gran Reserva Rioja,2014,Rioja Red,4.0,3.0,28.0,31
+50,24,La Baixada,2018,Priorat Red,4.0,3.0,239.5,31
+116,59,La Cueva del Contador Rioja,2019,Rioja Red,4.0,3.0,60.61,31
+532,283,Seleccion,2012,Ribera Del Duero Red,5.0,3.0,35.35,31
+299,154,Cava El Tros Nou Pinot Noir,2009,Cava,2.0,3.0,89.9,30
+293,151,Manyetes,2018,Priorat Red,4.0,3.0,74.56,30
+789,412,Tinto,2007,Red,4.0,3.0,33.4,30
+106,53,Los Dominios de Berceo Prefiloxerico,2015,Rioja Red,4.0,3.0,29.25,29
+761,396,Old & Plus Amontillado,N.V.,Sherry,4.0,3.0,15.84,28
+828,428,Don PX Convento Seleccion,1968,Pedro Ximenez,5.0,1.0,173.0,28
+589,308,Sao Expressiu,2012,Red,4.0,3.0,34.5,28
+243,126,Onomastica Rioja Reserva,2014,Rioja Red,4.0,3.0,21.88,28
+506,268,Vina Arana Gran Reserva,2015,Rioja Red,4.0,3.0,27.9,28
+59,27,Carinena Parcela 15 Vinas Viejas,2017,Red,4.0,3.0,54.9,28
+319,165,Vobiscum,2015,Rioja Red,4.0,3.0,31.99,28
+877,453,La Navilla,2017,Ribera Del Duero Red,5.0,3.0,24.9,27
+362,189,Merlot - Syrah,2016,Red,4.0,3.0,11.5,27
+125,62,Termanthia,2000,Toro Red,5.0,3.0,140.0,27
+453,237,Casta Diva Cosecha Miel Moscatel Dulce,2018,Unknown,Unknown,0.0,15.5,27
+566,298,Baron de Chirel Rioja Reserva,2017,Rioja Red,4.0,3.0,95.0,27
+851,439,Pago de Las Costanas,2005,Tempranillo,4.0,2.0,40.2,27
+748,390,Rioja Blanco,2019,Rioja White,3.0,3.0,26.45,27
+225,113,Vendimia Seleccionada,2020,Ribera Del Duero Red,5.0,3.0,7.9,27
+452,236,Cava Gran Reserva Familiar Millenium Brut,2011,Cava,2.0,3.0,29.95,27
+100,48,Zona Zepa Monastrell,2015,Monastrell,5.0,3.0,59.9,26
+11,4,Petit Verdot,2016,Red,4.0,3.0,115.9,26
+820,425,Alma Tobia Blanco,2016,Rioja White,3.0,3.0,33.0,26
+881,454,Reserva,1970,Rioja Red,4.0,3.0,72.0,25
+682,360,Garnacha Vinas Centenarias,2015,Grenache,5.0,3.0,13.95,25
+164,85,El Jardin de las Iguales Vinedo Historico Garnacha,2016,Grenache,5.0,3.0,195.99,25
+150,75,Silvanus Edicion Limitada Ribera del Duero,2015,Ribera Del Duero Red,5.0,3.0,46.0,25
+507,268,Vina Ardanza Reserva,2009,Rioja Red,4.0,3.0,24.38,10273
+507,268,Vina Ardanza Reserva,2012,Rioja Red,4.0,3.0,20.0,9092
+403,207,San Valentin Parellada,2019,Unknown,Unknown,0.0,6.95,7401
+12,4,Seleccion Especial,2016,Red,4.0,3.0,17.48,7293
+724,381,Vina Tondonia Reserva,2008,Rioja Red,4.0,3.0,37.9,6521
+700,371,Toro,2010,Toro Red,5.0,3.0,79.75,6345
+12,4,Seleccion Especial,2015,Red,4.0,3.0,24.95,5152
+503,268,Rioja Gran Reserva 904,2004,Rioja Red,4.0,3.0,29.9,4994
+351,183,PSI,2018,Ribera Del Duero Red,5.0,3.0,29.13,4767
+351,183,PSI,2017,Ribera Del Duero Red,5.0,3.0,33.9,4457
+627,330,Seleccion Especial (Reserva),2015,Rioja Red,4.0,3.0,28.0,4266
+667,353,Tinto,2012,Ribera Del Duero Red,Unknown,0.0,25.8,4023
+373,196,Malleolus,2016,Ribera Del Duero Red,Unknown,0.0,37.86,3997
+627,330,Seleccion Especial (Reserva),2014,Rioja Red,Unknown,0.0,34.0,3829
+605,316,Ribera del Duero Reserva,2014,Ribera Del Duero Red,Unknown,0.0,33.64,3660
+605,316,Ribera del Duero Reserva,2015,Ribera Del Duero Red,Unknown,0.0,36.35,3620
+626,330,Prado Enea Gran Reserva,2006,Rioja Red,Unknown,0.0,35.5,3608
+177,91,Red,2017,Red,Unknown,0.0,66.75,3587
+81,34,Ribera del Duero Crianza,2018,Ribera Del Duero Red,Unknown,0.0,19.01,3524
+460,241,Cosecha,2014,Ribera Del Duero Red,Unknown,0.0,75.9,2990
+373,196,Malleolus,2017,Ribera Del Duero Red,Unknown,0.0,38.05,2936
+626,330,Prado Enea Gran Reserva,2009,Rioja Red,Unknown,0.0,40.4,2923
+397,207,Mas La Plana Cabernet Sauvignon,2013,Cabernet Sauvignon,Unknown,0.0,63.33,2911
+4,2,Tinto,2012,Ribera Del Duero Red,Unknown,0.0,26.9,2844
+460,241,Cosecha,2015,Ribera Del Duero Red,Unknown,0.0,34.95,2783
+670,355,Crianza Tinto,2018,Ribera Del Duero Red,Unknown,0.0,24.5,2705
+700,371,Toro,2007,Toro Red,Unknown,0.0,93.5,2575
+124,62,Numanthia,2012,Toro Red,Unknown,0.0,99.9,2453
+724,381,Vina Tondonia Reserva,2009,Rioja Red,Unknown,0.0,35.09,2423
+105,52,Macan Clasico,2014,Rioja Red,Unknown,0.0,36.8,2341
+675,355,Reserva Tinto,2015,Ribera Del Duero Red,Unknown,0.0,80.35,2295
+124,62,Numanthia,2014,Toro Red,Unknown,0.0,46.0,2241
+105,52,Macan Clasico,2015,Rioja Red,Unknown,0.0,50.41,2241
+700,371,Toro,2009,Toro Red,Unknown,0.0,150.0,2062
+606,317,El Viejo,2016,Toro Red,Unknown,0.0,33.95,2013
+675,355,Reserva Tinto,2014,Ribera Del Duero Red,Unknown,0.0,48.6377226796774,1924
+824,426,3er Ano Ribera del Duero Tinto,2016,Ribera Del Duero Red,5.0,3.0,27.29,1914
+4,2,Tinto,2016,Ribera Del Duero Red,5.0,3.0,65.9,1884
+190,98,Tinto,2015,Toro Red,5.0,3.0,33.66,1846
+190,98,Tinto,2012,Toro Red,5.0,3.0,190.0,1824
+397,207,Mas La Plana Cabernet Sauvignon,2015,Cabernet Sauvignon,4.0,3.0,55.0,1797
+190,98,Tinto,2016,Toro Red,5.0,3.0,26.9,1749
+124,62,Numanthia,2015,Toro Red,5.0,3.0,36.9,1743
+204,103,Ribera del Duero Una Cepa I,2015,Ribera Del Duero Red,5.0,3.0,25.95,1645
+675,355,Reserva Tinto,2016,Ribera Del Duero Red,5.0,3.0,34.5,1638
+474,250,Rioja Gran Reserva,2012,Rioja Red,4.0,3.0,47.9,1615
+39,19,Garnacha,2014,Grenache,5.0,3.0,36.94,1544
+503,268,Rioja Gran Reserva 904,1998,Rioja Red,4.0,3.0,75.0,1528
+506,268,Vina Arana Gran Reserva,2014,Rioja Red,4.0,3.0,24.9,1525
+750,390,Rioja Reserva,2006,Rioja Red,4.0,3.0,58.0,1493
+506,268,Vina Arana Gran Reserva,2012,Rioja Red,4.0,3.0,32.55,1471
+221,111,Bosque de Matasnos Etiqueta Blanca,2018,Ribera Del Duero Red,5.0,3.0,26.9,1465
+443,232,Matusalem Sherry VORS,N.V.,Sherry,4.0,3.0,63.34,1452
+576,300,Reserva Privada Rioja,2014,Rioja Red,4.0,3.0,37.9,1367
+204,103,Ribera del Duero Una Cepa I,2014,Ribera Del Duero Red,5.0,3.0,46.95,1362
+186,97,Roda I Reserva Rioja,2008,Rioja Red,4.0,3.0,39.22,1330
+543,288,Reserva Seleccion de la Familia,2016,Rioja Red,4.0,3.0,18.5,1282
+441,232,Apostoles 30 Years Old Sherry,N.V.,Sherry,4.0,3.0,74.0,1247
+898,462,200 Monges Rioja Reserva,2010,Rioja Red,4.0,3.0,35.0,1230
+818,423,Reserva,2016,Ribera Del Duero Red,5.0,3.0,26.7597646010531,1230
+103,51,Belondrade y Lurton,2015,Verdejo,3.0,3.0,32.7,1230
+657,348,Vinas Viejas Verdejo,2016,Verdejo,3.0,3.0,49.0,1181
+813,422,Victorino,2014,Toro Red,5.0,3.0,38.0,1178
+434,229,Ribera del Duero,2016,Ribera Del Duero Red,5.0,3.0,33.59,1119
+564,297,Gran Reserva Rioja (Finca Ygay),2011,Rioja Red,4.0,3.0,94.95,1118
+555,295,Gaudium,2012,Rioja Red,4.0,3.0,36.91,1116
+918,473,Triga,2014,Red,4.0,3.0,30.67,1114
+893,461,El Puntido,2014,Rioja Red,4.0,3.0,86.15,1067
+920,474,Don Guido Pedro Ximenez Solera Especial Aged 20 Years,N.V.,Pedro Ximenez,5.0,1.0,32.9,1057
+543,288,Reserva Seleccion de la Familia,2014,Rioja Red,4.0,3.0,17.07,1022
+670,355,Crianza Tinto,2019,Ribera Del Duero Red,5.0,3.0,19.45,1011
+571,298,Rioja Gran Reserva,2013,Rioja Red,4.0,3.0,39.9,995
+841,432,Vendimia,2016,Ribera Del Duero Red,5.0,3.0,28.65,930
+893,461,El Puntido,2015,Rioja Red,4.0,3.0,33.82,929
+563,297,Dalmau Rioja,2012,Rioja Red,4.0,3.0,67.95,916
+563,297,Dalmau Rioja,2013,Rioja Red,4.0,3.0,60.95,912
+574,300,Gran Reserva Rioja,2011,Rioja Red,4.0,3.0,35.01,901
+628,330,Torre Muga,2011,Rioja Red,4.0,3.0,69.95,900
+657,348,Vinas Viejas Verdejo,2018,Verdejo,3.0,3.0,28.18,885
+813,422,Victorino,2013,Toro Red,5.0,3.0,34.22,878
+474,250,Rioja Gran Reserva,2014,Rioja Red,4.0,3.0,49.75,835
+412,215,Priorat Vinyes Velles,2016,Priorat Red,4.0,3.0,33.95,828
+512,271,Reserva,2014,Rioja Red,4.0,3.0,21.5,818
+48,24,Finca Dofi,2012,Priorat Red,4.0,3.0,80.0,814
+781,407,San Vicente Rioja,2014,Rioja Red,4.0,3.0,36.0,811
+475,250,Rioja Reserva,2017,Rioja Red,4.0,3.0,25.45,799
+507,268,Vina Ardanza Reserva,2010,Rioja Red,4.0,3.0,17.16,783
+700,371,Toro,2004,Toro Red,5.0,3.0,116.9,760
+898,462,200 Monges Rioja Reserva,2009,Rioja Red,4.0,3.0,39.5,760
+894,461,El Puntido Gran Reserva,2006,Rioja Red,4.0,3.0,40.0,754
+564,297,Gran Reserva Rioja (Finca Ygay),2012,Rioja Red,4.0,3.0,39.78,749
+62,29,An,2017,Red,4.0,3.0,39.98,740
+628,330,Torre Muga,2014,Rioja Red,4.0,3.0,69.9,728
+781,407,San Vicente Rioja,2007,Rioja Red,4.0,3.0,77.7,724
+295,151,Priorat,2009,Priorat Red,4.0,3.0,95.0,723
+209,104,La Baraja,2016,Ribera Del Duero Red,5.0,3.0,24.9,716
+190,98,Tinto,2018,Toro Red,5.0,3.0,25.9,693
+265,136,Finca Malaveina,2017,Red,4.0,3.0,22.5,687
+564,297,Gran Reserva Rioja (Finca Ygay),2014,Rioja Red,4.0,3.0,50.0,685
+743,389,Granja Gran Reserva Rioja,2009,Rioja Red,4.0,3.0,57.8,682
+569,298,Reserva XR,2016,Rioja Red,4.0,3.0,21.24,676
+304,157,Alenza Ribera del Duero Gran Reserva,2006,Ribera Del Duero Red,5.0,3.0,70.0,675
+380,198,Chardonnay Fermentado en Barrica,2019,Chardonnay,4.0,3.0,15.75,674
+650,346,Vatan Tinta de Toro,2016,Toro Red,5.0,3.0,26.0,665
+517,276,A Mano Rioja,2016,Rioja Red,4.0,3.0,25.8208254922442,663
+566,298,Baron de Chirel Rioja Reserva,2014,Rioja Red,4.0,3.0,62.95,661
+916,473,Alicante Bouschet by Tarima,2017,Red,4.0,3.0,17.15,658
+80,34,Reserva Ribera del Duero,2014,Ribera Del Duero Red,5.0,3.0,33.9,641
+48,24,Finca Dofi,2011,Priorat Red,4.0,3.0,80.0,613
+48,24,Finca Dofi,2013,Priorat Red,4.0,3.0,80.0,605
+380,198,Chardonnay Fermentado en Barrica,2018,Chardonnay,4.0,3.0,16.9,603
+434,229,Ribera del Duero,2017,Ribera Del Duero Red,5.0,3.0,40.92,598
+295,151,Priorat,2008,Priorat Red,4.0,3.0,95.0,592
+194,100,Oloroso Tradicion Vors 30 Years,N.V.,Sherry,4.0,3.0,58.9,590
+685,362,Seleccion de Anada Albarino Rias Baixas,2011,Albarino,3.0,3.0,30.887605,582
+247,127,Ribera del Duero TSM,2019,Ribera Del Duero Red,5.0,3.0,67.5,577
+10,4,Pago Valdebellon,2015,Cabernet Sauvignon,4.0,3.0,67.45,569
+416,216,Vinas Viejas,2016,Ribera Del Duero Red,5.0,3.0,16.5,567
+517,276,A Mano Rioja,2012,Rioja Red,4.0,3.0,30.71,559
+341,178,Dominio de Atauta,2017,Ribera Del Duero Red,5.0,3.0,25.25,556
+710,376,Gran Reserva,2014,Ribera Del Duero Red,5.0,3.0,41.95,553
+346,179,Tierras de Cair Reserva,2012,Ribera Del Duero Red,5.0,3.0,38.3,535
+244,127,Crianza,2019,Ribera Del Duero Red,5.0,3.0,19.95,533
+712,376,Seleccion Finca el Grajo Viejo,2014,Ribera Del Duero Red,5.0,3.0,59.87,530
+399,207,Perpetual,2016,Priorat Red,4.0,3.0,63.5,530
+287,148,Laurel,2017,Priorat Red,4.0,3.0,46.88,527
+295,151,Priorat,2006,Priorat Red,4.0,3.0,95.0,527
+48,24,Finca Dofi,2017,Priorat Red,4.0,3.0,99.9,522
+813,422,Victorino,2011,Toro Red,5.0,3.0,47.01,517
+345,179,Seleccion La Aguilera,2016,Ribera Del Duero Red,5.0,3.0,15.9,511
+836,429,Finca Martelo,2015,Rioja Red,4.0,3.0,21.15,512
+412,215,Priorat Vinyes Velles,2011,Priorat Red,4.0,3.0,49.9,501
+748,390,Rioja Blanco,2018,Rioja White,3.0,3.0,23.83,495
+547,289,Pedro Ximenez Murillo Seleccion del Centenario,N.V.,Pedro Ximenez,5.0,1.0,40.0,481
+893,461,El Puntido,2016,Rioja Red,4.0,3.0,33.0,474
+9,4,Pago Negralada,2015,Tempranillo,4.0,2.0,67.82,474
+731,383,Mirto,2014,Rioja Red,4.0,3.0,48.34,473
+628,330,Torre Muga,2005,Rioja Red,4.0,3.0,99.9,468
+55,24,Vi de Vila Gratallops,2017,Priorat Red,4.0,3.0,54.9,463
+584,305,Clos Martinet,2005,Priorat Red,4.0,3.0,116.05,461
+55,24,Vi de Vila Gratallops,2016,Priorat Red,4.0,3.0,48.75,461
+24,13,Ribera del Duero,2000,Ribera Del Duero Red,5.0,3.0,98.0,456
+160,83,I Gran Reserva,1964,Rioja Red,4.0,3.0,272.0,454
+310,159,Rioja Gran Reserva,2015,Rioja Red,4.0,3.0,40.45,453
+187,97,Roda Reserva Rioja,2004,Rioja Red,4.0,3.0,81.35,452
+160,83,I Gran Reserva,1970,Rioja Red,4.0,3.0,206.91,449
+657,348,Vinas Viejas Verdejo,2017,Verdejo,3.0,3.0,42.0,449
+619,326,Gran Reserva,1998,Rioja Red,4.0,3.0,34.9,445
+461,241,Reserva,2013,Ribera Del Duero Red,5.0,3.0,53.95,431
+752,390,Rioja Vina Coqueta,2008,Rioja Red,4.0,3.0,56.7603202298046,429
+712,376,Seleccion Finca el Grajo Viejo,2010,Ribera Del Duero Red,5.0,3.0,62.74,427
+791,413,Vermello Vermu,N.V.,Unknown,Unknown,0.0,10.89,424
+700,371,Toro,2003,Toro Red,5.0,3.0,107.0,422
+560,297,Capellania Reserva,2016,Rioja White,3.0,3.0,32.33,422
+527,280,Los Tabaqueros,2006,Unknown,Unknown,0.0,21.95,419
+422,219,Torre Albeniz Reserva Ribera del Duero,2016,Ribera Del Duero Red,5.0,3.0,28.85,419
+562,297,Castillo Ygay Gran Reserva Especial Tinto,1998,Rioja Red,4.0,3.0,160.0,418
+82,35,Finca El Otero,2016,Ribera Del Duero Red,5.0,3.0,26.9,411
+303,156,Familia Comenge Reserva,2016,Ribera Del Duero Red,5.0,3.0,21.3,410
+564,297,Gran Reserva Rioja (Finca Ygay),2013,Rioja Red,4.0,3.0,42.0,405
+206,103,Tierra Alta de 2 Cotas Reserva,2014,Ribera Del Duero Red,5.0,3.0,30.5,407
+562,297,Castillo Ygay Gran Reserva Especial Tinto,1989,Rioja Red,4.0,3.0,160.0,404
+146,72,Fagus de Coto de Hayas Garnacha,2017,Grenache,5.0,3.0,21.02,398
+632,334,Finca Terrerazo,2018,Red,4.0,3.0,22.8,397
+287,148,Laurel,2018,Priorat Red,4.0,3.0,36.57,397
+48,24,Finca Dofi,2009,Priorat Red,4.0,3.0,85.0,384
+91,42,Godello,2019,Unknown,Unknown,0.0,23.4,375
+295,151,Priorat,2005,Priorat Red,4.0,3.0,110.0,375
+273,140,Malabrigo Ribera del Duero,2015,Ribera Del Duero Red,5.0,3.0,53.5,374
+893,461,El Puntido,2017,Rioja Red,4.0,3.0,35.95,371
+623,329,Godina Garnacha,2019,Grenache,5.0,3.0,16.25,370
+878,453,Perez Pascuas Gran Reserva Seleccion,2011,Ribera Del Duero Red,5.0,3.0,498.614195,370
+573,299,Rioja Gran Reserva,2010,Red,4.0,3.0,25.95,368
+784,409,Coleccion Privada,2017,Rioja Red,4.0,3.0,29.0132184621944,366
+861,443,Porrera Vi de Vila,2012,Priorat Red,4.0,3.0,40.5,364
+718,379,QS,2014,Red,4.0,3.0,35.85,358
+302,156,Don Miguel Comenge Reserva,2011,Ribera Del Duero Red,5.0,3.0,38.4,355
+5,3,3.9,2017,Red,4.0,3.0,20.65,345
+124,62,Numanthia,2016,Toro Red,5.0,3.0,39.53,345
+677,356,Montes de Toledo Syrah,2018,Syrah,4.0,3.0,25.31,344
+55,24,Vi de Vila Gratallops,2018,Priorat Red,4.0,3.0,53.95,344
+468,245,Finca Iscorta Gran Reserva,2010,Rioja Red,4.0,3.0,27.0,334
+7,4,Le Domaine Blanco de Guarda,2016,Unknown,Unknown,0.0,36.95,327
+109,55,Finca Biniagual Veran,2017,Red,4.0,3.0,26.5,322
+224,112,Brega Garnacha,2017,Grenache,5.0,3.0,27.9,317
+700,371,Toro,2001,Toro Red,5.0,3.0,189.45,315
+116,59,La Cueva del Contador Rioja,2010,Rioja Red,Unknown,0.0,90.0,312
+7,4,Le Domaine Blanco de Guarda,2018,Unknown,Unknown,0.0,34.1,309
+708,375,Elite,2017,Ribera Del Duero Red,Unknown,0.0,35.51,301
+803,419,La Mar,2018,Albarino,Unknown,0.0,27.7,301
+8,4,Pago Garduna,2015,Syrah,Unknown,0.0,75.0,299
+160,83,I Gran Reserva,1982,Rioja Red,Unknown,0.0,425.0,298
+813,422,Victorino,2018,Toro Red,Unknown,0.0,35.51,298
+731,383,Mirto,2015,Rioja Red,Unknown,0.0,33.9,297
+572,298,Rioja Reserva,1994,Rioja Red,Unknown,0.0,65.0,296
+64,30,La Hormiga de Antidoto,2018,Ribera Del Duero Red,Unknown,0.0,45.0,293
+48,24,Finca Dofi,2018,Priorat Red,Unknown,0.0,84.9,292
+477,252,Chafandin,2015,Ribera Del Duero Red,Unknown,0.0,27.85,290
+675,355,Reserva Tinto,2018,Ribera Del Duero Red,Unknown,0.0,30.99,287
+294,151,Nelin Priorat,2016,Unknown,Unknown,0.0,36.5,290
+135,68,Arcos de la Frontera,2017,Red,Unknown,0.0,25.9,284
+687,363,Albarino,2020,Albarino,Unknown,0.0,13.75,281
+26,14,Calvario Rioja,2006,Rioja Red,Unknown,0.0,53.35,279
+596,313,Clos Fonta Priorat,2014,Priorat Red,Unknown,0.0,54.5,278
+116,59,La Cueva del Contador Rioja,2014,Rioja Red,Unknown,0.0,90.15,275
+435,230,Cepas Vellas Godello,2019,Unknown,Unknown,0.0,18.48,272
+311,159,Vina del Olivo,2007,Rioja Red,Unknown,0.0,92.0,272
+359,186,Las Sabias,2017,Toro Red,Unknown,0.0,22.55,270
+291,150,Galena,2016,Priorat Red,Unknown,0.0,17.95,264
+48,24,Finca Dofi,2010,Priorat Red,Unknown,0.0,85.0,263
+221,111,Bosque de Matasnos Etiqueta Blanca,2019,Ribera Del Duero Red,Unknown,0.0,26.9,260
+311,159,Vina del Olivo,2011,Rioja Red,4.0,3.0,63.95,260
+183,95,Cerro Anon Rioja Gran Reserva,2015,Rioja Red,4.0,3.0,12.9,258
+256,134,Ekam,2019,Unknown,Unknown,0.0,24.61,257
+342,178,Llanos del Almendro Ribera del Duero,2009,Ribera Del Duero Red,5.0,3.0,107.74,251
+584,305,Clos Martinet,2004,Priorat Red,4.0,3.0,162.5,249
+650,346,Vatan Tinta de Toro,2018,Toro Red,5.0,3.0,33.6,247
+380,198,Chardonnay Fermentado en Barrica,2020,Chardonnay,4.0,3.0,16.9,244
+773,404,Masdeu,2013,Priorat Red,4.0,3.0,84.9,242
+429,224,Ribera Del Duero,2019,Ribera Del Duero Red,5.0,3.0,30.9,242
+360,187,Lapola,2017,Unknown,Unknown,0.0,21.8,241
+792,414,Pantocrator,2010,Rioja Red,4.0,3.0,19.9,241
+268,137,Senorio de Cuzcurrita Rioja,2017,Rioja Red,4.0,3.0,24.3677926503816,239
+265,136,Finca Malaveina,2018,Red,4.0,3.0,18.88,239
+647,345,Malpuesto,2017,Rioja Red,4.0,3.0,30.3,239
+692,365,Silencio de Miros Ribera Del Duero,2015,Ribera Del Duero Red,5.0,3.0,42.35,239
+10,4,Pago Valdebellon,2014,Cabernet Sauvignon,4.0,3.0,64.5,237
+289,149,Clos Figueres,2012,Priorat Red,4.0,3.0,49.61,237
+562,297,Castillo Ygay Gran Reserva Especial Tinto,1995,Rioja Red,4.0,3.0,145.0,234
+488,260,No. 2 Victoria,2017,Unknown,Unknown,0.0,21.4,232
+645,344,Queiron Mi Lugar,2018,Rioja Red,4.0,3.0,21.5,232
+744,389,Rioja Blanco,2016,Rioja White,3.0,3.0,55.0,227
+400,207,Purgatori Costers del Segre,2018,Red,4.0,3.0,27.9,228
+788,411,Perfume de Sonsierra,2014,Rioja Red,4.0,3.0,28.5,227
+477,252,Chafandin,2011,Ribera Del Duero Red,5.0,3.0,25.65,223
+74,33,Valdegines,2017,Tempranillo,4.0,2.0,43.95,223
+584,305,Clos Martinet,2017,Priorat Red,4.0,3.0,60.45,222
+904,465,Chardonnay Roure,2018,Chardonnay,4.0,3.0,30.3,221
+309,159,Rioja Graciano,2015,Rioja Red,4.0,3.0,62.5,220
+289,149,Clos Figueres,2016,Priorat Red,4.0,3.0,57.49,219
+584,305,Clos Martinet,2010,Priorat Red,4.0,3.0,127.2,218
+562,297,Castillo Ygay Gran Reserva Especial Tinto,1994,Rioja Red,4.0,3.0,182.0,216
+841,432,Vendimia,2018,Ribera Del Duero Red,5.0,3.0,34.25,215
+134,68,ARX Arcos de la Frontera,2018,Red,4.0,3.0,15.9,215
+538,285,La Bienquerida,2017,Mencia,3.0,3.0,37.35,213
+878,453,Perez Pascuas Gran Reserva Seleccion,2012,Ribera Del Duero Red,5.0,3.0,259.0,211
+279,144,Navarra Reserva Coleccion 125,2015,Red,4.0,3.0,20.5,211
+136,69,Suprema 30 Meses,2012,Ribera Del Duero Red,5.0,3.0,24.0,210
+48,24,Finca Dofi,2007,Priorat Red,4.0,3.0,80.0,209
+872,451,Venus,2009,Montsant Red,4.0,3.0,59.55,207
+861,443,Porrera Vi de Vila,2016,Priorat Red,4.0,3.0,50.67,205
+186,97,Roda I Reserva Rioja,2001,Rioja Red,4.0,3.0,91.0,202
+48,24,Finca Dofi,2000,Priorat Red,4.0,3.0,88.0,202
+289,149,Clos Figueres,2015,Priorat Red,4.0,3.0,70.89,201
+250,129,Pie Franco,2016,Monastrell,5.0,3.0,59.9,200
+364,191,Grillo,2012,Red,4.0,3.0,32.9,200
+842,433,Prieto Picudo,2016,Red,4.0,3.0,21.4,198
+413,215,Seleccio Especial Vinyes Velles,2014,Priorat Red,4.0,3.0,64.0,197
+559,296,Emeritvs (Emeritus),2011,Red,4.0,3.0,47.0,197
+744,389,Rioja Blanco,2014,Rioja White,3.0,3.0,60.25,196
+321,166,Sofia,2018,Red,4.0,3.0,15.9,195
+232,119,Finca Cuesta Clara Raro Reserva,2011,Rioja Red,4.0,3.0,32.0,194
+72,33,Pagos Viejos,2013,Tempranillo,4.0,2.0,62.5,193
+826,426,Fermentado En Barrica Blanco,2017,Verdejo,3.0,3.0,24.5,193
+584,305,Clos Martinet,2006,Priorat Red,4.0,3.0,110.0,192
+592,309,Doix,2012,Priorat Red,4.0,3.0,82.0,191
+10,4,Pago Valdebellon,2010,Cabernet Sauvignon,4.0,3.0,55.0,191
+298,153,Tinto,2014,Red,4.0,3.0,36.5,190
+7,4,Le Domaine Blanco de Guarda,2014,Unknown,Unknown,0.0,123.82,190
+584,305,Clos Martinet,2013,Priorat Red,4.0,3.0,114.6,189
+72,33,Pagos Viejos,2001,Tempranillo,4.0,2.0,130.0,189
+434,229,Ribera del Duero,2018,Ribera Del Duero Red,5.0,3.0,33.5,188
+200,103,Ribera Del Duero Gran Reserva,2010,Ribera Del Duero Red,5.0,3.0,62.8,187
+176,91,Godello Blanco,2017,Unknown,Unknown,0.0,34.5,186
+348,181,Vinas Viejas de Soria Ribera Del Duero,2014,Ribera Del Duero Red,5.0,3.0,92.24,184
+676,356,Hipperia Red Blend,2016,Red,4.0,3.0,36.111307180686,184
+298,153,Tinto,2015,Red,4.0,3.0,56.92,184
+584,305,Clos Martinet,2012,Priorat Red,4.0,3.0,117.3,178
+481,255,Vinya La Scala Gran Reserva Cabernet Sauvignon,2013,Cabernet Sauvignon,4.0,3.0,41.9,177
+151,76,Atteca Armas Garnacha Old Vines,2017,Grenache,5.0,3.0,32.9,176
+383,198,Syrah (Shiraz),2016,Syrah,4.0,3.0,23.5,175
+112,58,Campo Eliseo,2009,Toro Red,5.0,3.0,48.5,175
+522,278,Vinas Viejas Tempranillo,2017,Tempranillo,4.0,2.0,28.38,174
+309,159,Rioja Graciano,2016,Rioja Red,4.0,3.0,64.75,174
+213,105,Delicado Cosecha Pedro Ximenez,2017,Pedro Ximenez,5.0,1.0,19.9,172
+338,175,Cepas Vellas Rias Baixas Albarino,2019,Albarino,3.0,3.0,33.95,172
+905,466,Teixar,2012,Montsant Red,Unknown,0.0,42.25,171
+409,213,Vitium Reserva,2010,Rioja Red,Unknown,0.0,27.8,171
+322,167,Lo Cabalo Reserva,2015,Priorat Red,Unknown,0.0,26.9,171
+878,453,Perez Pascuas Gran Reserva Seleccion,2014,Ribera Del Duero Red,Unknown,0.0,245.53,171
+620,327,Finca Matambres,2016,Ribera Del Duero Red,Unknown,0.0,28.3,170
+661,350,Suzzane Rioja,2016,Rioja Red,Unknown,0.0,37.29,168
+693,366,Giro de Abargues,2019,Red,Unknown,0.0,23.5,167
+321,166,Sofia,2016,Red,Unknown,0.0,18.9,166
+902,463,Reserva Vermouth Rojo,N.V.,Unknown,Unknown,0.0,8.95,166
+636,337,Punta Esencia,2011,Ribera Del Duero Red,Unknown,0.0,32.45,163
+316,162,Finca Los Hoyales Ribera del Duero,2013,Ribera Del Duero Red,Unknown,0.0,41.28,163
+254,132,Casa Cisca Monastrell,2010,Monastrell,Unknown,0.0,33.77,161
+775,404,Pla dels Angels Rosado,2019,Unknown,Unknown,0.0,23.0,160
+876,453,Gran Reserva,2009,Ribera Del Duero Red,Unknown,0.0,67.0,159
+802,418,Uro,2015,Toro Red,Unknown,0.0,31.45,155
+927,477,Tras da Vina Albarino,2018,Albarino,Unknown,0.0,33.67,155
+20,9,Cava Kripta Gran Reserva Brut Nature,2006,Cava,Unknown,0.0,87.39,155
+503,268,Rioja Gran Reserva 904,1989,Rioja Red,Unknown,0.0,150.0,154
+915,472,Ribera del Duero Torralvo,2016,Ribera Del Duero Red,Unknown,0.0,45.48,153
+596,313,Clos Fonta Priorat,2007,Priorat Red,Unknown,0.0,125.0,153
+905,466,Teixar,2014,Montsant Red,Unknown,0.0,39.5,151
+26,14,Calvario Rioja,2004,Rioja Red,Unknown,0.0,90.0,150
+741,388,Serral del Vell Brut Nature,2013,Cava,Unknown,0.0,44.41,149
+641,340,Albarino,2019,Albarino,Unknown,0.0,21.5,150
+580,303,Masia Carreras Negre,2018,Red,Unknown,0.0,20.59,149
+790,413,Branco Vermu,N.V.,Unknown,Unknown,0.0,13.95,148
+681,359,Palmeri Navalta Garnacha,2016,Grenache,5.0,3.0,28.9,151
+744,389,Rioja Blanco,2015,Rioja White,3.0,3.0,56.89,146
+708,375,Elite,2018,Ribera Del Duero Red,5.0,3.0,30.9166666666667,145
+845,435,Tinto,2018,Rioja Red,4.0,3.0,39.9,145
+818,423,Reserva,2002,Ribera Del Duero Red,5.0,3.0,65.0,144
+815,423,Gran Reserva,1995,Ribera Del Duero Red,5.0,3.0,146.05,142
+595,312,La Plazuela,2015,Red,4.0,3.0,44.05,141
+78,34,Gran Reserva Ribera del Duero,2014,Ribera Del Duero Red,5.0,3.0,62.56,140
+158,82,Solar de Estraunza Reserva,2014,Tempranillo,4.0,2.0,9.8840336,140
+107,54,III a.C,2011,Rioja Red,4.0,3.0,46.16,140
+862,444,V2 Tinto,2007,Red,4.0,3.0,48.537665,140
+117,59,La Vina de Andres Romeo Rioja,2011,Rioja Red,4.0,3.0,97.5,139
+797,416,Matallana,2014,Ribera Del Duero Red,5.0,3.0,42.0,138
+717,378,Rioja Norte,2010,Rioja Red,4.0,3.0,75.0,138
+186,97,Roda I Reserva Rioja,2000,Rioja Red,4.0,3.0,85.0,137
+780,406,Tinto,2016,Ribera Del Duero Red,5.0,3.0,52.8,137
+171,90,Artigas,2019,Priorat Red,4.0,3.0,20.4,136
+477,252,Chafandin,2017,Ribera Del Duero Red,5.0,3.0,26.2902950466486,136
+138,70,Tinto,2018,Red,4.0,3.0,19.9,136
+176,91,Godello Blanco,2015,Unknown,Unknown,0.0,92.45,135
+320,166,Julia,2018,Monastrell,5.0,3.0,17.95,135
+584,305,Clos Martinet,2003,Priorat Red,4.0,3.0,130.5,135
+546,289,Jerez-Xeres-Sherry 30 Year Old Oloroso VORS,N.V.,Sherry,4.0,3.0,39.0,135
+438,231,Pancrudo,2019,Rioja Red,4.0,3.0,34.9,134
+701,372,Aurea,2012,Mencia,3.0,3.0,28.5,133
+131,66,Coleccion Syrah,2017,Syrah,4.0,3.0,25.89,133
+271,139,Flor de Primavera Peraj Ha'abib,2018,Montsant Red,4.0,3.0,27.5,133
+537,285,Altos de Losada El Cepon,2017,Mencia,3.0,3.0,35.9,132
+744,389,Rioja Blanco,2013,Rioja White,3.0,3.0,63.53,131
+67,32,Gran Vino Blanco,2014,Chardonnay,4.0,3.0,112.76,131
+679,357,Crianza Vendimia Seleccionada,2018,Ribera Del Duero Red,5.0,3.0,18.95,130
+323,167,Vermouth Reserva,N.V.,Unknown,Unknown,0.0,10.45,129
+915,472,Ribera del Duero Torralvo,2015,Ribera Del Duero Red,5.0,3.0,40.95,128
+797,416,Matallana,2016,Ribera Del Duero Red,5.0,3.0,39.75,128
+199,103,Finca Azaya Premium,2015,Ribera Del Duero Red,5.0,3.0,23.44,128
+391,203,Tinto,2015,Montsant Red,4.0,3.0,133.34,127
+637,337,Ribera del Duero Tinto,2005,Ribera Del Duero Red,5.0,3.0,35.0,126
+584,305,Clos Martinet,2018,Priorat Red,4.0,3.0,57.5,125
+455,238,No. 20,2016,Red,4.0,3.0,23.95,124
+744,389,Rioja Blanco,2011,Rioja White,3.0,3.0,77.9,123
+437,231,Montes Obarenes Seleccion Terroir,2015,Rioja White,3.0,3.0,97.35,122
+585,305,Els Escurcons,2015,Priorat Red,4.0,3.0,84.95,122
+596,313,Clos Fonta Priorat,2015,Priorat Red,4.0,3.0,53.9,122
+758,394,Tinto,2015,Red,4.0,3.0,12.19,122
+231,118,La Casilla Amontillado,N.V.,Sherry,4.0,3.0,43.95,122
+367,193,Palo Cortado,N.V.,Sherry,4.0,3.0,85.4,119
+837,429,Martelo Reserva,2015,Rioja Red,4.0,3.0,23.43,119
+284,147,Classic,2010,Priorat Red,4.0,3.0,43.24,118
+181,93,Acediano,2018,Ribera Del Duero Red,5.0,3.0,35.0,120
+658,349,Gloria Rioja,2010,Rioja Red,4.0,3.0,54.52,117
+662,351,Vintage Albarino,2013,Albarino,3.0,3.0,24.0,117
+855,441,Cardenal Palo Cortado VORS,N.V.,Sherry,4.0,3.0,176.5,116
+678,356,Vallegarcia Viognier,2019,Unknown,Unknown,0.0,18.5,114
+864,446,Finca la Atalaya Reserva,2017,Ribera Del Duero Red,5.0,3.0,23.5,114
+145,71,Tempranillo Reserva,2002,Rioja Red,4.0,3.0,28.0,112
+890,459,Blecua Somontano,2011,Red,4.0,3.0,73.9,112
+295,151,Priorat,2000,Priorat Red,4.0,3.0,100.0,111
+309,159,Rioja Graciano,2017,Rioja Red,4.0,3.0,62.9,111
+69,33,Grandes Anadas Rioja,1999,Rioja Red,4.0,3.0,265.0,111
+312,160,Clos Cypres Vinyes Velles (Old Vines),2015,Priorat Red,4.0,3.0,49.0,111
+394,206,Castineiro Albarino,2017,Albarino,3.0,3.0,30.75,111
+197,101,Amontillado V.O.R.S,N.V.,Sherry,4.0,3.0,50.0,110
+126,63,Altar,2008,Red,4.0,3.0,32.18,109
+694,367,Gran Barquero Palo Cortado Solera 25 Anos,N.V.,Unknown,Unknown,0.0,34.9,108
+121,60,Toro Gran Elias Mora,2014,Toro Red,5.0,3.0,33.5,108
+348,181,Vinas Viejas de Soria Ribera Del Duero,2015,Ribera Del Duero Red,5.0,3.0,92.24,108
+67,32,Gran Vino Blanco,2004,Chardonnay,4.0,3.0,52.95,108
+644,343,Arnau Oller Seleccio de la Familia,2016,Red,4.0,3.0,33.15,108
+187,97,Roda Reserva Rioja,2018,Rioja Red,4.0,3.0,24.51,108
+426,221,Nebro Ribera del Duero,2009,Ribera Del Duero Red,5.0,3.0,135.95,107
+717,378,Rioja Norte,2011,Rioja Red,4.0,3.0,46.9,106
+829,428,Don PX Gran Reserva,1988,Pedro Ximenez,5.0,1.0,19.8,104
+284,147,Classic,2011,Priorat Red,4.0,3.0,39.51,102
+284,147,Classic,1997,Priorat Red,4.0,3.0,119.95,102
+724,381,Vina Tondonia Reserva,1964,Rioja Red,4.0,3.0,249.0,101
+332,171,Las Lamas Bierzo (Corullon),2016,Mencia,3.0,3.0,95.25,100
+33,17,Orbus,2016,Syrah,4.0,3.0,24.95,100
+538,285,La Bienquerida,2015,Mencia,3.0,3.0,36.91,100
+808,421,Les Manyes,2014,Priorat Red,4.0,3.0,158.88,99
+48,24,Finca Dofi,2003,Priorat Red,4.0,3.0,90.6,99
+154,79,Malbec,2018,Red,4.0,3.0,24.9,99
+536,285,Altos de Losada,2019,Mencia,3.0,3.0,18.35,97
+67,32,Gran Vino Blanco,2016,Chardonnay,4.0,3.0,65.25,95
+234,119,Reserva Especial Rioja,2010,Rioja Red,4.0,3.0,23.95,95
+25,14,Aurus,2004,Rioja Red,4.0,3.0,148.65,94
+526,280,La Time,2000,Unknown,Unknown,0.0,21.95,94
+718,379,QS,2017,Red,4.0,3.0,37.49,93
+32,17,Dolc Mataro,2017,Unknown,Unknown,0.0,16.5,92
+412,215,Priorat Vinyes Velles,2018,Priorat Red,4.0,3.0,33.95,94
+182,94,Vendimia Tardia Moscatel,2019,Unknown,Unknown,0.0,10.76,91
+542,288,Hiru 3 Rioja Racimos,2005,Rioja Red,4.0,3.0,118.0,91
+227,115,Triaca,2013,Priorat Red,4.0,3.0,34.9,90
+626,330,Prado Enea Gran Reserva,1982,Rioja Red,4.0,3.0,150.0,90
+651,347,Amontillado 51-1a 30 Years VORS Sherry,N.V.,Sherry,4.0,3.0,64.8,89
+420,219,Cyclo,2018,Ribera Del Duero Red,5.0,3.0,35.15,89
+698,369,Tinto,2017,Ribera Del Duero Red,5.0,3.0,145.0,89
+493,263,Maimo Garnatxa,2018,Grenache,5.0,3.0,26.9,88
+437,231,Montes Obarenes Seleccion Terroir,2017,Rioja White,3.0,3.0,42.9,88
+502,268,Gran Reserva 890,1989,Rioja Red,4.0,3.0,215.34,88
+428,223,Fos Baranda,2017,Rioja Red,Unknown,0.0,29.9,87
+457,239,Finca la Oracion,2017,Rioja Red,Unknown,0.0,20.45,88
+688,364,Albarino Pedralonga,2019,Albarino,Unknown,0.0,15.71,86
+239,124,Mas de Masos,2006,Priorat Red,Unknown,0.0,39.99,86
+292,151,Com Tu,2018,Grenache,Unknown,0.0,34.95,85
+237,122,El Rocallis,2015,Unknown,Unknown,0.0,88.0,83
+305,158,Iugiter,2015,Priorat Red,Unknown,0.0,25.5,83
+592,309,Doix,2016,Priorat Red,Unknown,0.0,79.9,83
+736,386,Ultreia Valtuille Mencia,2019,Mencia,Unknown,0.0,45.9,83
+358,186,La Chispa Negra,2011,Unknown,Unknown,0.0,24.0,82
+491,262,Sauvignon Blanc,2021,Sauvignon Blanc,Unknown,0.0,8.9,83
+356,185,Reserva,2010,Ribera Del Duero Red,Unknown,0.0,65.0,82
+800,417,Clos Adrien,2013,Red,Unknown,0.0,47.0,82
+321,166,Sofia,2017,Red,Unknown,0.0,20.5,82
+529,281,Cava Original Brut (Espumos),2008,Cava,Unknown,0.0,62.9,81
+659,349,Laderas Rioja,2014,Rioja Red,Unknown,0.0,31.13,81
+818,423,Reserva,1995,Ribera Del Duero Red,Unknown,0.0,73.0,81
+173,90,La Basseta,2014,Priorat Red,Unknown,0.0,58.0,80
+237,122,El Rocallis,2016,Unknown,Unknown,0.0,34.5,80
+2,2,Blanco de Parcela,2019,Verdejo,Unknown,0.0,41.9,80
+353,184,Finca la Beata Bobal,2014,Red,Unknown,0.0,33.9,80
+755,391,Resalte Expresion,2015,Ribera Del Duero Red,Unknown,0.0,28.5,80
+499,266,Cava Brut Milesime,2017,Cava,Unknown,0.0,24.1,80
+223,111,Syrah de Matasnos,2019,Syrah,Unknown,0.0,27.9,80
+783,409,Amancio,2016,Rioja Red,Unknown,0.0,84.5,80
+774,404,Massipa de Scala Dei Garnatxa Blanca - Xenin,2018,Unknown,Unknown,0.0,36.78,79
+577,300,Seleccion Privada,2015,Rioja Red,4.0,3.0,54.5,79
+599,314,Nunci Negre,2013,Priorat Red,4.0,3.0,21.4,79
+366,193,Oloroso Extra Viejo 1/7,N.V.,Sherry,4.0,3.0,217.8,78
+451,235,Musivari Gran Reserva Brut Nature,2007,Sparkling,2.0,3.0,23.22,77
+76,34,Amaya Arzuaga (Coleccion),2015,Ribera Del Duero Red,5.0,3.0,51.2,77
+83,36,Christina Ribera del Duero,2017,Ribera Del Duero Red,5.0,3.0,38.0,77
+116,59,La Cueva del Contador Rioja,2018,Rioja Red,4.0,3.0,67.9,77
+781,407,San Vicente Rioja,2018,Rioja Red,4.0,3.0,32.9,77
+159,83,Faustino de Autor Reserva Especial,1994,Rioja Red,4.0,3.0,45.0,76
+503,268,Rioja Gran Reserva 904,1964,Rioja Red,4.0,3.0,260.0,76
+930,479,Vinas Viejas Aguilera,2010,Priorat Red,4.0,3.0,69.0,76
+626,330,Prado Enea Gran Reserva,1985,Rioja Red,4.0,3.0,98.0,75
+808,421,Les Manyes,2013,Priorat Red,4.0,3.0,348.85,74
+775,404,Pla dels Angels Rosado,2020,Unknown,Unknown,0.0,23.95,74
+489,261,Juan Piernas Finca El Paso Malo Monastrell,2017,Monastrell,5.0,3.0,27.9,74
+688,364,Albarino Pedralonga,2020,Albarino,3.0,3.0,15.0,74
+311,159,Vina del Olivo,2004,Rioja Red,4.0,3.0,155.0,74
+810,421,Pedra de Guix,2017,Unknown,Unknown,0.0,57.9,73
+906,466,Vinyes Velles de Samso,2016,Montsant Red,4.0,3.0,36.93,73
+805,420,Hispania,2015,Ribera Del Duero Red,5.0,3.0,52.0,73
+16,5,Malvasia,2017,Rioja White,3.0,3.0,31.5,72
+288,148,Priorat,2006,Priorat Red,4.0,3.0,654.31,72
+507,268,Vina Ardanza Reserva,1985,Rioja Red,4.0,3.0,75.0,72
+387,201,La Bota 69 de Amontillado,N.V.,Sherry,4.0,3.0,113.72,72
+92,43,Antigues Reserves,2000,Red,4.0,3.0,27.45,72
+887,456,Regina Vides Ribera del Duero,2018,Ribera Del Duero Red,5.0,3.0,69.9,71
+567,298,Baron de Chirel Verdejo Vinas Centenarias,2018,Verdejo,3.0,3.0,40.5,71
+663,352,Gran Calzadilla,2009,Red,4.0,3.0,39.95,70
+880,454,Alto de la Caseta,2008,Rioja Red,4.0,3.0,55.45,70
+584,305,Clos Martinet,2002,Priorat Red,4.0,3.0,177.45,70
+580,303,Masia Carreras Negre,2019,Red,4.0,3.0,11.91,69
+768,400,Clos Monlleo,2007,Priorat Red,4.0,3.0,54.95,68
+411,215,Priorat,2018,Priorat Red,4.0,3.0,25.88,68
+414,216,Milagros de Figuero,2016,Ribera Del Duero Red,5.0,3.0,34.85,68
+97,46,Las Botas Palo Cortado Horizontal,N.V.,Sherry,4.0,3.0,37.0,67
+717,378,Rioja Norte,2006,Rioja Red,4.0,3.0,75.0,67
+549,290,La Riva Fino Balbaina Alta,N.V.,Sherry,4.0,3.0,47.45,67
+392,204,Coma Bruna,2017,Red,4.0,3.0,22.8,67
+722,381,Vina Tondonia Gran Reserva,1981,Rioja Red,4.0,3.0,199.0,66
+148,73,Palo Cortado de la Cruz de 1767,N.V.,Sherry,4.0,3.0,59.9,66
+15,5,Grano a Grano Tempranillo,2016,Rioja Red,4.0,3.0,120.13,65
+307,158,Voltons,2015,Priorat Red,4.0,3.0,47.0,64
+773,404,Masdeu,2014,Priorat Red,4.0,3.0,84.9,64
+737,387,Tinto,2016,Rioja Red,4.0,3.0,78.95,64
+208,104,Crianza,2019,Ribera Del Duero Red,5.0,3.0,9.99,64
+908,468,S'Alou,2018,Red,4.0,3.0,31.5,64
+41,20,Altos R Pigeage,2016,Rioja Red,4.0,3.0,29.95,63
+774,404,Massipa de Scala Dei Garnatxa Blanca - Xenin,2019,Unknown,Unknown,0.0,36.95,62
+863,445,Finca Monteviejo,2017,Rioja Red,4.0,3.0,32.0,62
+573,299,Rioja Gran Reserva,2014,Red,4.0,3.0,25.95,62
+782,408,Habis,2018,Verdejo,3.0,3.0,21.5,62
+418,218,5o Ano,2014,Red,4.0,3.0,23.3863295,62
+27,14,Gaminde,2016,Rioja Red,4.0,3.0,43.8,62
+385,199,Nun Vinya dels Taus,2017,Unknown,Unknown,0.0,123.75,62
+585,305,Els Escurcons,2018,Priorat Red,4.0,3.0,75.5,61
+215,105,Varietal Fermentacion Lenta,2019,Pedro Ximenez,5.0,1.0,29.9,61
+539,286,El Cordero y las Virgenes,2016,Red,4.0,3.0,24.0,60
+596,313,Clos Fonta Priorat,2001,Priorat Red,4.0,3.0,150.0,60
+490,262,Finca Las Comas Verdejo,2016,Verdejo,3.0,3.0,29.4,60
+48,24,Finca Dofi,1997,Priorat Red,4.0,3.0,170.0,60
+71,33,La Poza de Ballesteros,2016,Tempranillo,4.0,2.0,93.26,60
+348,181,Vinas Viejas de Soria Ribera Del Duero,2019,Ribera Del Duero Red,5.0,3.0,75.95,59
+339,176,Reserva,2014,Ribera Del Duero Red,5.0,3.0,23.77,59
+218,108,Selection 1884 Vermouth Gran Reserva,N.V.,Unknown,Unknown,0.0,27.11,57
+105,52,Macan Clasico,2018,Rioja Red,4.0,3.0,42.5,57
+563,297,Dalmau Rioja,2002,Rioja Red,4.0,3.0,75.0,57
+854,440,Tomas Esteban,2010,Ribera Del Duero Red,5.0,3.0,68.99,57
+842,433,Prieto Picudo,2018,Red,4.0,3.0,21.95,57
+638,338,Garnacha Tintorera,2017,Red,4.0,3.0,13.237545,57
+421,219,Penalba Lopez Blanco,2019,Unknown,Unknown,0.0,13.65,57
+379,198,Cabernet,2012,Red,4.0,3.0,23.5,57
+707,375,El Cuentista,2018,Unknown,Unknown,0.0,17.9,57
+861,443,Porrera Vi de Vila,2018,Priorat Red,4.0,3.0,49.95,56
+808,421,Les Manyes,2011,Priorat Red,4.0,3.0,348.85,56
+111,57,Tahulla Moscatel Blanco Seco,2018,Unknown,Unknown,0.0,11.95,56
+852,440,Juegabolos,2017,Ribera Del Duero Red,5.0,3.0,28.6,56
+5,3,3.9,2018,Red,4.0,3.0,21.3,56
+735,386,Sketch,2019,Albarino,3.0,3.0,44.95,56
+703,373,Clos del Portal Somni,2008,Priorat Red,4.0,3.0,36.3,55
+95,45,De Garage Rioja,2017,Rioja Red,4.0,3.0,32.0,55
+248,128,Montsalvat,2007,Priorat Red,4.0,3.0,39.712635,54
+291,150,Galena,2018,Priorat Red,4.0,3.0,17.9,54
+130,65,Sio Negre,2019,Red,4.0,3.0,39.9,53
+25,14,Aurus,2001,Rioja Red,4.0,3.0,140.0,53
+381,198,Chardonnay Uno,2012,Chardonnay,4.0,3.0,249.95,53
+365,192,Vendimia Seleccionada,2015,Ribera Del Duero Red,5.0,3.0,28.83,53
+426,221,Nebro Ribera del Duero,2013,Ribera Del Duero Red,5.0,3.0,196.29,53
+127,63,Pago de Otazu Chardonnay Con Crianza,2018,Chardonnay,4.0,3.0,28.4,53
+492,262,Verdejo Fermentado en Barrica,2020,Verdejo,3.0,3.0,14.5,53
+503,268,Rioja Gran Reserva 904,1970,Rioja Red,4.0,3.0,260.0,53
+830,428,Don PX Pedro Ximenez,1999,Pedro Ximenez,5.0,1.0,36.9,52
+277,143,Vinyes Altes de Les Garrigues Vi Blanc,2019,Unknown,Unknown,0.0,25.8,52
+61,28,Vina Centenaria Mencia,2014,Mencia,3.0,3.0,38.0,52
+396,207,Grans Muralles,2017,Red,4.0,3.0,137.75,52
+313,161,Clos de L'Obac,2009,Priorat Red,4.0,3.0,79.9,51
+189,98,Malvasia,2017,Unknown,Unknown,0.0,41.5,51
+419,218,Cerro del Lobo Syrah,2018,Syrah,4.0,3.0,24.5,51
+276,143,Estrats,2012,Red,4.0,3.0,68.55,51
+773,404,Masdeu,2016,Priorat Red,4.0,3.0,81.35,51
+887,456,Regina Vides Ribera del Duero,2001,Ribera Del Duero Red,5.0,3.0,121.5,50
+913,472,Celia,2014,Ribera Del Duero Red,5.0,3.0,79.98,50
+555,295,Gaudium,1998,Rioja Red,4.0,3.0,60.0,50
+99,48,Summum Monastrell,2019,Monastrell,5.0,3.0,13.99,50
+592,309,Doix,2002,Priorat Red,4.0,3.0,195.52,49
+44,21,Finca La Herradura,2014,Ribera Del Duero Red,5.0,3.0,68.0,49
+668,354,Reserva Especial,2014,Red,4.0,3.0,16.9,49
+21,10,Alma de Mar Albarino,2019,Albarino,3.0,3.0,27.5,49
+919,474,Canasta 20 Anos Cream,N.V.,Pedro Ximenez,5.0,1.0,29.25,49
+715,378,Rioja Anadas Frias,2016,Rioja White,3.0,3.0,75.0,49
+418,218,5o Ano,2016,Red,4.0,3.0,23.9,49
+661,350,Suzzane Rioja,2019,Rioja Red,4.0,3.0,34.9,48
+562,297,Castillo Ygay Gran Reserva Especial Tinto,1925,Rioja Red,4.0,3.0,532.0,48
+342,178,Llanos del Almendro Ribera del Duero,2010,Ribera Del Duero Red,5.0,3.0,95.0,48
+236,121,Monreal,2015,Red,4.0,3.0,44.1,48
+88,39,Blanco,2019,Unknown,Unknown,0.0,17.7,48
+86,38,8 Vents Mallorca,2019,Red,4.0,3.0,18.9,47
+872,451,Venus,2017,Montsant Red,4.0,3.0,35.35,47
+502,268,Gran Reserva 890,1981,Rioja Red,4.0,3.0,270.0,47
+642,341,Vd'O 1 Samso - Pissarra,2012,Red,4.0,3.0,34.95,46
+808,421,Les Manyes,2012,Priorat Red,4.0,3.0,348.85,46
+520,277,Tempranillo Reserva,2012,Rioja Red,4.0,3.0,14.9,46
+871,450,La Cuartilleja Reserva,2015,Ribera Del Duero Red,5.0,3.0,39.7,46
+500,266,Cava Gran Reserva La Capella Brut,2010,Cava,2.0,3.0,75.5,46
+114,59,Coleccion No. 3 Cosecha,2014,Rioja Red,4.0,3.0,189.9,45
+544,288,Rioja Gran Reserva,2016,Rioja Red,4.0,3.0,21.01,45
+510,270,Albarino Sobre Lias,2015,Albarino,3.0,3.0,23.9,45
+839,431,Nobbis,2019,Tempranillo,4.0,2.0,12.8,45
+734,386,Rara Avis Prieto Picudo,2013,Red,4.0,3.0,39.95,45
+478,253,Sensal,2020,Red,4.0,3.0,22.35,45
+113,58,Campo Eliseo Blanco,2018,Verdejo,3.0,3.0,27.25,45
+31,17,Blanc de Neu,2016,Sparkling,2.0,3.0,16.99,45
+308,159,Reserva,1995,Rioja Red,4.0,3.0,55.0,45
+803,419,La Mar,2019,Albarino,3.0,3.0,21.5,45
+332,171,Las Lamas Bierzo (Corullon),2017,Mencia,3.0,3.0,106.92,44
+516,275,Vinas Viejas,2014,Ribera Del Duero Red,5.0,3.0,37.065126,44
+795,415,T3rno Seleccion de 3 Parcelas Ribera del Duero,2017,Ribera Del Duero Red,5.0,3.0,38.5,44
+169,89,Fino La Barajuela,2016,Unknown,Unknown,0.0,69.95,44
+553,293,Clos Abella Seleccion Especial,2016,Priorat Red,4.0,3.0,43.5,44
+912,471,Parcelas de Maturana Tinta Coleccion Rioja,2017,Rioja Red,4.0,3.0,36.5,44
+401,207,Reserva Real,1998,Red,4.0,3.0,213.5,43
+89,40,Attis Embaixador Albarino,2018,Albarino,3.0,3.0,21.89,43
+615,322,Vitola Reserva,2016,Rioja Red,4.0,3.0,21.9,42
+767,399,San Cucufate Monasterio,2017,Ribera Del Duero Red,5.0,3.0,33.0,42
+686,362,Tras Los Muros Albarino,2017,Albarino,3.0,3.0,38.0,42
+91,42,Godello,2020,Unknown,Unknown,0.0,24.77,42
+240,125,CM Tinto,2017,Tempranillo,4.0,2.0,17.75,42
+165,85,La Loma & Los Santos Garnacha Blanca - Macabeo,2018,Unknown,Unknown,0.0,40.9,41
+897,462,200 Monges Rioja Gran Reserva,2005,Rioja Red,4.0,3.0,52.5,40
+800,417,Clos Adrien,2016,Red,4.0,3.0,48.91,40
+229,116,Gratallops Escanya-Vella,2018,Unknown,Unknown,0.0,27.1,40
+729,383,Lalomba Finca Ladero,2016,Rioja Red,4.0,3.0,58.25,40
+769,401,Oloroso En Rama,N.V.,Sherry,4.0,3.0,24.9,40
+484,257,El Reventon Cebreros,2016,Grenache,5.0,3.0,67.95,40
+469,246,Amontillado Napoleon Vinos Viejos 30 Year Old Sherry,N.V.,Sherry,4.0,3.0,74.9,40
+280,144,Navarra Vendimia Tardia Coleccion 125,2018,Unknown,Unknown,0.0,25.95,39
+391,203,Tinto,2018,Montsant Red,4.0,3.0,119.0,39
+433,228,Manar dos Seixas,2019,Unknown,Unknown,0.0,13.5,38
+896,462,200 Monges Edicion Exclusiva Blanco Reserva,2010,Rioja White,3.0,3.0,51.45,38
+248,128,Montsalvat,2005,Priorat Red,4.0,3.0,56.27,38
+66,31,Eolic Sauvignon Blanc,2016,Sauvignon Blanc,3.0,3.0,11.65,38
+241,125,Finca Valmediano Tinta de Toro 16 Meses Barrica,2012,Toro Red,5.0,3.0,32.9,38
+483,257,Cantos del Diablo,2018,Grenache,5.0,3.0,197.0,38
+184,96,Teofilo Reyes Crianza,2019,Ribera Del Duero Red,5.0,3.0,14.71,38
+454,237,Recondita Armonia Monastrell Dulce,2018,Unknown,Unknown,0.0,16.45,38
+473,249,Falguera,2009,Red,4.0,3.0,53.55,38
+87,38,Epistem No. 3,2016,Red,4.0,3.0,18.9,38
+798,416,Molino Real,2015,Unknown,Unknown,0.0,53.3,38
+149,74,Angel Ribera del Duero,2015,Ribera Del Duero Red,5.0,3.0,31.9,37
+226,114,Pleret,2012,Priorat Red,4.0,3.0,55.5,37
+540,287,A Torna dos Pasas Escolma Ribeiro,2016,Red,4.0,3.0,40.75,37
+259,135,Costers Del Segre 1780,2017,Red,4.0,3.0,22.9,37
+914,472,Ines,2010,Ribera Del Duero Red,5.0,3.0,76.87,37
+914,472,Ines,2014,Ribera Del Duero Red,5.0,3.0,79.98,37
+858,442,Honoris,2005,Ribera Del Duero Red,5.0,3.0,35.0,37
+372,196,La Revelia Godello,2019,Unknown,Unknown,0.0,21.65,37
+34,18,Club Rioja Reserva,2012,Rioja Red,4.0,3.0,20.95,36
+216,106,Camino del Abuelo Vinas Viejas,2013,Ribera Del Duero Red,5.0,3.0,243.8,36
+70,33,La Morera de San Lazaro,2016,Tempranillo,4.0,2.0,80.0,36
+737,387,Tinto,2000,Rioja Red,4.0,3.0,60.4,36
+73,33,Quintanilla,2016,Tempranillo,4.0,2.0,65.9,35
+793,414,Reserva,2014,Rioja Red,4.0,3.0,10.2,35
+778,405,Salvaxe,2018,Unknown,Unknown,0.0,26.75,35
+724,381,Vina Tondonia Reserva,2014,Rioja Red,4.0,3.0,47.95,35
+450,234,Vi De Glass Gewurztraminer,2017,Unknown,Unknown,0.0,18.58,35
+444,233,Finca Los Quemados,2016,Ribera Del Duero Red,5.0,3.0,27.7,35
+184,96,Teofilo Reyes Crianza,2018,Ribera Del Duero Red,5.0,3.0,11.94,35
+556,295,Rioja Reserva,1985,Rioja Red,4.0,3.0,45.0,35
+770,402,Albarino (O Rosal),2021,Albarino,3.0,3.0,13.45,35
+808,421,Les Manyes,2017,Priorat Red,4.0,3.0,180.0,35
+714,378,Rioja,2005,Rioja Red,4.0,3.0,29.0,34
+607,318,Vino de Autor Ribeiro Blanco,2020,Unknown,Unknown,0.0,15.9,34
+425,220,Rioja Reserva,1994,Rioja Red,4.0,3.0,65.0,34
+588,307,Argila Reserva 3 Anys Brut Nature,2013,Sparkling,2.0,3.0,21.6,34
+166,86,Octogenarius,2014,Grenache,5.0,3.0,46.5,34
+361,188,Finca La Pedrissa,2015,Red,4.0,3.0,37.9,34
+465,243,Magister,2017,Red,4.0,3.0,35.5,35
+865,446,Ribera del Duero Vendimia Seleccionada VT,2018,Ribera Del Duero Red,5.0,3.0,27.9,34
+827,427,Porcellanic VI Xarel-lo Sur Lie,2011,Unknown,Unknown,0.0,110.47,33
+238,123,Sibila,2017,Red,4.0,3.0,32.46,33
+263,136,Emporda Reserva Especial Don Miguel Mateu,2015,Red,4.0,3.0,15.56,33
+0,0,200 Cestos Godello,2020,Unknown,Unknown,0.0,23.7,33
+777,405,Heaven & Hell,2017,Unknown,Unknown,0.0,18.5,32
+270,139,Cabrida Montsant,2018,Montsant Red,4.0,3.0,36.85,32
+29,15,Suane Blanco,2017,Rioja White,3.0,3.0,23.9,32
+143,71,Garnacha,2014,Grenache,5.0,3.0,38.0,32
+483,257,Cantos del Diablo,2017,Grenache,5.0,3.0,101.01,33
+182,94,Vendimia Tardia Moscatel,2020,Unknown,Unknown,0.0,13.75,32
+550,291,Pinot Noir,2017,Red,4.0,3.0,29.38,31
+122,61,Cerro La Isa Blanco,2018,Rioja White,3.0,3.0,44.9,31
+850,438,Cuvee Verdejo,2018,Verdejo,3.0,3.0,12.0,31
+23,12,Anadelia,2015,Unknown,Unknown,0.0,38.5,31
+778,405,Salvaxe,2017,Unknown,Unknown,0.0,28.35,31
+799,416,Tabuerniga,2018,Rioja Red,4.0,3.0,65.22,31
+617,324,Seleccion Especial Verdejo,2021,Verdejo,3.0,3.0,6.26,32
+393,205,Coster d'en Fornos,2017,Montsant Red,4.0,3.0,40.55,31
+132,67,Malvasia Volcanica,2020,Unknown,Unknown,0.0,31.9,31
+476,251,Laderas de Inurrieta,2017,Red,4.0,3.0,26.1,30
+796,416,El Velado Tinto,2017,Rioja Red,4.0,3.0,73.95,30
+844,434,Pico de Luyas,2018,Ribera Del Duero Red,5.0,3.0,48.9,30
+427,222,Blanco Afrutado,2020,Unknown,Unknown,0.0,11.99,30
+515,274,A Pita Cega,2015,Unknown,Unknown,0.0,44.8,30
+611,320,Mas Via Gran Reserva Brut,2002,Cava,2.0,3.0,76.17,29
+626,330,Prado Enea Gran Reserva,1970,Rioja Red,4.0,3.0,120.0,29
+232,119,Finca Cuesta Clara Raro Reserva,2016,Rioja Red,4.0,3.0,39.5,29
+634,335,Naiades,2018,Verdejo,3.0,3.0,19.03,29
+1,1,Fuenmayor Gran Reserva,1959,Rioja Red,4.0,3.0,230.0,29
+563,297,Dalmau Rioja,1996,Rioja Red,4.0,3.0,110.0,29
+572,298,Rioja Reserva,1964,Rioja Red,4.0,3.0,310.0,29
+635,336,Mirador de Navajas Reserva Rioja,2011,Rioja Red,4.0,3.0,28.7550102072719,29
+35,18,Coleccion Roberto Amillo Amontillado,N.V.,Sherry,4.0,3.0,39.9,29
+46,23,1730 Amontillado,N.V.,Sherry,4.0,3.0,34.65,29
+25,14,Aurus,2011,Rioja Red,4.0,3.0,211.92,29
+123,61,Cerro La Isa Garnacha,2018,Rioja Red,4.0,3.0,43.9,28
+907,467,Nus del Terrer,2016,Red,4.0,3.0,25.9,28
+274,141,Nivel,2018,Ribera Del Duero Red,5.0,3.0,35.0,28
+160,83,I Gran Reserva,1968,Rioja Red,4.0,3.0,160.0,28
+349,182,Seleccion Especial,2016,Ribera Del Duero Red,5.0,3.0,32.0,28
+368,194,Galia Clos Santuy,2017,Red,4.0,3.0,74.9,28
+926,476,Seleccion,2016,Rioja Red,4.0,3.0,30.0,28
+65,30,Le Rose,2018,Unknown,Unknown,0.0,49.0,28
+928,478,Pago de las Sabinas,2016,Ribera Del Duero Red,5.0,3.0,39.55,28
+762,396,Old & Plus Oloroso,N.V.,Sherry,4.0,3.0,45.0,28
+36,18,Coleccion Roberto Amillo Palo Cortado,N.V.,Sherry,4.0,3.0,47.7,27
+916,473,Alicante Bouschet by Tarima,2018,Red,4.0,3.0,14.9,27
+571,298,Rioja Gran Reserva,2016,Rioja Red,4.0,3.0,46.45,27
+758,394,Tinto,2017,Red,4.0,3.0,15.45,27
+220,110,Gueta-Lupia,2011,Priorat Red,4.0,3.0,31.75,27
+783,409,Amancio,2002,Rioja Red,4.0,3.0,110.0,27
+133,67,Marmajuelo,2020,Unknown,Unknown,0.0,29.75,27
+756,392,Cava Reserva Especial Chardonnay Brut Nature,2016,Cava,2.0,3.0,18.5,27
+699,370,Ribera del Duero Vendimia Seleccionada,2016,Ribera Del Duero Red,5.0,3.0,19.8563175,26
+456,238,No. 23,2017,Red,4.0,3.0,23.1,26
+485,257,Las Iruelas El Tiemblo,2018,Grenache,5.0,3.0,97.07,26
+530,282,Tinto,2019,Ribera Del Duero Red,5.0,3.0,8.57,26
+483,257,Cantos del Diablo,2016,Grenache,5.0,3.0,67.95,26
+480,254,V Dulce de Invierno,2018,Unknown,Unknown,0.0,17.74,26
+340,177,Diego Magana,2020,Rioja Red,4.0,3.0,37.9,26
+144,71,Graciano,2012,Rioja Red,4.0,3.0,68.0,26
+436,231,Cerro Las Cuevas Seleccion Terroir,2019,Rioja Red,4.0,3.0,39.89,26
+464,242,Pena Lobera,2018,Ribera Del Duero Red,5.0,3.0,68.9,25
+42,20,Altos R Pigeage Graciano,2016,Rioja Red,4.0,3.0,35.0,25
+766,398,Ronda,2015,Red,4.0,3.0,32.5,25
+648,346,Nisia Las Suertes Verdejo Old Vines,2020,Verdejo,3.0,3.0,16.9,25
+494,263,Territori,2019,Red,4.0,3.0,23.6,25
+317,163,Alomado,2018,Rioja Red,4.0,3.0,46.95,25
+166,86,Octogenarius,2015,Grenache,5.0,3.0,36.9,25
+613,322,Gran Reserva,2000,Rioja Red,4.0,3.0,48.81,25
+534,284,Pinot Noir,2020,Red,4.0,3.0,33.5,25
+640,339,Selma de Nin Blanco,2017,Unknown,Unknown,0.0,56.95,25
+929,478,Senda de Los Olivos Roble,2020,Ribera Del Duero Red,5.0,3.0,8.9,25
+407,211,Mucho Mas Tinto,N.V.,Red,4.0,3.0,4.99,32624
+572,298,Rioja Reserva,2016,Rioja Red,4.0,3.0,15.9,16505
+507,268,Vina Ardanza Reserva,2007,Rioja Red,4.0,3.0,23.7,9098
+565,297,Reserva Rioja (Finca Ygay),2016,Rioja Red,4.0,3.0,23.0,8318
+376,196,Ribera del Duero,2018,Ribera Del Duero Red,5.0,3.0,19.5,7825
+376,196,Ribera del Duero,2017,Ribera Del Duero Red,5.0,3.0,21.2,7294
+818,423,Reserva,2012,Ribera Del Duero Red,5.0,3.0,27.0,6567
+507,268,Vina Ardanza Reserva,2008,Rioja Red,4.0,3.0,33.0,6532
+363,190,Coto de Imaz Rioja Gran Reserva,2012,Rioja Red,4.0,3.0,16.14,6256
+351,183,PSI,2016,Ribera Del Duero Red,5.0,3.0,37.95,6163
+505,268,Vina Alberdi Reserva,2015,Rioja Red,4.0,3.0,17.02,5802
+12,4,Seleccion Especial,2014,Red,4.0,3.0,49.85,5178
+551,292,Rias Baixas Albarino Atlantico,2019,Albarino,3.0,3.0,14.95,4610
+601,316,Crianza,2016,Ribera Del Duero Red,5.0,3.0,9.76,4127
+81,34,Ribera del Duero Crianza,2016,Ribera Del Duero Red,5.0,3.0,19.16,4091
+505,268,Vina Alberdi Reserva,2016,Rioja Red,4.0,3.0,15.8,3825
+475,250,Rioja Reserva,2015,Rioja Red,4.0,3.0,19.8333333333333,3788
+709,376,27 Ribera del Duero,2016,Ribera Del Duero Red,5.0,3.0,21.0,3725
+804,419,Terras Gauda O Rosal,2020,Albarino,3.0,3.0,12.29,3648
+709,376,27 Ribera del Duero,2017,Ribera Del Duero Red,5.0,3.0,23.75,3545
+745,389,Rioja Reserva,2012,Rioja Red,4.0,3.0,15.83,3453
+81,34,Ribera del Duero Crianza,2017,Ribera Del Duero Red,5.0,3.0,15.45,3354
+402,207,Salmos,2016,Priorat Red,4.0,3.0,24.85,3225
+670,355,Crianza Tinto,2017,Ribera Del Duero Red,5.0,3.0,20.95,3224
+571,298,Rioja Gran Reserva,2007,Rioja Red,4.0,3.0,28.43,3101
+721,381,Vina Bosconia Reserva,2008,Rioja Red,4.0,3.0,22.58,2901
+177,91,Red,2011,Red,4.0,3.0,58.26,2820
+721,381,Vina Bosconia Reserva,2007,Rioja Red,4.0,3.0,20.95,2820
+397,207,Mas La Plana Cabernet Sauvignon,2010,Cabernet Sauvignon,4.0,3.0,48.4,2788
+727,382,Louro Godello,2019,Unknown,Unknown,0.0,19.7,2685
+475,250,Rioja Reserva,2016,Rioja Red,4.0,3.0,24.75,2676
+187,97,Roda Reserva Rioja,2015,Rioja Red,4.0,3.0,55.47,2478
+187,97,Roda Reserva Rioja,2012,Rioja Red,4.0,3.0,28.4,2375
+475,250,Rioja Reserva,2014,Rioja Red,4.0,3.0,27.6,2364
+496,264,Jumilla Blue Label,2015,Red,4.0,3.0,24.76,2271
+496,264,Jumilla Blue Label,2018,Red,4.0,3.0,24.6,2234
+496,264,Jumilla Blue Label,2017,Red,4.0,3.0,22.5,2135
+160,83,I Gran Reserva,1994,Rioja Red,4.0,3.0,124.5,2074
+244,127,Crianza,2017,Ribera Del Duero Red,5.0,3.0,19.99,2050
+85,37,La Atalaya del Camino,2017,Red,4.0,3.0,11.8,2022
+709,376,27 Ribera del Duero,2018,Ribera Del Duero Red,5.0,3.0,23.74,1981
+187,97,Roda Reserva Rioja,2013,Rioja Red,4.0,3.0,30.35,1931
+710,376,Gran Reserva,2012,Ribera Del Duero Red,5.0,3.0,38.84,1921
+745,389,Rioja Reserva,2013,Rioja Red,4.0,3.0,21.5,1768
+818,423,Reserva,2015,Ribera Del Duero Red,5.0,3.0,29.95,1688
+570,298,Rioja 150 Aniversario,2010,Rioja Red,4.0,3.0,59.0,1686
+700,371,Toro,2006,Toro Red,5.0,3.0,98.9,1665
+187,97,Roda Reserva Rioja,2014,Rioja Red,4.0,3.0,59.9,1645
+40,19,Veraton Garnacha,2014,Grenache,5.0,3.0,19.94,1627
+721,381,Vina Bosconia Reserva,2009,Rioja Red,4.0,3.0,23.52,1611
+251,130,Alexander vs. The Ham Factory,2016,Ribera Del Duero Red,5.0,3.0,33.3733333333333,1573
+351,183,PSI,2019,Ribera Del Duero Red,5.0,3.0,34.5,1355
+40,19,Veraton Garnacha,2018,Grenache,5.0,3.0,21.6,1343
+504,268,Vina Alberdi Crianza,2015,Rioja Red,4.0,3.0,11.2,1341
+472,248,Taberner Tierra de Cadiz,2014,Syrah,4.0,3.0,32.0010770950795,1337
+571,298,Rioja Gran Reserva,2011,Rioja Red,4.0,3.0,39.5,1319
+434,229,Ribera del Duero,2015,Ribera Del Duero Red,5.0,3.0,33.59,1308
+560,297,Capellania Reserva,2015,Rioja White,3.0,3.0,29.15,1301
+82,35,Finca El Otero,2014,Ribera Del Duero Red,5.0,3.0,28.75,1267
+601,316,Crianza,2017,Ribera Del Duero Red,5.0,3.0,16.88,1209
+448,234,Gessami,2019,Unknown,Unknown,0.0,9.95,1164
+341,178,Dominio de Atauta,2016,Ribera Del Duero Red,5.0,3.0,25.71,1159
+214,105,Finest Old Harvest Medium,N.V.,Pedro Ximenez,5.0,1.0,18.87,1155
+472,248,Taberner Tierra de Cadiz,2015,Syrah,4.0,3.0,17.04,1125
+621,328,Ribera del Duero Red,2015,Ribera Del Duero Red,5.0,3.0,18.9,1095
+221,111,Bosque de Matasnos Etiqueta Blanca,2017,Ribera Del Duero Red,5.0,3.0,55.75,1093
+434,229,Ribera del Duero,2014,Ribera Del Duero Red,5.0,3.0,37.9,1086
+168,88,Corimbo I,2014,Ribera Del Duero Red,5.0,3.0,39.0,1078
+244,127,Crianza,2018,Ribera Del Duero Red,5.0,3.0,16.49,1070
+548,289,Vermut Rojo,N.V.,Unknown,Unknown,0.0,11.9,1058
+85,37,La Atalaya del Camino,2019,Red,4.0,3.0,11.66,1048
+725,381,Vina Tondonia Reserva Blanco,2005,Rioja White,3.0,3.0,26.9,1043
+711,376,Reserva 5 Ano,2015,Ribera Del Duero Red,5.0,3.0,22.95,1040
+373,196,Malleolus,2014,Ribera Del Duero Red,5.0,3.0,31.95,1030
+442,232,Del Duque Amontillado Sherry VORS,N.V.,Sherry,4.0,3.0,77.22,1016
+53,24,Les Terrasses Velles Vinyes Priorat,2017,Priorat Red,4.0,3.0,85.9,1016
+402,207,Salmos,2017,Priorat Red,4.0,3.0,20.99,1008
+124,62,Numanthia,2013,Toro Red,5.0,3.0,51.19,998
+52,24,Les Terrasses Laderas de Pizarra,2016,Priorat Red,4.0,3.0,32.25,970
+610,319,Inici,2017,Priorat Red,4.0,3.0,39.0,969
+397,207,Mas La Plana Cabernet Sauvignon,2016,Cabernet Sauvignon,4.0,3.0,56.26,964
+168,88,Corimbo I,2011,Ribera Del Duero Red,5.0,3.0,23.4,918
+260,136,5 Finques (Fincas) Reserva,2017,Red,4.0,3.0,11.35,918
+168,88,Corimbo I,2013,Ribera Del Duero Red,5.0,3.0,37.5,915
+718,379,QS,2010,Red,4.0,3.0,40.76,900
+586,305,Martinet Bru (Garnatxa - Syrah),2019,Priorat Red,4.0,3.0,21.9,897
+507,268,Vina Ardanza Reserva,2000,Rioja Red,4.0,3.0,161.0,883
+893,461,El Puntido,2013,Rioja Red,4.0,3.0,34.41,879
+376,196,Ribera del Duero,2019,Ribera Del Duero Red,5.0,3.0,16.95,876
+48,24,Finca Dofi,2015,Priorat Red,4.0,3.0,52.5,865
+711,376,Reserva 5 Ano,2014,Ribera Del Duero Red,5.0,3.0,19.53,855
+202,103,Ribera Del Duero Reserva,2012,Ribera Del Duero Red,5.0,3.0,30.0,852
+98,47,Muscat,2020,Unknown,Unknown,0.0,5.5,842
+571,298,Rioja Gran Reserva,2014,Rioja Red,4.0,3.0,35.63,840
+187,97,Roda Reserva Rioja,2017,Rioja Red,4.0,3.0,25.5,834
+139,71,Angeles de Amaren Tempranillo - Graciano,2015,Rioja Red,4.0,3.0,19.38,832
+565,297,Reserva Rioja (Finca Ygay),2017,Rioja Red,4.0,3.0,20.9,811
+81,34,Ribera del Duero Crianza,2019,Ribera Del Duero Red,5.0,3.0,18.5,806
+569,298,Reserva XR,2015,Rioja Red,4.0,3.0,23.0,778
+400,207,Purgatori Costers del Segre,2016,Red,4.0,3.0,38.37,778
+400,207,Purgatori Costers del Segre,2017,Red,4.0,3.0,25.5,777
+731,383,Mirto,2012,Rioja Red,4.0,3.0,35.0,776
+657,348,Vinas Viejas Verdejo,2015,Verdejo,3.0,3.0,30.0,769
+470,247,Bassus Pinot Noir,2017,Red,4.0,3.0,18.95,753
+630,332,Sericis Cepas Viejas Monastrell,2017,Monastrell,5.0,3.0,8.95,745
+265,136,Finca Malaveina,2016,Red,4.0,3.0,25.35,740
+621,328,Ribera del Duero Red,2018,Ribera Del Duero Red,5.0,3.0,18.5,733
+310,159,Rioja Gran Reserva,2008,Rioja Red,4.0,3.0,36.0,732
+310,159,Rioja Gran Reserva,2009,Rioja Red,4.0,3.0,85.8,731
+470,247,Bassus Pinot Noir,2018,Red,4.0,3.0,19.25,721
+718,379,QS,2007,Red,4.0,3.0,37.5,707
+848,437,Rioja Reserva,2014,Rioja Red,4.0,3.0,19.4,696
+448,234,Gessami,2020,Unknown,Unknown,0.0,11.2,692
+751,390,Rioja Reserva Fincas de Ganuza,2014,Rioja Red,4.0,3.0,29.5,684
+99,48,Summum Monastrell,2017,Monastrell,5.0,3.0,15.95,682
+536,285,Altos de Losada,2017,Mencia,3.0,3.0,18.4,676
+48,24,Finca Dofi,2014,Priorat Red,4.0,3.0,59.95,671
+363,190,Coto de Imaz Rioja Gran Reserva,2015,Rioja Red,4.0,3.0,15.88,668
+606,317,El Viejo,2012,Toro Red,5.0,3.0,26.95,668
+739,388,Corpinnat Terrers Brut Nature,2017,Cava,2.0,3.0,25.0,667
+921,474,Dos Cortados Palo Cortado Solera Especial Aged 20 Years,N.V.,Sherry,4.0,3.0,32.16,666
+55,24,Vi de Vila Gratallops,2015,Priorat Red,4.0,3.0,60.0,648
+55,24,Vi de Vila Gratallops,2014,Priorat Red,4.0,3.0,55.0,647
+564,297,Gran Reserva Rioja (Finca Ygay),2010,Rioja Red,4.0,3.0,86.95,645
+823,425,Oscar Tobia Reserva Rioja,2015,Rioja Red,4.0,3.0,20.0,633
+557,295,Rioja Satinela Blanco Semidulce,2020,Rioja White,3.0,3.0,6.99,630
+879,453,Reserva,2012,Ribera Del Duero Red,5.0,3.0,29.93,628
+265,136,Finca Malaveina,2012,Red,4.0,3.0,17.84,627
+310,159,Rioja Gran Reserva,2014,Rioja Red,4.0,3.0,34.5,624
+177,91,Red,2008,Red,4.0,3.0,55.0,622
+702,373,Clos del Portal Negre de Negres,2017,Priorat Red,4.0,3.0,21.85,612
+739,388,Corpinnat Terrers Brut Nature,2016,Cava,2.0,3.0,21.8,611
+837,429,Martelo Reserva,2014,Rioja Red,4.0,3.0,20.5,600
+814,423,Crianza,2019,Ribera Del Duero Red,5.0,3.0,17.25,599
+326,168,Solideo,2015,Ribera Del Duero Red,5.0,3.0,35.09,592
+779,406,Preludio,2017,Ribera Del Duero Red,5.0,3.0,24.9,591
+335,172,Reserva Tempranillo,2011,Rioja Red,4.0,3.0,20.4532878069468,587
+597,313,Coma Vella Priorat,2014,Priorat Red,4.0,3.0,24.8,576
+282,145,Las Ocho (8) Tinto,2017,Red,4.0,3.0,16.767557,570
+869,448,Pago de los Balagueses Syrah,2017,Syrah,4.0,3.0,17.7,559
+531,283,Bagus Ribera del Duero,2012,Ribera Del Duero Red,5.0,3.0,54.0,559
+290,150,Formiga de Vellut,2018,Priorat Red,4.0,3.0,16.2,558
+205,103,Tierra Alta En 2 Maderas,2017,Ribera Del Duero Red,5.0,3.0,19.9,557
+533,284,Pago El Espino,2017,Red,4.0,3.0,25.35,555
+847,437,Rioja Blanco,2018,Rioja White,3.0,3.0,17.75,540
+324,168,Crianza,2018,Ribera Del Duero Red,5.0,3.0,18.9,528
+680,358,Propiedad  Rioja,2017,Rioja Red,4.0,3.0,25.9,527
+324,168,Crianza,2017,Ribera Del Duero Red,5.0,3.0,18.25,520
+161,83,Reserva Especial Icon Edition,2014,Rioja Red,4.0,3.0,23.89,519
+410,214,Antique Palo Cortado,N.V.,Sherry,4.0,3.0,36.9,519
+606,317,El Viejo,2017,Toro Red,5.0,3.0,33.9,518
+519,276,Vina Lanciano Reserva,2015,Rioja Red,4.0,3.0,14.6,514
+62,29,An,2016,Red,4.0,3.0,139.9,513
+171,90,Artigas,2017,Priorat Red,4.0,3.0,20.9,505
+898,462,200 Monges Rioja Reserva,2005,Rioja Red,4.0,3.0,48.0,499
+310,159,Rioja Gran Reserva,2011,Rioja Red,4.0,3.0,39.5,490
+779,406,Preludio,2018,Ribera Del Duero Red,5.0,3.0,24.5,488
+922,474,Jalifa Amontillado Rare Old Dry Solera Especial Aged 30 Years,N.V.,Sherry,4.0,3.0,33.5,487
+843,433,Rejon Tempranillo,2012,Tempranillo,4.0,2.0,36.97,485
+371,196,La Felisa,2018,Ribera Del Duero Red,5.0,3.0,26.3,483
+372,196,La Revelia Godello,2018,Unknown,Unknown,0.0,21.95,484
+853,440,Tinto,2018,Ribera Del Duero Red,5.0,3.0,21.5,481
+517,276,A Mano Rioja,2009,Rioja Red,4.0,3.0,28.95,480
+398,207,Milmanda,2015,Chardonnay,4.0,3.0,126.2,473
+804,419,Terras Gauda O Rosal,2021,Albarino,3.0,3.0,11.9,466
+685,362,Seleccion de Anada Albarino Rias Baixas,2008,Albarino,3.0,3.0,37.9,459
+627,330,Seleccion Especial (Reserva),2004,Rioja Red,4.0,3.0,65.0,447
+219,109,Reserva,2009,Ribera Del Duero Red,5.0,3.0,21.65,442
+5,3,3.9,2016,Red,4.0,3.0,22.95,441
+551,292,Rias Baixas Albarino Atlantico,2021,Albarino,3.0,3.0,14.8,439
+19,8,Envidiacochina (Tete de Cuvee),2019,Albarino,3.0,3.0,18.46,438
+706,375,Adaro,2017,Ribera Del Duero Red,5.0,3.0,16.45,436
+621,328,Ribera del Duero Red,2017,Ribera Del Duero Red,5.0,3.0,16.9,433
+318,164,Fondillon Gran Reserva,1964,Unknown,Unknown,0.0,49.95,432
+702,373,Clos del Portal Negre de Negres,2018,Priorat Red,4.0,3.0,21.7,429
+266,136,Monastrell - Syrah Finca Espolla,2016,Red,4.0,3.0,13.95,424
+254,132,Casa Cisca Monastrell,2011,Monastrell,5.0,3.0,32.0,423
+748,390,Rioja Blanco,2017,Rioja White,3.0,3.0,29.15,421
+512,271,Reserva,2015,Rioja Red,Unknown,0.0,17.5,420
+386,200,Santa Rosa,2017,Red,Unknown,0.0,18.9,420
+296,152,Roc Nu,2011,Red,Unknown,0.0,23.95,420
+784,409,Coleccion Privada,2012,Rioja Red,Unknown,0.0,28.3,420
+475,250,Rioja Reserva,2004,Rioja Red,Unknown,0.0,45.0,417
+536,285,Altos de Losada,2018,Mencia,Unknown,0.0,17.9,415
+552,292,Rias Baixas Albarino Finca Valinas,2015,Albarino,Unknown,0.0,16.78,414
+504,268,Vina Alberdi Crianza,2018,Rioja Red,Unknown,0.0,13.58,410
+168,88,Corimbo I,2015,Ribera Del Duero Red,Unknown,0.0,37.9,412
+876,453,Gran Reserva,2011,Ribera Del Duero Red,Unknown,0.0,51.35,410
+233,119,Gran Reserva Rioja,2012,Rioja Red,Unknown,0.0,22.99,410
+732,384,Treixadura,2020,Unknown,Unknown,0.0,11.95,407
+545,289,Candela Cream Dulce Sweet,N.V.,Sherry,Unknown,0.0,7.1,405
+703,373,Clos del Portal Somni,2014,Priorat Red,Unknown,0.0,77.36,404
+110,56,Nounat,2020,Unknown,Unknown,0.0,19.9,404
+731,383,Mirto,2011,Rioja Red,Unknown,0.0,28.53,402
+606,317,El Viejo,2019,Toro Red,Unknown,0.0,27.89,400
+74,33,Valdegines,2016,Tempranillo,Unknown,0.0,48.96,398
+309,159,Rioja Graciano,2011,Rioja Red,Unknown,0.0,61.94,395
+308,159,Reserva,2016,Rioja Red,Unknown,0.0,19.98,392
+306,158,Les Brugueres,2018,Priorat Red,Unknown,0.0,16.76,390
+632,334,Finca Terrerazo,2017,Red,Unknown,0.0,24.45,390
+602,316,Gran Reserva,2011,Ribera Del Duero Red,Unknown,0.0,64.5,389
+779,406,Preludio,2016,Ribera Del Duero Red,Unknown,0.0,31.63,388
+893,461,El Puntido,2005,Rioja Red,Unknown,0.0,73.0,384
+512,271,Reserva,2015,Rioja Red,4.0,3.0,17.5,420
+386,200,Santa Rosa,2017,Red,4.0,3.0,18.9,420
+296,152,Roc Nu,2011,Red,4.0,3.0,23.95,420
+784,409,Coleccion Privada,2012,Rioja Red,4.0,3.0,28.3,420
+475,250,Rioja Reserva,2004,Rioja Red,4.0,3.0,45.0,417
+536,285,Altos de Losada,2018,Mencia,3.0,3.0,17.9,415
+552,292,Rias Baixas Albarino Finca Valinas,2015,Albarino,3.0,3.0,16.78,414
+504,268,Vina Alberdi Crianza,2018,Rioja Red,4.0,3.0,13.58,410
+168,88,Corimbo I,2015,Ribera Del Duero Red,5.0,3.0,37.9,412
+876,453,Gran Reserva,2011,Ribera Del Duero Red,5.0,3.0,51.35,410
+233,119,Gran Reserva Rioja,2012,Rioja Red,4.0,3.0,22.99,410
+545,289,Candela Cream Dulce Sweet,N.V.,Sherry,4.0,3.0,7.1,405
+703,373,Clos del Portal Somni,2014,Priorat Red,4.0,3.0,77.36,404
+731,383,Mirto,2011,Rioja Red,4.0,3.0,28.53,402
+606,317,El Viejo,2019,Toro Red,5.0,3.0,27.89,400
+74,33,Valdegines,2016,Tempranillo,4.0,2.0,48.96,398
+309,159,Rioja Graciano,2011,Rioja Red,4.0,3.0,61.94,395
+308,159,Reserva,2016,Rioja Red,4.0,3.0,19.98,392
+306,158,Les Brugueres,2018,Priorat Red,4.0,3.0,16.76,390
+632,334,Finca Terrerazo,2017,Red,4.0,3.0,24.45,390
+602,316,Gran Reserva,2011,Ribera Del Duero Red,5.0,3.0,64.5,389
+779,406,Preludio,2016,Ribera Del Duero Red,5.0,3.0,31.63,388
+893,461,El Puntido,2005,Rioja Red,4.0,3.0,73.0,384
+748,390,Rioja Blanco,2017,Rioja White,Unknown,0.0,29.15,421
