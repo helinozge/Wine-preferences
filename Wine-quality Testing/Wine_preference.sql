@@ -114,4 +114,51 @@ WHERE w.num_reviews > 50
 GROUP BY price_category
 ORDER BY weighted_avg_rating DESC;
 
+-- Min/Max reviews
+SELECT MIN(num_reviews) AS min_reviews, MAX(num_reviews) AS max_reviews FROM Wine;
+
+-- Wines with the min/max reviews
+SELECT wine, num_reviews 
+FROM Wine 
+WHERE num_reviews = (SELECT MIN(num_reviews) FROM Wine)
+UNION
+SELECT wine, num_reviews 
+FROM Wine 
+WHERE num_reviews = (SELECT MAX(num_reviews) FROM Wine);
+
+-- Identifying trends over different years
+
+SELECT year, AVG(r.rating) AS avg_rating
+FROM Wine w
+JOIN Rating r ON w.wineID = r.wineID
+GROUP BY year
+ORDER BY year DESC;
+
+
+-- Top-rated, oldest, high-priced, and lowest-acidity wine for each price category (Min 100 reviews and 4.5 review)
+
+WITH WineRatings AS (
+    SELECT w.wine, w.year, w.price, w.acidity, wy.winery,
+           CASE 
+               WHEN w.price < 50 THEN 'Below 50€'
+               WHEN w.price BETWEEN 50 AND 100 THEN '50€ to 100€'
+               WHEN w.price BETWEEN 100 AND 200 THEN '100€ to 200€'
+               ELSE 'Above 200€'
+           END AS price_category,
+           ROUND(AVG(r.rating), 1) AS avg_rating,
+           SUM(w.num_reviews) AS total_reviews
+    FROM Wine w
+    JOIN Winery wy ON w.wineryID = wy.wineryID
+    JOIN Rating r ON w.wineID = r.wineID
+    GROUP BY w.wine, w.year, w.price, w.acidity, wy.winery
+    HAVING total_reviews > 100 AND avg_rating >= 4.5 -- Ensures only wines with at least 100 reviews and a rating of 4.5+
+)
+SELECT price_category, winery, wine, year, price, acidity, avg_rating, total_reviews
+FROM (
+    SELECT *, ROW_NUMBER() OVER (PARTITION BY price_category ORDER BY year ASC, price DESC, acidity ASC, total_reviews DESC, avg_rating DESC) AS row_num
+    FROM WineRatings
+) ranked_wines
+WHERE row_num = 1;
+
+
 
