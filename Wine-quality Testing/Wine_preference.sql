@@ -81,5 +81,37 @@ JOIN Winery wi ON w.wineryID = wi.wineryID
 GROUP BY wi.region
 ORDER BY avg_price DESC;
 
+-- Lowest and highest rating
+SELECT MIN(rating) AS min_rating, MAX(rating) AS max_rating FROM Rating;
+
+
+-- ADVANCE QUERY: Finding Price vs. Rating Correlation. Does spending more on wine mean better ratings? 
+-- This query checks the average rating for different price ranges:
+SELECT 
+    CASE 
+        WHEN w.price < 50 THEN 'Budget (<50€)'
+        WHEN w.price BETWEEN 50 AND 200 THEN 'Mid-Range (50-200€)'
+        ELSE 'Premium (>200€)'
+    END AS price_category,
+    AVG(r.rating) AS avg_rating
+FROM Wine w
+JOIN Rating r ON w.wineID = r.wineID
+GROUP BY price_category
+ORDER BY avg_rating DESC;
+
+-- Instead of a simple average, calculating weighted average, giving more influence to wines 
+-- with more reviews.
+SELECT 
+    CASE 
+        WHEN w.price < 50 THEN 'Budget (<50€)'
+        WHEN w.price BETWEEN 50 AND 200 THEN 'Mid-Range (50-200€)'
+        ELSE 'Premium (>200€)'
+    END AS price_category,
+    SUM(r.rating * w.num_reviews) / SUM(w.num_reviews) AS weighted_avg_rating
+FROM Wine w
+JOIN Rating r ON w.wineID = r.wineID
+WHERE w.num_reviews > 50
+GROUP BY price_category
+ORDER BY weighted_avg_rating DESC;
 
 
