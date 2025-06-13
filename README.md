@@ -55,13 +55,11 @@ Visibility drives interaction: Expensive, well-rated wines also generate solid a
 
 + Some years yield significantly higher-rated wines, regardless of region or variety.
 
-Though the chart is not included here, statistical testing showed a positive correlation between vintage age and rating, confirming that older wines tend to perform better in consumer reviews — possibly due to enhanced complexity or aging effects in bottle. This supports the commercial value of carrying older vintages where possible.
+Statistical testing showed a positive correlation between vintage age and rating, confirming that older wines tend to perform better in consumer reviews — possibly due to enhanced complexity or aging effects in bottle. This supports the commercial value of carrying older vintages where possible.
 
 ![Average Rating by Year](data/visualizations/ratingbyyear.png)
 
 + Wines with lower acidity will have higher average ratings.
-
-A clear downward trend is observed in average ratings as acidity increases:
 
 Wines with low acidity (1) received the highest average rating of 4.49
 Wines with medium acidity (2) averaged 4.46
@@ -76,3 +74,8 @@ This supports the hypothesis that consumers prefer smoother, less acidic wines, 
 
 Based on the analysis of 2,048 Spanish red wines, our purchasing strategy should prioritize premium price segments, particularly wines priced above €100, which consistently receive higher ratings and generate significantly more consumer engagement. Emphasis should be placed on sourcing aged wines, such as Reserva and Gran Reserva labels, as older vintages are strongly associated with better ratings and greater perceived value. Additionally, data shows that consumers clearly prefer lower-acidity wines, likely due to their smoother and more approachable profiles; therefore, we should favor varietals like Tempranillo and Garnacha with softer mouthfeel. Interestingly, the analysis revealed no strong regional preference, indicating that stocking decisions should be driven more by taste, aging, and price point than by region of origin. Wines in the €50–100 range, which often show moderate ratings but high engagement, are ideal for seasonal promotions and mid-tier value offers. To maintain a dynamic and profitable wine category, we recommend continuously monitoring SKU performance, rotating out underperformers, and investing in top-rated, high-interest wines that align with these data-backed consumer preferences.
 
+
+[Candela Medina](https://github.com/Candlaml)
+[Helin Ozge Kar](https://github.com/helinozge)
+[Klaudija Karat](https://github.com/KlaudijaK)
+[Pedro Goncalves](https://github.com/PedroGoncalves84)
