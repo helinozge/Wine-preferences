@@ -20,9 +20,15 @@ The goal of this project is to analyze the Spanish wine dataset to identify the 
 
 ## Executive Summary
 
-30 secs overview  of most important metrics and most important stats, people should understand the high level trends and the actual values,  important informations for people actually looking for this data
+This analysis of Spanish red wine consumer behavior reveals that price, age, and acidity are the primary drivers of consumer preference and wine ratings. Among four tested hypotheses:
 
-![Dataset ERD](data/visualizations/erd.jpg)
++ Preference for specific regions was not supported — no single region consistently outperformed others in sales or ratings.
++ Higher-priced wines performed significantly better in both sales and average rating, confirming the premiumization trend.
++ Older vintages (wines aged longer) had notably higher average ratings, supporting the value of stocking well-aged bottles.
++ A clear negative correlation between acidity and rating confirms that consumers prefer smoother, lower-acidity wines.
+These findings should guide SKU selection toward premium, aged, and lower-acidity Spanish red wines regardless of origin, optimizing for both customer satisfaction and profitability.
+
+![Dataset ERD](data/visualizations/ERD_Wine_preference.jpg)
 
 
 
@@ -32,13 +38,19 @@ The goal of this project is to analyze the Spanish wine dataset to identify the 
 
 
 
+![Top 20 Preferred Wine Regions (Adjusted for Ratings & Reviews](data/visualizations/top20regions.png)
+
 + There is a positive correlation between wine price and quality rating.
 
 
 
+![Heatmap of Average Number of Reviews by Rating and Price Range](data/visualizations/heatmap.png)
+
 + Some years yield significantly higher-rated wines, regardless of region or variety.
 
 
+
+![Average Rating by Year](data/visualizations/ratingbyyear.png)
 
 + Wines with lower acidity will have higher average ratings.
 
@@ -50,6 +62,8 @@ The goal of this project is to analyze the Spanish wine dataset to identify the 
 
 
 
+![Comparison of Selected Wine Reviews vs Price Range Average](data/visualizations/reviews_price.png)
+![Comparison of Selected Wine Rating vs Price Range Average](data/visualizations/ratingprice.png)
 
 ## Recommendations
 
