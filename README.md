@@ -1,4 +1,4 @@
-# Red Wine Preferences Analyst
+# Wine Preferences Analyst
 
 Table of Contents
 + [Project Overview](#project-overview)
@@ -7,7 +7,8 @@ Table of Contents
 + [Insights Deep-Dive](#insights-deep-dive)
 + [Recommendations](#recommendations)
 
-[Presentation](url)
+[Presentation](https://www.canva.com/design/DAGprLrf6c4/MFtIaeRMHzFMl2EWR7Ku9w/view?utm_content=DAGprLrf6c4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h34f46bffee)
+[Trello](https://trello.com/b/wtWKPymD)
 
 
 ## Project Overview
@@ -20,7 +21,7 @@ The goal of this project is to analyze the Spanish wine dataset to identify the 
 
 ## Executive Summary
 
-This analysis of Spanish red wine consumer behavior reveals that price, age, and acidity are the primary drivers of consumer preference and wine ratings. Among four tested hypotheses:
+This analysis of Spanish wine consumer behavior reveals that age and acidity are the primary drivers of consumer preference and wine ratings. Among four tested hypotheses:
 
 + Preference for specific regions was not supported — no single region consistently outperformed others in sales or ratings.
 + Higher-priced wines performed significantly better in both sales and average rating, confirming the premiumization trend.
@@ -72,7 +73,7 @@ This supports the hypothesis that consumers prefer smoother, less acidic wines, 
 
 ## Recommendations
 
-Based on the analysis of 2,048 Spanish red wines, our purchasing strategy should prioritize premium price segments, particularly wines priced above €100, which consistently receive higher ratings and generate significantly more consumer engagement. Emphasis should be placed on sourcing aged wines, such as Reserva and Gran Reserva labels, as older vintages are strongly associated with better ratings and greater perceived value. Additionally, data shows that consumers clearly prefer lower-acidity wines, likely due to their smoother and more approachable profiles; therefore, we should favor varietals like Tempranillo and Garnacha with softer mouthfeel. Interestingly, the analysis revealed no strong regional preference, indicating that stocking decisions should be driven more by taste, aging, and price point than by region of origin. Wines in the €50–100 range, which often show moderate ratings but high engagement, are ideal for seasonal promotions and mid-tier value offers. To maintain a dynamic and profitable wine category, we recommend continuously monitoring SKU performance, rotating out underperformers, and investing in top-rated, high-interest wines that align with these data-backed consumer preferences.
+Based on the analysis of 2,048 Spanish wines, our purchasing strategy should prioritize premium price segments, particularly wines priced above €100, which consistently receive higher ratings and generate significantly more consumer engagement. Emphasis should be placed on sourcing aged wines, such as Reserva and Gran Reserva labels, as older vintages are strongly associated with better ratings and greater perceived value. Additionally, data shows that consumers clearly prefer lower-acidity wines, likely due to their smoother and more approachable profiles; therefore, we should favor varietals like Tempranillo and Garnacha with softer mouthfeel. Interestingly, the analysis revealed no strong regional preference, indicating that stocking decisions should be driven more by taste, aging, and price point than by region of origin. Wines in the €50–100 range, which often show moderate ratings but high engagement, are ideal for seasonal promotions and mid-tier value offers. To maintain a dynamic and profitable wine category, we recommend continuously monitoring SKU performance, rotating out underperformers, and investing in top-rated, high-interest wines that align with these data-backed consumer preferences.
 
 
 [Candela Medina](https://github.com/Candlaml)
