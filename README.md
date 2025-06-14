@@ -27,7 +27,7 @@ This analysis of Spanish wine consumer behavior reveals that age and acidity are
 + Higher-priced wines performed significantly better in both sales and average rating, confirming the premiumization trend.
 + Older vintages (wines aged longer) had notably higher average ratings, supporting the value of stocking well-aged bottles.
 + A clear negative correlation between acidity and rating confirms that consumers prefer smoother, lower-acidity wines.
-These findings should guide SKU selection toward premium, aged, and lower-acidity Spanish red wines regardless of origin, optimizing for both customer satisfaction and profitability.
+These findings should guide SKU selection toward premium, aged, and lower-acidity Spanish wines regardless of origin, optimizing for both customer satisfaction and profitability.
 
 ![Dataset ERD](data/visualizations/ERD_Wine_preference.jpg)
 
@@ -35,7 +35,7 @@ These findings should guide SKU selection toward premium, aged, and lower-acidit
 
 ## Insights Deep-Dive
 
-Following the cleaning and consolidation of our dataset, we analyzed 2,048 Spanish red wines with detailed attributes including winery, vintage year, region, price, body, acidity, number of reviews, and rating. The goal was to evaluate the influence of key features on consumer preferences and product performance in supermarket settings.
+Following the cleaning and consolidation of our dataset, we analyzed 2,048 Spanish wines with detailed attributes including winery, vintage year, region, price, body, acidity, number of reviews, and rating. The goal was to evaluate the influence of key features on consumer preferences and product performance in supermarket settings.
 
 + Wines from certain Spanish regions will consistently receive higher quality ratings.
 
